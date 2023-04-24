@@ -1,0 +1,10 @@
+Total checked: 6500
+Num correctly evaluated character count: 6496
+True positives: 8665
+True negatives: 40468
+False positives: 293
+False negatives: 2003
+precision: 0.9672918062067426
+recall: 0.8122422197225346
+F1 scores: 0.8830123305818811
+Brier score: 0.0

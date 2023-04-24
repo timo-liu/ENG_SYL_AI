@@ -1,0 +1,2 @@
+run_id,random_seed,val_sample_size,training_time_seconds,y_val_syl_prob,sp_f1_score,sp_precision,sp_recall,sp_brier_score,sp_syllable_accuracy,sp_average_lev,hyph_f1_score,hyph_precision,hyph_recall,hyph_brier_score,hyph_syllable_accuracy,hyph_average_lev
+1.0,1682287354.0,6500.0,690.2680995464325,0.2085723731549367,0.9157175398633257,0.912705031971087,0.91875,0.0,0.9056923076923077,1.1595259799453055,0.8832425276236061,0.972418432559704,0.8090485074626865,0.0,0.7270769230769231,1.1789360558839335

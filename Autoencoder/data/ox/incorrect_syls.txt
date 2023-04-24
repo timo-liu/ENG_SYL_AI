@@ -1,0 +1,234 @@
+Attempt	Real
+faucet	fau-cet
+unhap-py	un-hap-py
+worr-y-ing	wor-ry-ing
+de-voted	de-vot-ed
+man-u-fac-turer	man-u-fac-tur-er
+un-wil-ling	un-will-ing
+se-n-ior	sen-ior
+reli-gious	re-li-gious
+prov-ided	pro-vid-ed
+en-viron-ment	en-vi-ron-ment
+re-peated-ly	re-peat-ed-ly
+ser-ious	se-ri-ous
+lock up	lock up
+a-bili-ty	a-bil-i-ty
+ap-prop-riate	ap-pro-pri-ate
+con-s-cious	con-scious
+sur-roun-ding	sur-round-ing
+hurry up	hur-ry- up
+dishon-est-ly	dis-hon-est-ly
+tablet	tab-let
+cruel	cru-el
+hap-piness	hap-pi-ness
+give away	give away
+re-gu-la-tion	reg-u-la-tion
+substance	sub-stance
+regu-lar-ly	reg-u-lar-ly
+status	sta-tus
+biol-o-gy	bi-ol-o-gy
+pa-lace	pal-ace
+never	nev-er
+e-quivalent	e-quiv-a-lent
+ruin	ru-in
+in-sul-ting	in-sult-ing
+mil-ligram	mil-li-gram
+wil-ling	will-ing
+cul-tu-ral	cul-tur-al
+an-ti-ci-pate	an-tic-i-pate
+me-d-ia	me-di-a
+gen-e-rous	gen-er-ous
+at-tend to	at-tend to
+pro-fit	prof-it
+con-si-dera-ble	con-sid-er-a-ble
+ex-is-tence	ex-ist-ence
+dri-ver	driv-er
+each other	eac-h other
+six-tieth	six-ti-eth
+hang about	hang about
+rep-ly	re-ply
+nov-em-ber	no-vem-ber
+jour-n-ey	jour-ney
+rea-l-ize	re-al-ize
+com-pu-ter	com-put-er
+seventh	sev-enth
+con-cer-ning	con-cern-ing
+phot-oco-py	pho-to-cop-y
+sym-pathe-tic	sym-pa-thet-ic
+li-mit	lim-it
+look round	look round
+poem	po-em
+scien-ti-fic	sci-en-tif-ic
+viol-ent-ly	vi-o-lent-ly
+hero	he-ro
+un-pleasant	un-pleas-ant
+pot-en-tial	po-ten-tial
+ex-pected	expected
+fun-ction as	function as
+to-d-ay	to-day
+in-e-vi-ta-ble	in-ev-i-ta-ble
+al-coh-o-lic	alcoholic
+pois-o-n-ous	poi-son-ous
+mis-take for	mis-take for
+valid	val-id
+dif-ferent-ly	dif-fer-ent-ly
+au-d-ience	au-di-ence
+pron-un-cia-tion	pro-nun-ci-a-tion
+check up on	check up on
+eas-tern	east-ern
+re-lated	re-lat-ed
+pre-sen-ta-tion	pres-en-ta-tion
+fede-r-al	fed-er-al
+rather	rath-er
+derive	de-rive
+con-tem-por-ary	con-tem-po-rar-y
+con-si-dera-tion	con-sid-er-a-tion
+bus-inessman	busi-ness-man
+ow-ner	own-er
+up-set-ting	upsetting
+ra-pid	rap-id
+ca-p-a-ci-ty	ca-pac-i-ty
+not-i-cea-ble	no-tice-a-ble
+bring up	bring up
+catch up	catch up
+fill in	fill in
+fe-br-uary	feb-ru-ar-y
+proba-ble	prob-a-ble
+acid	ac-id
+keep out	keep out
+pol-i-ti-cal	po-lit-i-cal
+cam-ping	camp-ing
+gen-uine	gen-u-ine
+leather	leath-er
+direct	di-rect
+series	se-ries
+an-nual-ly	an-nu-al-ly
+an-x-ie-ty	anx-i-e-ty
+ad-apt	a-dapt
+res-tric-tion	re-stric-tion
+con-tri-bute	con-trib-ute
+other-wise	oth-er-wise
+se-con-dary	sec-ond-ar-y
+fashion-a-ble	fash-ion-a-ble
+every-bod-y	eve-ry-bod-y
+del-i-ver	de-liv-er
+simi-lar-ly	sim-i-lar-ly
+jan-uary	jan-u-ar-y
+frozen	fro-zen
+level	lev-el
+illness	ill-ness
+gather	gath-er
+en-courage	en-cour-age
+ex-ci-t-ing	ex-cit-ing
+ban-dage	band-age
+fuel	fu-el
+un-ders-tand	un-der-stand
+gen-e-r-al	gen-er-al
+layer	lay-er
+heaven	heav-en
+per-son-ali-ty	per-son-al-i-ty
+par-ti-cu-lar-ly	par-tic-u-lar-ly
+bring down	bring down
+in-trod-uc-tion	in-tro-duc-tion
+ap-pro-v-al	ap-prov-al
+per-so-n-al	per-son-al
+spok-en	spo-ken
+phot-og-raphy	pho-tog-ra-phy
+clas-sroom	class-room
+licence	li-cence
+nowhere	no-where
+ob-vious-ly	ob-vi-ous-ly
+ashamed	a-shamed
+pre-pared	prepared
+elect	e-lect
+ele-ven	e-lev-en
+dan-gerous	dan-ger-ous
+ju-n-ior	jun-ior
+pri-m-ary	pri-ma-ry
+delighted	de-light-ed
+re-cord	rec-ord
+id-en-ti-ty	i-den-ti-ty
+al-together	al-to-geth-er
+con-tainer	con-tain-er
+dow-nstairs	down-stairs
+prot-ec-tion	pro-tec-tion
+dying	dy-ing
+ele-gant	el-e-gant
+ci-garette	cig-a-rette
+elec-tri-ci-ty	e-lec-tric-i-ty
+cus-to-mer	cus-tom-er
+viol-ence	vi-o-lence
+cir-cumstance	cir-cum-stance
+mach-in-e-ry	ma-chin-er-y
+mus-i-cian	mu-si-cian
+au-to-mati-cal-ly	au-to-mat-i-cal-ly
+em-ployer	em-ploy-er
+ter-rib-ly	ter-ri-bly
+cycle	cy-cle
+carelessly	care-less-ly
+value	val-ue
+whether	wheth-er
+u-ser	us-er
+chari-ty	char-i-ty
+pro-per	prop-er
+agree	a-gree
+pack-aging	pack-ag-ing
+grand-parent	grand-par-ent
+look through	look through
+burnt	burnt
+de-fini-tion	def-i-ni-tion
+writer	writ-er
+re-com-mend	rec-om-mend
+flooded	flooded
+teacher	teach-er
+go to	go to
+drugs-tore	drug-store
+beyond	be-yond
+en-thu-sias-ti-cal-ly-	en-thu-si-as-ti-cal-ly
+behind	be-hind
+beh-alf	behalf
+ag-ree-ment	a-gree-ment
+seven	sev-en
+cou-sin	cous-in
+re-produce	re-pro-duce
+react	re-act
+mys-te-r-ious	mys-te-ri-ous
+smok-ing	smoking
+per-manent-ly	per-ma-nent-ly
+bas-i-cal-ly	ba-si-cal-ly
+criti-cal	crit-i-cal
+phy-si-cal	phys-i-cal
+dan-cer	danc-er
+frigh-ten	fright-en
+man-a-ger	man-ag-er
+dic-tion-ary	dic-tion-ar-y
+lan-dscape	land-scape
+me-tal	met-al
+go off	go off
+val-ua-ble	val-u-a-ble
+ad-opt	a-dopt
+oc-cur to	oc-cur to
+ben-eath	be-neath
+a-tom	at-om
+pac-k-age	pack-age
+nat-u-r-al	nat-u-ral
+ms	ms
+open	o-pen
+look up to	look up to
+elec-tion	e-lec-tion
+mrs	mrs
+red-uc-tion	re-duc-tion
+pass away	pass away
+agent	a-gent
+gen-tle-man	gent-le-man
+di-s-ap-point-ment	dis-ap-point-ment
+get round to	get round to
+in-e-vi-tab-ly	in-ev-i-ta-bly
+con-fu-sing	con-fus-ing
+fif-tieth	fif-ti-eth
+he-si-tate	hes-i-tate
+bother	both-er
+em-ployee	em-ploy-ee
+rela-tive-ly	rel-a-tive-ly
+Words with errors: 231
+Total evluated: 659
