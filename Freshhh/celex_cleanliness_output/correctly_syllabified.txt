@@ -1,0 +1,1884 @@
+word,ortho_syl,phon_syl,syl_countauger,au-ger,ɔɚ.gəR,2.0
+chaffinch,chaf-finch,tʃæ.fɪntʃ,2.0
+certain,cer-tain,sɚ.tən,2.0
+alkali,al-ka-li,æl.kə.laɪ,3.0
+canary,ca-nar-y,kə.nɛɚ.ɹɪ,3.0
+brazenly,bra-zen-ly,bɹeɪ.zən.lɪ,3.0
+abide by,a-bide by,ə.baɪd.baɪ,3.0
+burnt-out,burnt--out,"bɚnt.aʊt,2.0
+batman,bat-man,bæt.mən,2.0
+cellulose,cel-lu-lose,sɛl.jʊ.loʊs,3.0
+cantonment,can-ton-ment,kæn.tuːn.mənt,3.0
+blow into,blow in-to,bloʊ."ɪn.tuː,3.0
+cashmere,cash-mere,kæʃ.mɪɚR,2.0
+antiseptic,an-ti-sep-tic,"æn.tɪ.sɛp.tɪk,4.0
+bedroom,bed-room,bɛd.ɹʊm,2.0
+broadloom,broad-loom,bɹɔɚd.luːm,2.0
+alfresco,al-fres-co,æl.fɹɛs.koʊ,3.0
+bordello,bor-del-lo,bɔɚ.dɛ.loʊ,3.0
+astray,a-stray,ə.stɹeɪ,2.0
+cockney,cock-ney,kɑk.nɪ,2.0
+bill of health,bill of health,"bɪl.ɑv.hɛlθ,3.0
+Antiguan,An-ti-guan,æn.tiː.gən,3.0
+addiction,ad-dic-tion,ə.dɪk.ʃən,3.0
+comfort,com-fort,kʌm.fət,2.0
+ballroom,ball-room,bɔɚl.ɹʊm,2.0
+bulldozer,bull-doz-er,bʊl.doʊ.zəR,3.0
+bequest,be-quest,bɪ.kwɛst,2.0
+beltway,belt-way,bɛlt.weɪ,2.0
+abbreviate,ab-bre-vi-ate,ə.bɹiː.vɪ.eɪt,4.0
+aloofness,a-loof-ness,ə.luːf.nɪs,3.0
+abstain,ab-stain,əb.steɪn,2.0
+a fortiori,a for-ti-o-ri,"eɪ."fɔɚ.tɪ.ɔɚ.ɹaɪ,5.0
+belt up,belt up,"bɛlt.ʌp,2.0
+ad lib,ad lib,"æd.lɪb,2.0
+break in,break in,"bɹeɪk.ɪn,2.0
+borzoi,bor-zoi,bɔɚ.zɔɪ,2.0
+alive,a-live,ə.laɪv,2.0
+carouse,ca-rouse,kə.ɹaʊz,2.0
+Buna,Bu-na,buː.nə,2.0
+attrition,at-tri-tion,ə.tɹɪ.ʃən,3.0
+assert,as-sert,ə.sɚt,2.0
+absolution,ab-so-lu-tion,"æb.sə.luː.ʃən,4.0
+arrogance,ar-ro-gance,æ.ɹə.gəns,3.0
+among,a-mong,ə.mʌŋ,2.0
+amongst,a-mongst,ə.mʌŋst,2.0
+Colombian,Co-lom-bi-an,kə.lɑm.bɪɚn,3.0
+common-law,com-mon--law,"kɑ.mən.lɔɚ,3.0
+amiable,a-mi-a-ble,eɪ.mjə.bəl,3.0
+bulwark,bul-wark,bʊl.wək,2.0
+chimneybreast,chim-ney-breast,tʃɪm.nɪ.bɹɛst,3.0
+bombshell,bomb-shell,bɑm.ʃɛl,2.0
+bootblack,boot-black,buːt.blæk,2.0
+alkaline,al-ka-line,æl.kə.laɪn,3.0
+absorption,ab-sorp-tion,əb.sɔɚp.ʃən,3.0
+bow tie,bow tie,"boʊ.taɪ,2.0
+clipboard,clip-board,klɪp.bɔɚd,2.0
+circumscribe,cir-cum-scribe,sɚ.kəm.skɹaɪb,3.0
+blue film,blue film,"bluː.fɪlm,2.0
+bitumen,bi-tu-men,bɪ.tjʊ.mɪn,3.0
+better,bet-ter,bɛ.təR,2.0
+Bible,Bi-ble,baɪ.bəl,2.0
+angora,an-go-ra,æŋ.gɔɚ.ɹə,3.0
+betwixt,be-twixt,bɪ.twɪkst,2.0
+buggy,bug-gy,bʌ.gɪ,2.0
+bestowal,be-stow-al,bɪ.stoʊ.əl,3.0
+bellyful,bel-ly-ful,bɛ.lɪ.fʊl,3.0
+bear hug,bear hug,bɛɚ.hʌg,2.0
+bobby pin,bob-by pin,bɑ.bɪ.pɪn,3.0
+bronchial tube,bron-chi-al tube,"bɹɑŋ.kjəl.tjuːb,3.0
+care for,care for,kɛɚ.fɔɚR,2.0
+candyfloss,can-dy-floss,kæn.dɪ.flɑs,3.0
+blackwater fever,black-wa-ter fe-ver,"blæk.wɔɚ.tə.fiː.vəR,5.0
+audibly,au-di-bly,ɔɚ.də.blɪ,3.0
+boneless,bone-less,boʊn.lɪs,2.0
+change into,change in-to,tʃeɪndʒ."ɪn.tuː,3.0
+ambuscade,am-bus-cade,"æm.bəs.keɪd,3.0
+bring back,bring back,"bɹɪŋ.bæk,2.0
+capricious,ca-pri-cious,kə.pɹɪ.ʃəs,3.0
+chorus,cho-rus,kɔɚ.ɹəs,2.0
+antifreeze,an-ti-freeze,æn.tɪ.fɹiːz,3.0
+Christian Scientist,Chris-tian Sci-en-tist,"kɹɪs.tʃən.saɪ.ən.tɪst,5.0
+cheapness,cheap-ness,tʃiːp.nɪs,2.0
+carriageway,car-riage-way,kæ.ɹɪdʒ.weɪ,3.0
+catalpa,ca-tal-pa,kə.tæl.pə,3.0
+come again,come a-gain,"kʌm.ə.gɛn,3.0
+amply,am-ply,æm.plɪ,2.0
+bookstall,book-stall,bʊk.stɔɚl,2.0
+checkpoint,check-point,tʃɛk.pɔɪnt,2.0
+approved school,ap-proved school,ə.pɹuːvd.skuːl,3.0
+clubbable,club-ba-ble,klʌ.bə.bəl,3.0
+Chianti,Chi-an-ti,kɪ.æn.tɪ,3.0
+claptrap,clap-trap,klæp.tɹæp,2.0
+combination,com-bi-na-tion,"kɑm.bɪ.neɪ.ʃən,4.0
+catcall,cat-call,kæt.kɔɚl,2.0
+beeswax,bees-wax,biːz.wæks,2.0
+calculus,cal-cu-lus,kæl.kjʊ.ləs,3.0
+chime in,chime in,"tʃaɪm.ɪn,2.0
+come off,come off,"kʌm.ɑf,2.0
+bandy about,ban-dy a-bout,"bæn.dɪ.ə.baʊt,4.0
+assertiveness,as-ser-tive-ness,ə.sɚ.tɪv.nɪs,4.0
+bedside manner,bed-side man-ner,"bɛd.saɪd.mæ.nəR,4.0
+amuse,a-muse,ə.mjuːz,2.0
+acacia,a-ca-cia,ə.keɪ.ʃə,3.0
+cattish,cat-tish,kæ.tɪʃ,2.0
+bulletin,bul-le-tin,bʊ.lə.tɪn,3.0
+accouchement,ac-couche-ment,ə.kuːʃ.mqŋ,3.0
+bell-bottoms,bell--bot-toms,bɛl."bɑ.təmz,3.0
+Bantu,Ban-tu,"bæn.tuː,2.0
+Burundian,Bu-run-di-an,bʊ.ɹʊn.dɪɚn,3.0
+centennial,cen-ten-ni-al,sɛn.tɛ.njəl,3.0
+admitted,ad-mit-ted,əd.mɪ.tɪd,3.0
+circumstantial,cir-cum-stan-tial,"sɚ.kəm.stæn.ʃəl,4.0
+bombastically,bom-bas-ti-cal-ly,bɑm.bæ.stɪ.klɪ,4.0
+ancestor,an-ces-tor,æn.sɛ.stəR,3.0
+blue baby,blue ba-by,bluː."beɪ.bɪ,3.0
+civilian,ci-vil-ian,sɪ.vɪl.jən,3.0
+beret,be-ret,bɛ.ɹeɪ,2.0
+choicely,choice-ly,tʃɔɪs.lɪ,2.0
+clock-tower,clock--tow-er,klɑk."taʊ.əR,3.0
+above-named,a-bove--named,ə."bʌv.neɪmd,3.0
+adapt,a-dapt,ə.dæpt,2.0
+assassinate,as-sas-si-nate,ə.sæ.sɪ.neɪt,4.0
+come in on,come in on,"kʌm.ɪn.ɑn,3.0
+abash,a-bash,ə.bæʃ,2.0
+beef cattle,beef cat-tle,biːf."kæ.təl,3.0
+chain-smoke,chain--smoke,tʃeɪn.smoʊk,2.0
+bantam,ban-tam,bæn.təm,2.0
+bunghole,bung-hole,bʌŋ.hoʊl,2.0
+atoll,a-toll,æ.tɑl,2.0
+amoeba,a-moe-ba,ə.miː.bə,3.0
+bogey,bo-gey,boʊ.gɪ,2.0
+absurdly,ab-surd-ly,əb.sɚd.lɪ,3.0
+backstair,back-stair,bæk.stɛɚR,2.0
+alcove,al-cove,æl.koʊv,2.0
+adult,a-dult,æ.dʌlt,2.0
+airmail,air-mail,ɛɚ.meɪl,2.0
+client,cli-ent,klaɪ.ənt,2.0
+accoutrements,ac-cou-tre-ments,ə.kuː.tə.mənts,4.0
+Collins,Col-lins,kɑ.lɪnz,2.0
+closed book,closed book,"kloʊzd.bʊk,2.0
+adjudge,ad-judge,ə.dʒʌdʒ,2.0
+bravely,brave-ly,bɹeɪv.lɪ,2.0
+colloquy,col-lo-quy,kɑ.lə.kwɪ,3.0
+break-in,break--in,bɹeɪk.ɪn,2.0
+bifocal,bi-fo-cal,"baɪ.foʊ.kəl,3.0
+basely,base-ly,beɪs.lɪ,2.0
+antimacassar,an-ti-ma-cas-sar,"æn.tɪ.mə.kæ.səR,5.0
+anaemically,a-nae-mi-cal-ly,ə.niː.mɪ.kə.lɪ,5.0
+amnesia,am-ne-sia,æm.niː.zjə,3.0
+brevet,bre-vet,bɹɛ.vɪt,2.0
+bannock,ban-nock,bæ.nək,2.0
+arrears,ar-rears,ə.ɹɪɚz,2.0
+blue moon,blue moon,"bluː.muːn,2.0
+cloudburst,cloud-burst,klaʊd.bɚst,2.0
+accuse,ac-cuse,ə.kjuːz,2.0
+bran-new,bran--new,"bɹæn.njuː,2.0
+ado,a-do,ə.duː,2.0
+believe in,be-lieve in,bɪ.liːv.ɪn,3.0
+ailment,ail-ment,eɪl.mənt,2.0
+bustle with,bus-tle with,bʌ.səl.wɪð,3.0
+cat's paw,cat's paw,kæts.pɔɚ,2.0
+cocktail,cock-tail,kɑk.teɪl,2.0
+burthen,bur-then,bɚ.ðən,2.0
+brilliance,bril-liance,bɹɪl.jəns,2.0
+between,be-tween,bɪ.twiːn,2.0
+blood red,blood red,"blʌd.ɹɛd,2.0
+chop-chop,chop--chop,tʃɑp.tʃɑp,2.0
+auction,auc-tion,ɔɚk.ʃən,2.0
+afloat,a-float,ə.floʊt,2.0
+carrier-bag,car-ri-er--bag,kæ.ɹɪɚ.bæg,3.0
+attempt,at-tempt,ə.tɛmpt,2.0
+bowels,bow-els,baʊ.əlz,2.0
+arrive,ar-rive,ə.ɹaɪv,2.0
+coffin,cof-fin,kɑ.fɪn,2.0
+cautious,cau-tious,kɔɚ.ʃəs,2.0
+catwalk,cat-walk,kæt.wɔɚk,2.0
+alter,al-ter,ɔɚl.təR,2.0
+awareness,a-ware-ness,ə.wɛɚ.nɪs,3.0
+cannily,can-ni-ly,kæ.nɪ.lɪ,3.0
+clear up,clear up,"klɪɚ.ɹʌp,2.0
+bonkers,bon-kers,bɑŋ.kəz,2.0
+baby carriage,ba-by car-riage,beɪ.bɪ."kæ.ɹɪdʒ,4.0
+cauliflower,cau-li-flow-er,kɑ.lɪ."flaʊ.əR,4.0
+acoustic,a-cous-tic,ə.kuː.stɪk,3.0
+bundle off,bun-dle off,"bʌn.dəl.ɑf,3.0
+bagpipe,bag-pipe,bæg.paɪp,2.0
+ad valorem,ad va-lo-rem,"æd.və.lɔɚ.ɹɛm,4.0
+clock-golf,clock--golf,"klɑk.gɑlf,2.0
+beagle,bea-gle,biː.gəl,2.0
+commence,com-mence,kə.mɛns,2.0
+amir,a-mir,ə.mɪɚR,2.0
+chigger,chig-ger,tʃɪ.gəR,2.0
+coalition,co-a-li-tion,"koʊ.ə.lɪ.ʃən,4.0
+bituminous,bi-tu-mi-nous,bɪ.tjuː.mɪ.nəs,4.0
+aureole,au-re-ole,ɔɚ.ɹɪ.oʊl,3.0
+bacterium,bac-te-ri-um,bæk.tɪɚ.ɹɪɚm,3.0
+allegation,al-le-ga-tion,"æ.lɪ.geɪ.ʃən,4.0
+amplifier,am-pli-fi-er,æm.plɪ.faɪ.əR,4.0
+choppiness,chop-pi-ness,tʃɑ.pɪ.nɪs,3.0
+bowsprit,bow-sprit,boʊ.spɹɪt,2.0
+abeyance,a-bey-ance,ə.beɪ.əns,3.0
+brushwood,brush-wood,bɹʌʃ.wʊd,2.0
+closed-door,closed--door,"kloʊzd.dɔɚR,2.0
+burden of proof,bur-den of proof,"bɚ.dən.ɑv.pɹuːf,4.0
+allegedly,al-leg-ed-ly,ə.lɛ.dʒɪd.lɪ,4.0
+bye now,bye now,baɪ.naʊ,2.0
+blackness,black-ness,blæk.nɪs,2.0
+coffers,cof-fers,kɑ.fəz,2.0
+assent,as-sent,ə.sɛnt,2.0
+bungle,bun-gle,bʌŋ.gəl,2.0
+centigrade,cen-ti-grade,sɛn.tɪ.gɹeɪd,3.0
+barefoot,bare-foot,bɛɚ.fʊt,2.0
+bareness,bare-ness,bɛɚ.nɪs,2.0
+ascent,as-cent,ə.sɛnt,2.0
+adventure,ad-ven-ture,əd.vɛn.tʃəR,3.0
+civvy street,civ-vy street,sɪ.vɪ.stɹiːt,3.0
+burdensome,bur-den-some,bɚ.dən.səm,3.0
+ambitiously,am-bi-tious-ly,æm.bɪ.ʃəs.lɪ,4.0
+Christian era,Chris-tian e-ra,"kɹɪs.tʃən.ɪɚ.ɹə,4.0
+brucellosis,bru-cel-lo-sis,"bɹuː.sɪ.loʊ.sɪs,4.0
+ante,an-te,æn.tɪ,2.0
+canton,can-ton,kæn.tɑn,2.0
+basement,base-ment,beɪs.mənt,2.0
+brush up on,brush up on,"bɹʌʃ.ʌp.ɑn,3.0
+ally,al-ly,ə.laɪ,2.0
+above-mentioned,a-bove--men-tioned,ə."bʌv.mɛn.ʃənd,4.0
+abuse,a-buse,ə.bjuːs,2.0
+committee stage,com-mit-tee stage,kə.mɪ.tɪ.steɪdʒ,4.0
+chandelier,chan-de-lier,"ʃæn.də.lɪɚR,3.0
+cellular,cel-lu-lar,sɛl.jʊ.ləR,3.0
+adversely,ad-verse-ly,æd.vɚs.lɪ,3.0
+clumsiness,clum-si-ness,klʌm.zɪ.nɪs,3.0
+badly-behaved,bad-ly--be-haved,"bæd.lɪ.bɪ.heɪvd,4.0
+claw-hammer,claw--ham-mer,klɔɚ."hæ.məR,3.0
+bedaubed,be-daubed,bɪ.dɔɚbd,2.0
+amplify,am-pli-fy,æm.plɪ.faɪ,3.0
+betwixt and between,be-twixt and be-tween,bɪ."twɪkst.ænd.bɪ.twiːn,5.0
+agelessness,age-less-ness,eɪdʒ.lɪs.nɪs,3.0
+commensurably,com-men-su-ra-bly,kə.mɛn.ʃə.ɹə.blɪ,5.0
+Anglophile,An-glo-phile,æŋ.gloʊ.faɪl,3.0
+alliance,al-li-ance,ə.laɪ.əns,3.0
+button-down,but-ton--down,bʌ.tən.daʊn,3.0
+asphodel,as-pho-del,æs.fə.dɛl,3.0
+checkmate,check-mate,tʃɛk.meɪt,2.0
+abysmally,a-bys-mal-ly,ə.bɪz.mə.lɪ,4.0
+codger,cod-ger,kɑ.dʒəR,2.0
+brand as,brand as,bɹænd.æz,2.0
+bijou,bi-jou,biː.ʒuː,2.0
+address,ad-dress,ə.dɹɛs,2.0
+chaconne,cha-conne,ʃə.kɑn,2.0
+camellia,ca-mel-lia,kə.miː.ljə,3.0
+caller,call-er,kɔɚ.ləR,2.0
+bailey,bai-ley,beɪ.lɪ,2.0
+acceptation,ac-cep-ta-tion,"æk.sɛp.teɪ.ʃən,4.0
+bawbee,baw-bee,"bɔɚ.biː,2.0
+assist,as-sist,ə.sɪst,2.0
+catty,cat-ty,kæ.tɪ,2.0
+chamber of commerce,cham-ber of com-merce,"tʃeɪm.bə.ɹɑv.kɑ.mɚs,5.0
+arithmetic progression,a-rith-me-tic pro-gres-sion,æ.ɹɪθ."mɛ.tɪk.pɹoʊ.gɹɛ.ʃən,7.0
+bow to,bow to,baʊ.tuː,2.0
+aimlessly,aim-less-ly,eɪm.lɪs.lɪ,3.0
+bombproof,bomb-proof,bɑm.pɹuːf,2.0
+aseptically,a-sep-ti-cal-ly,eɪ.sɛp.tɪ.kə.lɪ,5.0
+clodhopper,clod-hop-per,klɑd."hɑ.pəR,3.0
+anthropomorphic,an-thro-po-mor-phic,"æn.θɹə.poʊ.mɔɚ.fɪk,5.0
+clamber,clam-ber,klæm.bəR,2.0
+au pair,au pair,"oʊ.pɛɚR,2.0
+authoritatively,au-thor-i-ta-tive-ly,ɔɚ.θɑ.ɹɪ.tə.tɪv.lɪ,6.0
+affix,af-fix,ə.fɪks,2.0
+awash,a-wash,ə.wɑʃ,2.0
+alternate,al-ter-nate,ɔɚl.tə.neɪt,3.0
+canna,can-na,kæ.nə,2.0
+checkrail,check-rail,tʃɛk.ɹeɪl,2.0
+caesura,cae-su-ra,sɪ.zjʊɚ.ɹə,3.0
+accidental,ac-ci-den-tal,"æk.sɪ.dɛn.təl,4.0
+chain bridge,chain bridge,"tʃeɪn.bɹɪdʒ,2.0
+beg off,beg off,"bɛg.ɑf,2.0
+clapboard,clap-board,klæp.bɔɚd,2.0
+coastline,coast-line,koʊst.laɪn,2.0
+button,but-ton,bʌ.tən,2.0
+as to,as to,æz.tuː,2.0
+ambassadorship,am-bas-sa-dor-ship,æ.bæ.sə.də.ʃɪp,5.0
+candour,can-dour,kæn.dəR,2.0
+chessman,chess-man,tʃɛs.mæn,2.0
+brightness,bright-ness,bɹaɪt.nɪs,2.0
+chaplaincy,chap-lain-cy,tʃæp.lɪn.sɪ,3.0
+bayonet,bay-o-net,beɪ.ə.nɪt,3.0
+commencement,com-mence-ment,kə.mɛn.smənt,3.0
+being,be-ing,biː.ɪŋ,2.0
+auction bridge,auc-tion bridge,"ɔɚk.ʃən.bɹɪdʒ,3.0
+ballpoint-pen,ball-point--pen,"bɔɚl.pɔɪnt.pɛn,3.0
+caucus,cau-cus,kɔɚ.kəs,2.0
+cold fish,cold fish,"koʊld.fɪʃ,2.0
+ballot,bal-lot,bæ.lət,2.0
+champaign,cham-paign,tʃæm.peɪn,2.0
+chimpanzee,chim-pan-zee,"tʃɪm.pən.ziː,3.0
+cancel,can-cel,kæn.səl,2.0
+chinaware,chi-na-ware,tʃaɪ.nə.wɛɚR,3.0
+blowfly,blow-fly,bloʊ.flaɪ,2.0
+bust up,bust up,"bʌst.ʌp,2.0
+ciderpress,ci-der-press,saɪ.də.pɹɛs,3.0
+angle,an-gle,æŋ.gəl,2.0
+captiousness,cap-tious-ness,kæp.ʃəs.nɪs,3.0
+absolute zero,ab-so-lute ze-ro,æb.sə.luːt."zɪɚ.ɹoʊ,5.0
+calla,cal-la,kæ.lə,2.0
+boohoo,boo-hoo,"buː.huː,2.0
+Attic,At-tic,æ.tɪk,2.0
+beauteous,beau-te-ous,bjuː.tjəs,2.0
+appendix,ap-pen-dix,ə.pɛn.dɪks,3.0
+batting crease,bat-ting crease,bæ.tɪŋ.kɹiːs,3.0
+burgh,burgh,bʌ.ɹə,2.0
+centrepiece,cen-tre-piece,sɛn.tə.piːs,3.0
+bearskin,bear-skin,bɛɚ.skɪn,2.0
+anopheles,a-noph-e-les,ə.nɑ.fɪ.liːz,4.0
+Bunsen,Bun-sen,bʌn.sən,2.0
+collectively,col-lec-tive-ly,kə.lɛk.tɪv.lɪ,4.0
+bird-cage,bird--cage,bɚd.keɪdʒ,2.0
+aside from,a-side from,ə.saɪd.fɹɑm,3.0
+augury,au-gu-ry,ɔɚ.gjʊ.ɹɪ,3.0
+airman,air-man,ɛɚ.mən,2.0
+collect,col-lect,kə.lɛkt,2.0
+aboard,a-board,ə.bɔɚd,2.0
+Belgian,Bel-gian,bɛl.dʒən,2.0
+assured,as-sured,ə.ʃɔɚd,2.0
+climax,cli-max,klaɪ.mæks,2.0
+bring over,bring o-ver,"bɹɪŋ.oʊ.vəR,3.0
+billfold,bill-fold,bɪl.foʊld,2.0
+caveat emptor,ca-ve-at emp-tor,"kæ.vɪ.æt.ɛmp.tɔɚR,5.0
+brussels sprout,brus-sels sprout,"bɹʌ.səl.spɹaʊts,3.0
+circular saw,cir-cu-lar saw,"sɚ.kjʊ.lə.sɔɚ,4.0
+bowser,bow-ser,baʊ.zəR,2.0
+blandish,blan-dish,blæn.dɪʃ,2.0
+brutal,bru-tal,bɹuː.təl,2.0
+clear-headedness,clear--head-ed-ness,"klɪɚ.hɛ.dɪd.nɪs,4.0
+borderline,bor-der-line,bɔɚ.də.laɪn,3.0
+ball-dress,ball--dress,bɔɚl.dɹɛs,2.0
+ad nauseam,ad nau-se-am,"æd.nɔɚ.zɪ.æm,4.0
+beehive,bee-hive,biː.haɪv,2.0
+cirrus,cir-rus,sɪ.ɹəs,2.0
+all-out,all--out,ɔɚl.aʊt,2.0
+come-uppance,come--up-pance,kʌm.ʌ.pəns,3.0
+bugle,bu-gle,bjuː.gəl,2.0
+bayonet,bay-o-net,beɪ.ə.nɪt,3.0
+coconut matting,co-co-nut mat-ting,"koʊ.kə.nʌt.mæ.tɪŋ,5.0
+bonhomie,bon-ho-mie,bɑ.nə.miː,3.0
+baby-sit,ba-by--sit,beɪ.bɪ."sɪt,3.0
+biosphere,bi-o-sphere,baɪ.oʊ."sfɪɚR,3.0
+cascade,cas-cade,kæ.skeɪd,2.0
+accentuation,ac-cen-tu-a-tion,æk."sɛn.tjʊ.eɪ.ʃən,5.0
+centrist,cen-trist,sɛn.tɹɪst,2.0
+Burberry,Bur-ber-ry,bɚ.bə.ɹɪ,3.0
+aim at,aim at,eɪm.æt,2.0
+bridesmaid,brides-maid,bɹaɪdz.meɪd,2.0
+cold war,cold war,"koʊld.wɔɚR,2.0
+a priori,a pri-o-ri,"eɪ.pɹaɪ.ɔɚ.ɹaɪ,4.0
+backward,back-ward,bæk.wəd,2.0
+bullfinch,bull-finch,bʊl.fɪntʃ,2.0
+blazon,bla-zon,bleɪ.zən,2.0
+adventitious,ad-ven-ti-tious,"æd.vɛn.tɪ.ʃəs,4.0
+attach,at-tach,ə.tætʃ,2.0
+close-cropped,close--cropped,"kloʊs.kɹɑpt,2.0
+blubber,blub-ber,blʌ.bəR,2.0
+blurt out,blurt out,"blɚt.aʊt,2.0
+Belisha,Be-li-sha,bɪ.liː.ʃə,3.0
+bedbug,bed-bug,bɛd.bʌg,2.0
+breezeblock,breeze-block,bɹiːz.blɑk,2.0
+allegretto,al-le-gret-to,"æ.lɪ.gɹɛ.toʊ,4.0
+callipers,cal-li-pers,kæ.lɪ.pəz,3.0
+come over,come o-ver,kʌm."oʊ.vəR,3.0
+broadloom,broad-loom,bɹɔɚd.luːm,2.0
+chemise,che-mise,ʃə.miːz,2.0
+blare out,blare out,"blɛɚ.ɹaʊt,2.0
+adverb,ad-verb,æd.vɚb,2.0
+close-hauled,close--hauled,"kloʊs.hɔɚld,2.0
+auburn,au-burn,ɔɚ.bən,2.0
+automate,au-to-mate,ɔɚ.toʊ.meɪt,3.0
+chauffeur,chauf-feur,ʃoʊ.fəR,2.0
+bullet,bul-let,bʊ.lɪt,2.0
+bejewel,be-jew-el,bɪ.dʒuː.əl,3.0
+circumflex,cir-cum-flex,sɚ.kəm.flɛks,3.0
+cage in,cage in,"keɪdʒ.ɪn,2.0
+blood-donor,blood--do-nor,blʌd."doʊ.nəR,3.0
+biplane,bi-plane,baɪ.pleɪn,2.0
+cocktail lounge,cock-tail lounge,kɑk.teɪl.laʊndʒ,3.0
+abrasion,a-bra-sion,ə.bɹeɪ.ʒən,3.0
+athlete,ath-lete,æθ.liːt,2.0
+cock-up,cock--up,kɑk.ʌp,2.0
+approve,ap-prove,ə.pɹuːv,2.0
+ad-lib,ad--lib,"æd.lɪb,2.0
+baby-sitting,ba-by--sit-ting,beɪ.bɪ."sɪ.tɪŋ,4.0
+become of,be-come of,bɪ.kʌm.ɑv,3.0
+assess,as-sess,ə.sɛs,2.0
+blancmange,blanc-mange,blə.mɑndʒ,2.0
+ash-key,ash--key,æʃ.kiː,2.0
+breadwinner,bread-win-ner,bɹɛd."wɪ.nəR,3.0
+boundlessness,bound-less-ness,baʊnd.lɪs.nɪs,3.0
+alert,a-lert,ə.lɚt,2.0
+bonnet,bon-net,bɑ.nɪt,2.0
+beauty,beau-ty,bjuː.tɪ,2.0
+accretion,ac-cre-tion,æ.kɹiː.ʃən,3.0
+boyish,boy-ish,bɔɪ.ɪʃ,2.0
+anal,a-nal,eɪ.nəl,2.0
+addendum,ad-den-dum,ə.dɛn.dəm,3.0
+afraid,a-fraid,ə.fɹeɪd,2.0
+browbeat,brow-beat,bɹaʊ.biːt,2.0
+acquisition,ac-qui-si-tion,"æ.kwɪ.zɪ.ʃən,4.0
+coat-tails,coat--tails,koʊt.teɪlz,2.0
+cervical,cer-vi-cal,sə.vaɪ.kəl,3.0
+activation,ac-ti-va-tion,"æk.tɪ.veɪ.ʃən,4.0
+bugger about,bug-ger a-bout,"bʌ.gə.ɹə.baʊt,4.0
+cold saw,cold saw,koʊld.sɔɚ,2.0
+anthracite,an-thra-cite,æn.θɹə.saɪt,3.0
+coffer,cof-fer,kɑ.fəR,2.0
+bellow,bel-low,bɛ.loʊ,2.0
+coequal,co-e-qual,koʊ.iː.kwəl,3.0
+beachwear,beach-wear,biːtʃ.wɛɚR,2.0
+birthrate,birth-rate,bɚθ.ɹeɪt,2.0
+adhere,ad-here,əd.hɪɚR,2.0
+attack,at-tack,ə.tæk,2.0
+build into,build in-to,bɪld."ɪn.tuː,3.0
+belabour,be-la-bour,bɪ.leɪ.bəR,3.0
+banshee,ban-shee,bæn.ʃiː,2.0
+circus,cir-cus,sɚ.kəs,2.0
+adjective,ad-jec-tive,æ.dʒɪk.tɪv,3.0
+annul,an-nul,ə.nʌl,2.0
+bloodlust,blood-lust,blʌd.lʌst,2.0
+bombardier,bom-bar-dier,"bɑm.bə.dɪɚR,3.0
+bluebag,blue-bag,bluː.bæg,2.0
+baby-faced,ba-by--faced,beɪ.bɪ."feɪst,3.0
+cheetah,chee-tah,tʃiː.tə,2.0
+besides,be-sides,bɪ.saɪdz,2.0
+amorphousness,a-mor-phous-ness,ə.mɔɚ.fəs.nɪs,4.0
+borderland,bor-der-land,bɔɚ.də.lænd,3.0
+breech-block,breech--block,bɹiːtʃ.blɑk,2.0
+accomplice,ac-com-plice,ə.kʌm.plɪs,3.0
+blissfulness,bliss-ful-ness,blɪs.fʊl.nɪs,3.0
+allegretto,al-le-gret-to,"æ.lɪ.gɹɛ.toʊ,4.0
+but then,but then,"bʌt.ðɛn,2.0
+boatman,boat-man,boʊt.mən,2.0
+backward country,back-ward coun-try,"bæ.kwəd.kʌn.tɹɪ,4.0
+coital,co-i-tal,koʊ.ɪ.təl,3.0
+clairvoyant,clair-voy-ant,klɛɚ.vɔɪ.ənt,3.0
+block out,block out,"blɑk.aʊt,2.0
+bacchanalian,bac-cha-na-lian,"bæ.kə.neɪ.ljən,4.0
+collective noun,col-lec-tive noun,kə."lɛk.tɪv.naʊn,4.0
+build on,build on,bɪld.ɑn,2.0
+commons,com-mons,kɑ.mənz,2.0
+close out,close out,"kloʊz.aʊt,2.0
+Caerphilly,Caer-phil-ly,kɛɚ.fɪ.lɪ,3.0
+backtrack,back-track,bæk.tɹæk,2.0
+balls-up,balls--up,bɔɚlz.ʌp,2.0
+absurd,ab-surd,əb.sɚd,2.0
+Black Muslim,Black Mus-lim,"blæk.mʊ.slɪm,3.0
+cogent,co-gent,koʊ.dʒənt,2.0
+barrow-man,bar-row--man,bæ.ɹoʊ.mæn,3.0
+awake,a-wake,ə.weɪk,2.0
+bejewelled,be-jew-elled,bɪ.dʒuː.əld,3.0
+accused,ac-cused,ə.kjuːzd,2.0
+burn up,burn up,"bɚn.ʌp,2.0
+bulldoze,bull-doze,bʊl.doʊz,2.0
+bilingual,bi-lin-gual,baɪ.lɪŋ.gwəl,3.0
+blind alley,blind al-ley,"blaɪnd.æ.lɪ,3.0
+central,cen-tral,sɛn.tɹəl,2.0
+approbate,ap-pro-bate,æ.pɹoʊ.beɪt,3.0
+bone china,bone chi-na,"boʊn.tʃaɪ.nə,3.0
+bobbin,bob-bin,bɑ.bɪn,2.0
+beldame,bel-dame,bɛl.dəm,2.0
+circle,cir-cle,sɚ.kəl,2.0
+angel,an-gel,eɪn.dʒəl,2.0
+aubergine,au-ber-gine,oʊ.bə.ʒiːn,3.0
+cheapskate,cheap-skate,tʃiːp.skeɪt,2.0
+bungler,bun-gler,bʌŋ.gləR,2.0
+cannot,can-not,kæ.nɑt,2.0
+annunciate,an-nun-ci-ate,ə.nʌn.sɪ.eɪt,4.0
+Broad Church,Broad Church,"bɹɔɚd.tʃɚtʃ,2.0
+accessible,ac-ces-si-ble,ək.sɛ.sə.bəl,4.0
+ball-up,ball--up,bɔɚl.ʌp,2.0
+athwart,a-thwart,ə.θwɔɚt,2.0
+chop off,chop off,"tʃɑp.ɑf,2.0
+bedclothes,bed-clothes,bɛd.kloʊðz,2.0
+baldly,bald-ly,bɔɚld.lɪ,2.0
+allowance,al-low-ance,ə.laʊ.əns,3.0
+burdock,bur-dock,bɚ.dɑk,2.0
+coercion,co-er-cion,koʊ.ɚ.ʃən,3.0
+bolero,bo-le-ro,bə.lɛɚ.ɹoʊ,3.0
+Anguillan,An-guil-lan,æŋ.gwɪ.lən,3.0
+cloven foot,clo-ven foot,"kloʊ.vən.fʊt,3.0
+cleanly,clean-ly,klɛn.lɪ,2.0
+beguile,be-guile,bɪ.gaɪl,2.0
+classics,clas-sics,klæ.sɪks,2.0
+bald-pate,bald--pate,bɔɚld.peɪt,2.0
+bibliophile,bib-li-o-phile,bɪ.blɪ.oʊ.faɪl,4.0
+big stick,big stick,"bɪg.stɪk,2.0
+ago,a-go,ə.goʊ,2.0
+besiege,be-siege,bɪ.siːdʒ,2.0
+bed and breakfast,bed and break-fast,"bɛd.ænd.bɹɛk.fəst,4.0
+breeze through,breeze through,bɹiːz.θɹuː,2.0
+cannon-fodder,can-non--fod-der,kæ.nən."fɑ.dəR,4.0
+cocoon,co-coon,kə.kuːn,2.0
+account,ac-count,ə.kaʊnt,2.0
+chest of drawers,chest of draw-ers,"tʃɛst.ɑv.dɹɔɚz,3.0
+coir,coir,kɔɪ.əR,2.0
+aware,a-ware,ə.wɛɚR,2.0
+bluebeard,blue-beard,bluː."bɪɚd,2.0
+bill of fare,bill of fare,"bɪl.ɑv.fɛɚR,3.0
+betterment,bet-ter-ment,bɛ.tə.mənt,3.0
+anger,an-ger,æŋ.gəR,2.0
+astrodome,as-tro-dome,æ.stɹə.doʊm,3.0
+actively,ac-tive-ly,æk.tɪv.lɪ,3.0
+ampoule,am-poule,æm.puːl,2.0
+brown rice,brown rice,"bɹaʊn.ɹaɪs,2.0
+antiseptic,an-ti-sep-tic,"æn.tɪ.sɛp.tɪk,4.0
+aforementioned,a-fore-men-tioned,ə."fɔɚ.mɛn.ʃənd,4.0
+array,ar-ray,ə.ɹeɪ,2.0
+cheerless,cheer-less,tʃɪɚ.lɪs,2.0
+bluffness,bluff-ness,blʌf.nɪs,2.0
+beastly,beast-ly,biːst.lɪ,2.0
+Anguillan,An-guil-lan,æŋ.gwɪ.lən,3.0
+barrow-boy,bar-row--boy,bæ.ɹoʊ.bɔɪ,3.0
+capture,cap-ture,kæp.tʃəR,2.0
+antidote,an-ti-dote,æn.tɪ.doʊt,3.0
+coco,co-co,koʊ.koʊ,2.0
+coddle,cod-dle,kɑ.dəl,2.0
+antediluvian,an-te-di-lu-vi-an,"æn.tɪ.dɪ.luː.vjən,5.0
+choppers,chop-pers,tʃɑ.pəz,2.0
+black power,black pow-er,"blæk.paʊ.əR,3.0
+adverbial,ad-ver-bi-al,əd.vɚ.bjəl,3.0
+black-eyed,black--eyed,blæk.aɪd,2.0
+canoe,ca-noe,kə.nuː,2.0
+brainless,brain-less,bɹeɪn.lɪs,2.0
+capriccio,ca-pric-ci-o,kə.pɹɪ.tʃɪ.oʊ,4.0
+appeal,ap-peal,ə.piːl,2.0
+assay,as-say,ə.seɪ,2.0
+amour,a-mour,ə.mʊɚR,2.0
+annuity,an-nu-i-ty,ə.njuː.ɪ.tɪ,4.0
+come across,come a-cross,"kʌm.ə.kɹɑs,3.0
+cockroach,cock-roach,kɑk.ɹoʊtʃ,2.0
+cat's eye,cat's eye,kæts.aɪ,2.0
+bang-on,bang--on,"bæŋ.ɑn,2.0
+combine,com-bine,kɑm.baɪn,2.0
+bookclub,book-club,bʊk.klʌb,2.0
+boron,bo-ron,bɔɚ.ɹɑn,2.0
+blue law,blue law,bluː.lɔɚ,2.0
+bearishness,bear-ish-ness,bɛɚ.ɹɪʃ.nɪs,3.0
+boldfaced,bold-faced,boʊld.feɪst,2.0
+censer,cen-ser,sɛn.səR,2.0
+backboard,back-board,bæk.bɔɚd,2.0
+adherent,ad-her-ent,əd.hɪɚ.ɹənt,3.0
+chieftainship,chief-tain-ship,tʃiːf.tən.ʃɪp,3.0
+banquet,ban-quet,bæŋ.kwɪt,2.0
+beauty shop,beau-ty shop,bjuː.tɪ.ʃɑp,3.0
+acid test,ac-id test,"æ.sɪd.tɛst,3.0
+butt in,butt in,"bʌt.ɪn,2.0
+bring about,bring a-bout,"bɹɪŋ.ə.baʊt,3.0
+beyond,be-yond,bɪ.jɑnd,2.0
+breathe out,breathe out,"bɹiːð.aʊt,2.0
+bidding,bid-ding,bɪ.dɪŋ,2.0
+applejack,ap-ple-jack,æ.pəl.dʒæk,3.0
+ballpoint,ball-point,bɔɚl.pɔɪnt,2.0
+chilliness,chil-li-ness,tʃɪ.lɪ.nɪs,3.0
+commission,com-mis-sion,kə.mɪ.ʃən,3.0
+boat-train,boat--train,boʊt.tɹeɪn,2.0
+Burmese,Bur-mese,"bɚ.miːz,2.0
+beetle-browed,bee-tle--browed,biː.təl.bɹaʊd,3.0
+backlash,back-lash,bæk.læʃ,2.0
+balsa,bal-sa,bɑl.sə,2.0
+aggressive,ag-gres-sive,ə.gɹɛ.sɪv,3.0
+blackberrying,black-ber-ry-ing,blæk."bɛ.ɹɪ.ɪŋ,4.0
+build up,build up,"bɪld.ʌp,2.0
+cloud chamber,cloud cham-ber,klaʊd."tʃeɪm.bəR,3.0
+commerce,com-merce,kɑ.mɚs,2.0
+bandbox,band-box,bænd.bɑks,2.0
+bruin,bru-in,bɹuː.ɪn,2.0
+close-cut,close--cut,"kloʊs.kʌt,2.0
+billet-doux,bil-let--doux,"bɪ.leɪ.duː,3.0
+brinksmanship,brinks-man-ship,bɹɪŋk.mən.ʃɪp,3.0
+Band-Aid,Band--Aid,bænd.eɪd,2.0
+coeval,co-e-val,koʊ.iː.vəl,3.0
+channel,chan-nel,tʃæ.nəl,2.0
+audit,au-dit,ɔɚ.dɪt,2.0
+ancient,an-cient,eɪn.ʃənt,2.0
+comfortless,com-fort-less,kʌm.fət.lɪs,3.0
+autosuggestion,au-to-sug-ges-tion,"ɔɚ.toʊ.sə.dʒɛs.tʃən,5.0
+blue-collar,blue--col-lar,"bluː.kɑ.ləR,3.0
+afoul,a-foul,ə.faʊl,2.0
+book in,book in,"bʊk.ɪn,2.0
+by the bye,by the bye,"baɪ.ðə.baɪ,3.0
+certitude,cer-ti-tude,sɚ.tɪ.tjuːd,3.0
+clayey,clay-ey,kleɪ.ɪ,2.0
+bumptious,bump-tious,bʌmp.ʃəs,2.0
+behove,be-hove,bɪ.hoʊv,2.0
+chewing-gum,chew-ing--gum,tʃuː.ɪŋ.gʌm,3.0
+block in,block in,"blɑk.ɪn,2.0
+Bactria,Bac-tri-a,bæk.tɹɪɚ,2.0
+bunkum,bun-kum,bʌŋ.kəm,2.0
+cadmium,cad-mi-um,kæd.mɪɚm,2.0
+close-set,close--set,"kloʊs.sɛt,2.0
+broadwise,broad-wise,bɹɔɚd.waɪz,2.0
+bacon,ba-con,beɪ.kən,2.0
+bale out,bale out,"beɪl.aʊt,2.0
+closed shop,closed shop,"kloʊzd.ʃɑp,2.0
+bowlful,bowl-ful,boʊl.fʊl,2.0
+anticlockwise,an-ti-clock-wise,"æn.tɪ.klɑk.waɪz,4.0
+commotion,com-mo-tion,kə.moʊ.ʃən,3.0
+afresh,a-fresh,ə.fɹɛʃ,2.0
+barelegged,bare-leg-ged,"bɛɚ.lɛgd,2.0
+aggro,ag-gro,æ.gɹoʊ,2.0
+babyhood,ba-by-hood,beɪ.bɪ.hʊd,3.0
+billiards,bil-liards,bɪ.ljədz,2.0
+accommodations,ac-com-mo-da-tions,ə."kɑ.mə.deɪ.ʃənz,5.0
+bulletproof,bul-let-proof,bʊ.lɪt.pɹuːf,3.0
+coachwork,coach-work,koʊtʃ.wɚk,2.0
+coincidentally,co-in-ci-den-tal-ly,koʊ."ɪn.sɪ.dɛn.tə.lɪ,6.0
+abhorrence,ab-hor-rence,əb.hɑ.ɹəns,3.0
+call down,call down,"kɔɚl.daʊn,2.0
+circular,cir-cu-lar,sɚ.kjʊ.ləR,3.0
+awake to,a-wake to,ə.weɪk.tuː,3.0
+ad hoc,ad hoc,"æd.hɑk,2.0
+combat,com-bat,kɑm.bæt,2.0
+brush off,brush off,"bɹʌʃ.ɑf,2.0
+borderline,bor-der-line,bɔɚ.də.laɪn,3.0
+bust-up,bust--up,bʌst.ʌp,2.0
+carry through,car-ry through,"kæ.ɹɪ.θɹuː,3.0
+booby prize,boo-by prize,buː.bɪ.pɹaɪz,3.0
+cautiously,cau-tious-ly,kɔɚ.ʃəs.lɪ,3.0
+brandish,bran-dish,bɹæn.dɪʃ,2.0
+blowlamp,blow-lamp,bloʊ.læmp,2.0
+black spot,black spot,blæk.spɑt,2.0
+beforehand,be-fore-hand,bɪ.fɔɚ.hænd,3.0
+befittingly,be-fit-ting-ly,bɪ.fɪ.tɪŋ.lɪ,4.0
+bandoleer,ban-do-leer,"bæn.doʊ.lɪɚR,3.0
+burdensomeness,bur-den-some-ness,bɚ.dən.səm.nɪs,4.0
+cloakroom,cloak-room,kloʊk.ɹʊm,2.0
+aspirate,as-pi-rate,æ.spə.ɹeɪt,3.0
+above,a-bove,ə.bʌv,2.0
+amalgam,a-mal-gam,ə.mæl.gəm,3.0
+collier,col-lier,kɑ.lɪɚR,2.0
+billiard-table,bil-liard--ta-ble,bɪ.ljəd."teɪ.bəl,4.0
+Andorra,An-dor-ra,æn.dɔɚ.ɹə,3.0
+centipede,cen-ti-pede,sɛn.tɪ.piːd,3.0
+accident,ac-ci-dent,æk.sɪ.dənt,3.0
+beginning,be-gin-ning,bɪ.gɪ.nɪŋ,3.0
+commandant,com-man-dant,"kɑ.mən.dænt,3.0
+byroad,by-road,baɪ.ɹoʊd,2.0
+appropriation,ap-pro-pri-a-tion,ə."pɹoʊ.pɹɪ.eɪ.ʃən,5.0
+bower,bow-er,baʊ.əR,2.0
+bobby-socks,bob-by--socks,bɑ.bɪ.sɑks,3.0
+captive audience,cap-tive au-di-ence,"kæp.tɪv.ɔɚ.djəns,4.0
+break out,break out,"bɹeɪk.aʊt,2.0
+aground,a-ground,ə.gɹaʊnd,2.0
+amount to,a-mount to,ə.maʊnt.tuː,3.0
+babel,ba-bel,beɪ.bəl,2.0
+big-boned,big--boned,"bɪg.boʊnd,2.0
+clean-bowled,clean--bowled,"kliːn.boʊld,2.0
+air-to-ground,air--to--ground,"ɛɚ.tuː.gɹaʊnd,3.0
+chinchilla,chin-chil-la,tʃɪn.tʃɪ.lə,3.0
+bittersweet,bit-ter-sweet,bɪ.tə.swiːt,3.0
+clutch at,clutch at,klʌtʃ.æt,2.0
+acceptance,ac-cept-ance,ək.sɛp.təns,3.0
+carry back,car-ry back,"kæ.ɹɪ.bæk,3.0
+bedstead,bed-stead,bɛd.stɛd,2.0
+actor,ac-tor,æk.təR,2.0
+close call,close call,"kloʊs.kɔɚl,2.0
+bloodstained,blood-stained,blʌd.steɪnd,2.0
+ballerina,bal-le-ri-na,"bæ.lə.ɹiː.nə,4.0
+annuitant,an-nu-i-tant,ə.njuː.tənt,3.0
+breakwater,break-wa-ter,bɹeɪk."wɔɚ.təR,3.0
+abbess,ab-bess,æ.bɛs,2.0
+aspectually,as-pec-tu-al-ly,æ.spɛk.tʃʊɚ.lɪ,4.0
+cantankerously,can-tan-ker-ous-ly,kæn.tæŋ.kə.ɹəs.lɪ,5.0
+abstemiously,ab-ste-mi-ous-ly,æb.stiː.mjəs.lɪ,4.0
+babbler,bab-bler,bæ.bəl.əR,3.0
+approbatory,ap-pro-ba-to-ry,"æ.pɹoʊ.beɪ.tə.ɹɪ,5.0
+call on,call on,kɔɚl.ɑn,2.0
+allergy,al-ler-gy,æ.lə.dʒɪ,3.0
+attributively,at-trib-u-tive-ly,ə.tɹɪ.bjʊ.tɪv.lɪ,5.0
+cash flow,cash flow,kæʃ.floʊ,2.0
+assessment,as-sess-ment,ə.sɛs.mənt,3.0
+blacklist,black-list,blæk.lɪst,2.0
+bobsled,bob-sled,bɑb.slɛd,2.0
+avoid,a-void,ə.vɔɪd,2.0
+cocktail dress,cock-tail dress,kɑk.teɪl.dɹɛs,3.0
+better,bet-ter,bɛ.təR,2.0
+bougainvillea,bou-gain-vil-lea,"buː.gən.vɪ.lɪɚ,4.0
+cock-a-hoop,cock--a--hoop,"kɑ.kə.huːp,3.0
+all-day,all--day,ɔɚl.deɪ,2.0
+Burma,Bur-ma,bɚ.mə,2.0
+barrel organ,bar-rel or-gan,bæ.ɹəl."ɔɚ.gən,4.0
+adjacent,ad-ja-cent,ə.dʒeɪ.sənt,3.0
+awhile,a-while,ə.waɪl,2.0
+chessboard,chess-board,tʃɛs.bɔɚd,2.0
+air-raid,air--raid,ɛɚ.ɹeɪd,2.0
+audacious,au-da-cious,ɔɚ.deɪ.ʃəs,3.0
+about,a-bout,ə.baʊt,2.0
+autistically,au-tis-ti-cal-ly,ɔɚ.tɪ.stɪ.kə.lɪ,5.0
+backmost,back-most,bæk.moʊst,2.0
+active,ac-tive,æk.tɪv,2.0
+ambidextrous,am-bi-dex-trous,"æm.bɪ.dɛks.tɹəs,4.0
+cocotte,co-cotte,kɑ.kɑt,2.0
+annals,an-nals,æ.nəlz,2.0
+candidate,can-di-date,kæn.dɪ.dət,3.0
+aglow,a-glow,ə.gloʊ,2.0
+age-group,age--group,eɪdʒ."gɹuːp,2.0
+billion,bil-lion,bɪ.ljən,2.0
+auto,au-to,ɔɚ.toʊ,2.0
+antipersonnel,an-ti-per-son-nel,"æn.tɪ.pɚ.sə.nɛl,5.0
+absoluteness,ab-so-lute-ness,æb.sə.luːt.nɪs,4.0
+bountifully,boun-ti-ful-ly,baʊn.tɪ.fʊ.lɪ,4.0
+clamminess,clam-mi-ness,klæ.mɪ.nɪs,3.0
+assemblage,as-sem-blage,ə.sɛm.blɪdʒ,3.0
+baseline,base-line,beɪs.laɪn,2.0
+careworn,care-worn,kɛɚ.wɔɚn,2.0
+broker,bro-ker,bɹoʊ.kəR,2.0
+big business,big busi-ness,"bɪg.bɪz.nɪs,3.0
+anew,a-new,ə.njuː,2.0
+breakfast,break-fast,bɹɛk.fəst,2.0
+bewitch,be-witch,bɪ.wɪtʃ,2.0
+castration,cas-tra-tion,kæs.tɹeɪ.ʃən,3.0
+bailment,bail-ment,beɪl.mənt,2.0
+airworthiness,air-wor-thi-ness,ɛɚ."wɚ.ðɪ.nɪs,4.0
+coitus,co-i-tus,koʊ.ɪ.təs,3.0
+ambulance,am-bu-lance,æm.bjʊ.ləns,3.0
+bestially,bes-tial-ly,bɛs.tjə.lɪ,3.0
+attribution,at-tri-bu-tion,"æ.tɹɪ.bjuː.ʃən,4.0
+come in,come in,"kʌm.ɪn,2.0
+bully,bul-ly,bʊ.lɪ,2.0
+backwards,back-wards,bæk.wədz,2.0
+carefulness,care-ful-ness,kɛɚ.fʊl.nɪs,3.0
+asphalt,as-phalt,æs.fælt,2.0
+bunk bed,bunk bed,bʌŋk.bɛd,2.0
+caprice,ca-price,kə.pɹiːs,2.0
+breastplate,breast-plate,bɹɛst.pleɪt,2.0
+cap-a-pie,cap--a--pie,"kæp.ə.piː,3.0
+baby-talk,ba-by--talk,beɪ.bɪ.tɔɚk,3.0
+air-cooled,air--cooled,ɛɚ."kuːld,2.0
+assortment,as-sort-ment,ə.sɔɚt.mənt,3.0
+bird-brained,bird--brained,bɚd.bɹeɪnd,2.0
+admirable,ad-mi-ra-ble,æd.mə.ɹə.bəl,4.0
+backhand,back-hand,bæk.hænd,2.0
+bye-byes,bye--byes,baɪ.baɪz,2.0
+cohesion,co-he-sion,koʊ.hiː.ʒən,3.0
+call by,call by,kɔɚl.baɪ,2.0
+bas-relief,bas--re-lief,"bæs.ɹɪ.liːf,3.0
+bemuse,be-muse,bɪ.mjuːz,2.0
+cinders,cin-ders,sɪn.dəz,2.0
+bisection,bi-sec-tion,"baɪ.sɛk.ʃən,3.0
+bygones,by-gones,baɪ.gɑnz,2.0
+acquiescence,ac-qui-es-cence,"æ.kwɪ.ɛ.səns,4.0
+celluloid,cel-lu-loid,sɛl.jʊ.lɔɪd,3.0
+century,cen-tu-ry,sɛn.tʃʊ.ɹɪ,3.0
+collusion,col-lu-sion,kə.luː.ʒən,3.0
+chambered nautilus,cham-bered nau-ti-lus,"tʃeɪm.bəd.nɔɚ.tɪ.ləs,5.0
+bacchanal,bac-cha-nal,bæ.kə.nəl,3.0
+birthday,birth-day,bɚθ.deɪ,2.0
+casement window,case-ment win-dow,"keɪs.mənt.wɪn.doʊ,4.0
+cannabis,can-na-bis,kæ.nə.bɪs,3.0
+absently,ab-sent-ly,æb.sənt.lɪ,3.0
+backgammon,back-gam-mon,bæk."gæ.mən,3.0
+beware,be-ware,bɪ.wɛɚR,2.0
+comb-out,comb--out,koʊm.aʊt,2.0
+admonition,ad-mo-ni-tion,"æd.moʊ.nɪ.ʃən,4.0
+chubby,chub-by,tʃʌ.bɪ,2.0
+ballet-skirt,bal-let--skirt,bæ.lɪ.skɚt,3.0
+awfully,aw-ful-ly,ɔɚ.fʊ.lɪ,3.0
+askew,a-skew,ə.skjuː,2.0
+canto,can-to,kæn.toʊ,2.0
+capsicum,cap-si-cum,kæp.sɪ.kəm,3.0
+cash and carry,cash and car-ry,"kæʃ.ænd.kæ.ɹɪ,4.0
+alter ego,al-ter e-go,"æl.tə.ɹɛ.goʊ,4.0
+adornment,a-dorn-ment,ə.dɔɚn.mənt,3.0
+caudally,cau-dal-ly,kɔɚ.dəl.ɪ,3.0
+apex,a-pex,eɪ.pɛks,2.0
+campion,cam-pi-on,kæm.pjən,2.0
+budget,bud-get,bʌ.dʒɪt,2.0
+adhesive,ad-he-sive,əd.hiː.sɪv,3.0
+aggregation,ag-gre-ga-tion,"æ.gɹɪ.geɪ.ʃən,4.0
+comely,come-ly,kʌm.lɪ,2.0
+caress,ca-ress,kə.ɹɛs,2.0
+colon,co-lon,koʊ.lən,2.0
+calumniate,ca-lum-ni-ate,kə.lʌm.nɪ.eɪt,4.0
+bricklaying,brick-lay-ing,bɹɪk."leɪ.ɪŋ,3.0
+cohere,co-here,koʊ.hɪɚR,2.0
+calcine,cal-cine,kæl.saɪn,2.0
+aptitude,ap-ti-tude,æp.tɪ.tjuːd,3.0
+brimful,brim-ful,"bɹɪm.fʊl,2.0
+adjustable,ad-just-a-ble,ə.dʒʌ.stə.bəl,4.0
+balls up,balls up,"bɔɚlz.ʌp,2.0
+cobber,cob-ber,kɑ.bəR,2.0
+aggressor,ag-gres-sor,ə.gɹɛ.səR,3.0
+capon,ca-pon,keɪ.pən,2.0
+coincidence,co-in-ci-dence,koʊ.ɪn.sɪ.dəns,4.0
+begad,be-gad,bɪ.gæd,2.0
+abscess,ab-scess,æb.sɪs,2.0
+baby-face,ba-by--face,beɪ.bɪ.feɪs,3.0
+almanac,al-ma-nac,ɔɚl.mə.næk,3.0
+Burberry,Bur-ber-ry,bɚ.bə.ɹɪ,3.0
+comfy,com-fy,kʌm.fɪ,2.0
+ballcock,ball-cock,bɔɚl.kɑk,2.0
+Chablis,Cha-blis,ʃæ.bliː,2.0
+befog,be-fog,bɪ.fɑg,2.0
+annoying,an-noy-ing,ə.nɔɪ.ɪŋ,3.0
+audaciously,au-da-cious-ly,ɔɚ.deɪ.ʃəs.lɪ,4.0
+cat-and-mouse,cat--and--mouse,"kæt.ænd.maʊs,3.0
+accrue,ac-crue,ə.kɹuː,2.0
+apportion,ap-por-tion,ə.pɔɚ.ʃən,3.0
+bountiful,boun-ti-ful,baʊn.tɪ.fʊl,3.0
+amphora,am-pho-ra,æm.fə.ɹə,3.0
+astir,a-stir,ə.stɚR,2.0
+baffle,baf-fle,bæ.fəl,2.0
+bubbly,bub-bly,bʌ.blɪ,2.0
+buckle down,buck-le down,"bʌ.kəl.daʊn,3.0
+centennially,cen-ten-ni-al-ly,sɛn.tɛ.njə.lɪ,4.0
+chain reaction,chain re-ac-tion,"tʃeɪn.ɹɪ.æk.ʃən,4.0
+close with,close with,kloʊz.wɪð,2.0
+christen,chris-ten,kɹɪ.sən,2.0
+aubrietia,au-brie-tia,ɔɚ.bɹiː.ʃə,3.0
+come about,come a-bout,"kʌm.ə.baʊt,3.0
+come up against,come up a-gainst,"kʌm.ʌp.ə."gɛnst,4.0
+clothespin,clothes-pin,kloʊðz.pɪn,2.0
+bitterly,bit-ter-ly,bɪ.tə.lɪ,3.0
+breast-deep,breast--deep,"bɹɛst.diːp,2.0
+akimbo,a-kim-bo,ə.kɪm.boʊ,3.0
+blunder,blun-der,blʌn.dəR,2.0
+Bordeaux,Bor-deaux,bɔɚ.doʊ,2.0
+aloft,a-loft,ə.lɑft,2.0
+active voice,ac-tive voice,"æk.tɪv.vɔɪs,3.0
+bay leaf,bay leaf,beɪ.liːf,2.0
+acquit,ac-quit,ə.kwɪt,2.0
+clapped-out,clapped--out,"klæpt.aʊt,2.0
+addle-brained,ad-dle--brained,æ.dəl."bɹeɪnd,3.0
+bitty,bit-ty,bɪ.tɪ,2.0
+cobalt,co-balt,koʊ.bɔɚlt,2.0
+aside,a-side,ə.saɪd,2.0
+ante up,an-te up,"æn.tɪ.ʌp,3.0
+arrogantly,ar-ro-gant-ly,æ.ɹə.gənt.lɪ,4.0
+anaesthetize,an-aes-the-tize,æ.niːs.θə.taɪz,4.0
+black flag,black flag,"blæk.flæg,2.0
+brilliant,bril-liant,bɹɪ.ljənt,2.0
+bongo drum,bon-go drum,bɑŋ.goʊ.dɹʌm,3.0
+anus,a-nus,eɪ.nəs,2.0
+baksheesh,bak-sheesh,"bæk.ʃiːʃ,2.0
+accumulatively,ac-cu-mu-la-tive-ly,ə.kjuː.mjʊ.lə.tɪv.lɪ,6.0
+airhole,air-hole,ɛɚ.hoʊl,2.0
+big time,big time,bɪg.taɪm,2.0
+bullnecked,bull-necked,"bʊl.nɛkt,2.0
+chatty,chat-ty,tʃæ.tɪ,2.0
+awake,a-wake,ə.weɪk,2.0
+Celsius,Cel-si-us,sɛl.sɪɚs,2.0
+asymmetry,a-sym-me-try,"eɪ.sɪ.mə.tɹɪ,4.0
+belt out,belt out,"bɛlt.aʊt,2.0
+cognate,cog-nate,kɑg.neɪt,2.0
+alternatively,al-ter-na-tive-ly,ɔɚl.tɚ.nə.tɪv.lɪ,5.0
+cofferdam,cof-fer-dam,kɑ.fə.dæm,3.0
+bedridden,bed-rid-den,bɛd."ɹɪ.dən,3.0
+amiss,a-miss,ə.mɪs,2.0
+brazen-faced,bra-zen--faced,bɹeɪ.zən.feɪst,3.0
+apprentice,ap-pren-tice,ə.pɹɛn.tɪs,3.0
+boxful,box-ful,bɑks.fʊl,2.0
+carry on with,car-ry on with,"kæ.ɹɪ.ɑn.wɪð,4.0
+belly-ache,bel-ly--ache,bɛ.lɪ.eɪk,3.0
+coastwise,coast-wise,koʊst.waɪz,2.0
+act up,act up,"ækt.ʌp,2.0
+belong,be-long,bɪ.lɑŋ,2.0
+ballot-box,bal-lot--box,bæ.lət.bɑks,3.0
+border,bor-der,bɔɚ.dəR,2.0
+blowing-up,blow-ing--up,"bloʊ.ɪŋ.ʌp,3.0
+calliper,cal-li-per,kæ.lɪ.pəR,3.0
+burst in on,burst in on,"bɚst.ɪn.ɑn,3.0
+bazooka,ba-zoo-ka,bə.zuː.kə,3.0
+callus,cal-lus,kæ.ləs,2.0
+away,a-way,ə.weɪ,2.0
+achievement,a-chieve-ment,ə.tʃiːv.mənt,3.0
+attack,at-tack,ə.tæk,2.0
+appreciably,ap-pre-cia-bly,ə.pɹiː.ʃə.blɪ,4.0
+clearway,clear-way,klɪɚ.weɪ,2.0
+alone,a-lone,ə.loʊn,2.0
+baby,ba-by,beɪ.bɪ,2.0
+commandeer,com-man-deer,"kɑ.mən.dɪɚR,3.0
+coley,co-ley,koʊ.lɪ,2.0
+agenda,a-gen-da,ə.dʒɛn.də,3.0
+buoy up,buoy up,"bɔɪ.ʌp,2.0
+aver,a-ver,ə.vɚR,2.0
+boil up,boil up,"bɔɪl.ʌp,2.0
+Caucasia,Cau-ca-sia,kɔɚ.keɪ.zjə,3.0
+arraignment,ar-raign-ment,ə.ɹeɪn.mənt,3.0
+centre-bit,cen-tre--bit,sɛn.tə.bɪt,3.0
+bread-and-butter,bread--and--but-ter,"bɹɛd.ænd.bʌ.təR,4.0
+Asian,A-sian,eɪ.ʃən,2.0
+chamber music,cham-ber mu-sic,tʃeɪm.bə."mjuː.zɪk,4.0
+bluff into,bluff in-to,blʌf."ɪn.tuː,3.0
+atchoo,a-tchoo,ə.tʃuː,2.0
+colossally,co-los-sal-ly,kə.lɑ.sə.lɪ,4.0
+barricade,bar-ri-cade,"bæ.ɹɪ.keɪd,3.0
+comedown,come-down,kʌm.daʊn,2.0
+brush aside,brush a-side,"bɹʌʃ.ə.saɪd,3.0
+chilly,chil-ly,tʃɪ.lɪ,2.0
+bring off,bring off,"bɹɪŋ.ɑf,2.0
+blithesome,blithe-some,blaɪð.səm,2.0
+big deal,big deal,"bɪg.diːl,2.0
+Bolshevik,Bol-she-vik,bɑl.ʃɪ.vɪk,3.0
+boyishly,boy-ish-ly,bɔɪ.ɪʃ.lɪ,3.0
+brochure,bro-chure,bɹoʊ.ʃəR,2.0
+Blackshirt,Black-shirt,blæk.ʃɚt,2.0
+adult,a-dult,æ.dʌlt,2.0
+boom town,boom town,buːm.taʊn,2.0
+assembly room,as-sem-bly room,ə.sɛm.blɪ.ɹʊm,4.0
+clangour,clang-our,klæ.ŋəR,2.0
+birdseed,bird-seed,bɚd.siːd,2.0
+campaign,cam-paign,kæm.peɪn,2.0
+bring through,bring through,"bɹɪŋ.θɹuː,2.0
+broken,bro-ken,bɹoʊ.kən,2.0
+Benedict,Ben-e-dict,bɛ.nɪ.dɪkt,3.0
+automat,au-to-mat,ɔɚ.toʊ.mæt,3.0
+boutique,bou-tique,buː.tiːk,2.0
+autumnally,au-tum-nal-ly,ɔɚ.tʌm.nə.lɪ,4.0
+collie,col-lie,kɑ.lɪ,2.0
+alga,al-ga,æl.gə,2.0
+behindhand,be-hind-hand,bɪ.haɪnd.hænd,3.0
+bigwig,big-wig,bɪg.wɪg,2.0
+appear,ap-pear,ə.pɪɚR,2.0
+attainment,at-tain-ment,ə.teɪn.mənt,3.0
+abundant,a-bun-dant,ə.bʌn.dənt,3.0
+backdoor,back-door,"bæk.dɔɚR,2.0
+blood-letting,blood--let-ting,blʌd."lɛ.tɪŋ,3.0
+campus,cam-pus,kæm.pəs,2.0
+bile-duct,bile--duct,baɪl.dʌkt,2.0
+arithmetic,a-rith-me-tic,ə.ɹɪθ.mə.tɪk,4.0
+as opposed to,as op-posed to,æz.ə.poʊz.tuː,4.0
+alternative,al-ter-na-tive,ɔɚl.tɚ.nə.tɪv,4.0
+Christmas pudding,Christ-mas pud-ding,"kɹɪs.məs.pʊ.dɪŋ,4.0
+bayou,bay-ou,baɪ.uː,2.0
+accurately,ac-cu-rate-ly,æ.kjʊ.ɹət.lɪ,4.0
+bluebeard,blue-beard,bluː."bɪɚd,2.0
+atlantic,at-lan-tic,ət.læn.tɪk,3.0
+brittle,brit-tle,bɹɪ.təl,2.0
+canal boat,ca-nal boat,kə.næl.boʊt,3.0
+calor gas,cal-or gas,kæ.lə.gæs,3.0
+aimless,aim-less,eɪm.lɪs,2.0
+brake horsepower,brake horse-pow-er,"bɹeɪk.hɔɚs."paʊ.əR,4.0
+aggressiveness,ag-gres-sive-ness,ə.gɹɛ.sɪv.nɪs,4.0
+beneath,be-neath,bɪ.niːθ,2.0
+advent,ad-vent,æd.vənt,2.0
+antigen,an-ti-gen,æn.tɪ.dʒən,3.0
+cloddish,clod-dish,klɑ.dɪʃ,2.0
+bighead,big-head,bɪg.hɛd,2.0
+commonalty,com-mon-al-ty,kɑ.mə.nəl.tɪ,4.0
+censure,cen-sure,sɛn.ʃəR,2.0
+broccoli,broc-co-li,bɹɑ.kə.lɪ,3.0
+abnegation,ab-ne-ga-tion,"æb.nɪ.geɪ.ʃən,4.0
+belief,be-lief,bɪ.liːf,2.0
+brimstone,brim-stone,bɹɪm.stoʊn,2.0
+coalhole,coal-hole,koʊl.hoʊl,2.0
+appellant,ap-pel-lant,ə.pɛ.lənt,3.0
+break through,break through,"bɹeɪk.θɹuː,2.0
+align with,a-lign with,ə.laɪn.wɪð,3.0
+centrally,cen-tral-ly,sɛn.tɹə.lɪ,3.0
+addle-head,ad-dle--head,æ.dəl.hɛd,3.0
+ABC,ABC,"eɪ.biː.siː,3.0
+backbencher,back-bench-er,"bæk.bɛn.tʃəR,3.0
+clock-dial,clock--di-al,klɑk."daɪ.əl,3.0
+brainstorm,brain-storm,bɹeɪn.stɔɚm,2.0
+chuckle,chuck-le,tʃʌ.kəl,2.0
+coachman,coach-man,koʊtʃ.mən,2.0
+back-blocks,back--blocks,bæk.blɑks,2.0
+breakaway,break-a-way,bɹeɪk.ə.weɪ,3.0
+ceaseless,cease-less,siːs.lɪs,2.0
+backstage,back-stage,"bæk.steɪdʒ,2.0
+callboy,call-boy,kɔɚl.bɔɪ,2.0
+cave-in,cave--in,keɪv.ɪn,2.0
+cedilla,ce-dil-la,sɪ.dɪ.lə,3.0
+cancel out,can-cel out,"kæn.səl.aʊt,3.0
+balanced diet,bal-anced di-et,"bæ.lənst.daɪ.ət,4.0
+come out with,come out with,"kʌm.aʊt.wɪð,3.0
+committeeman,com-mit-tee-man,kə.mɪ.tɪ.mən,4.0
+bunkered,bun-kered,bʌŋ.kəd,2.0
+chem,chem,kɛ.mɪ.kəl,3.0
+come out,come out,"kʌm.aʊt,2.0
+bird of prey,bird of prey,"bɚd.ɑv.pɹeɪ,3.0
+appease,ap-pease,ə.piːz,2.0
+about-face,a-bout--face,ə."baʊt.feɪs,3.0
+bandy,ban-dy,bæn.dɪ,2.0
+belly button,bel-ly but-ton,bɛ.lɪ."bʌ.tən,4.0
+Burmese,Bur-mese,"bɚ.miːz,2.0
+blowtorch,blow-torch,bloʊ.tɔɚtʃ,2.0
+abjection,ab-jec-tion,æb.dʒɛk.ʃən,3.0
+banquet,ban-quet,bæŋ.kwɪt,2.0
+cassowary,cas-so-war-y,kæ.sə.wɛɚ.ɹɪ,4.0
+bring forward,bring for-ward,"bɹɪŋ.fɔɚ.wəd,3.0
+bison,bi-son,baɪ.sən,2.0
+adjudication,ad-ju-di-ca-tion,ə."dʒuː.dɪ.keɪ.ʃən,5.0
+bedspread,bed-spread,bɛd.spɹɛd,2.0
+apprenticeship,ap-pren-tice-ship,ə.pɹɛn.tɪ.ʃɪp,4.0
+anglicize,an-gli-cize,æŋ.glɪ.saɪz,3.0
+brainwash,brain-wash,bɹeɪn.wɑʃ,2.0
+assure,as-sure,ə.ʃɔɚR,2.0
+backless,back-less,bæk.lɪs,2.0
+airfield,air-field,ɛɚ.fiːld,2.0
+airsick,air-sick,ɛɚ.sɪk,2.0
+come around,come a-round,"kʌm.ə.ɹaʊnd,3.0
+bail out,bail out,"beɪl.aʊt,2.0
+bongo,bon-go,bɑŋ.goʊ,2.0
+caution,cau-tion,kɔɚ.ʃən,2.0
+airlift,air-lift,ɛɚ.lɪft,2.0
+affliction,af-flic-tion,ə.flɪk.ʃən,3.0
+bottleful,bot-tle-ful,bɑ.təl.fʊl,3.0
+b and b,b and b,"biː.ænd.biː,3.0
+affirm,af-firm,ə.fɚm,2.0
+buckskin,buck-skin,bʌk.skɪn,2.0
+asthma,asth-ma,æs.mə,2.0
+annexe,an-nexe,æ.nɛks,2.0
+bonanza,bo-nan-za,boʊ.næn.zə,3.0
+baggy,bag-gy,bæ.gɪ,2.0
+build in,build in,"bɪld.ɪn,2.0
+blackberry,black-ber-ry,blæk.bə.ɹɪ,3.0
+blasphemously,blas-phe-mous-ly,blæs.fə.məs.lɪ,4.0
+authentication,au-then-ti-ca-tion,ɔɚ."θɛn.tɪ.keɪ.ʃən,5.0
+bed down,bed down,"bɛd.daʊn,2.0
+bridge over,bridge o-ver,"bɹɪdʒ.oʊ.vəR,3.0
+cannon,can-non,kæ.nən,2.0
+bring forth,bring forth,"bɹɪŋ.fɔɚθ,2.0
+applied,ap-plied,ə.plaɪd,2.0
+bedrock,bed-rock,bɛd.ɹɑk,2.0
+bubble,bub-ble,bʌ.bəl,2.0
+almost,al-most,ɔɚl.moʊst,2.0
+cantaloup,can-ta-loup,kæn.tə.luːp,3.0
+aluminum,a-lu-mi-num,ə.luː.mɪ.nəm,4.0
+Brazil,Bra-zil,bɹə.zɪl,2.0
+Christmas-box,Christ-mas--box,kɹɪs.məs.bɑks,3.0
+bootlegger,boot-leg-ger,buːt."lɛ.gəR,3.0
+call sign,call sign,kɔɚl.saɪn,2.0
+cayenne,cay-enne,keɪ.ɛn,2.0
+backwardness,back-ward-ness,bæ.kwəd.nɪs,3.0
+ankle,an-kle,æŋ.kəl,2.0
+aggregate,ag-gre-gate,æ.gɹɪ.gət,3.0
+clambake,clam-bake,klæm.beɪk,2.0
+Anglo-Saxon,An-glo--Sax-on,"æŋ.gloʊ.sæk.sən,4.0
+aground,a-ground,ə.gɹaʊnd,2.0
+abreast,a-breast,ə.bɹɛst,2.0
+cattily,cat-ti-ly,kæ.tɪ.lɪ,3.0
+beautiful,beau-ti-ful,bjuː.tə.fʊl,3.0
+breach of the peace,breach of the peace,"bɹiːtʃ.ɑv.ðə.piːs,4.0
+addition,ad-di-tion,ə.dɪ.ʃən,3.0
+boldface,bold-face,boʊld.feɪs,2.0
+boulder,boul-der,boʊl.dəR,2.0
+caffeine,caf-feine,kæ.fiːn,2.0
+belles-lettres,belles--let-tres,"bɛl.lɛ.tɹə,3.0
+chain-letter,chain--let-ter,tʃeɪn."lɛ.təR,3.0
+averse,a-verse,ə.vɚs,2.0
+caudal,cau-dal,kɔɚ.dəl,2.0
+chimneypiece,chim-ney-piece,tʃɪm.nɪ.piːs,3.0
+attention,at-ten-tion,ə.tɛn.ʃən,3.0
+cadence,ca-dence,keɪ.dəns,2.0
+acquiescently,ac-qui-es-cent-ly,"æ.kwɪ.ɛ.sənt.lɪ,5.0
+backbone,back-bone,bæk.boʊn,2.0
+AA,AA,"eɪ.eɪ,2.0
+checkout,check-out,tʃɛk.aʊt,2.0
+bring through,bring through,bɹɪŋ.θɹuː,2.0
+bruit about,bruit a-bout,"bɹuːt.ə.baʊt,3.0
+briefcase,brief-case,bɹiːf.keɪs,2.0
+bridgework,bridge-work,bɹɪdʒ.wɚk,2.0
+cobblestone,cob-ble-stone,kɑ.bəl.stoʊn,3.0
+bafflingly,baf-fling-ly,bæ.flɪŋ.lɪ,3.0
+baggage,bag-gage,bæ.gɪdʒ,2.0
+blackthorn,black-thorn,blæk.θɔɚn,2.0
+coincidental,co-in-ci-den-tal,koʊ."ɪn.sɪ.dɛn.təl,5.0
+airworthy,air-wor-thy,ɛɚ."wɚ.ðɪ,3.0
+centric,cen-tric,sɛn.tɹɪk,2.0
+chop down,chop down,"tʃɑp.daʊn,2.0
+bereaved,be-reaved,bɪ.ɹiːvd,2.0
+bite on,bite on,baɪt.ɑn,2.0
+brandy-ball,bran-dy--ball,bɹæn.dɪ.bɔɚl,3.0
+Achilles tendon,A-chil-les ten-don,ə."kɪ.liːz.tɛn.dən,5.0
+circular,cir-cu-lar,sɚ.kjʊ.ləR,3.0
+clapper,clap-per,klæ.pəR,2.0
+blind date,blind date,"blaɪnd.deɪt,2.0
+blue-pencil,blue--pen-cil,"bluː.pɛn.səl,3.0
+clammy,clam-my,klæ.mɪ,2.0
+captiously,cap-tious-ly,kæp.ʃəs.lɪ,3.0
+acerbity,a-cer-bi-ty,ə.sɚ.bə.tɪ,4.0
+cambric,cam-bric,keɪm.bɹɪk,2.0
+afore,a-fore,ə.fɔɚR,2.0
+accusative,ac-cu-sa-tive,ə.kjuː.zə.tɪv,4.0
+committee,com-mit-tee,kə.mɪ.tɪ,3.0
+Border,Bor-der,bɔɚ.dəR,2.0
+blower,blow-er,bloʊ.əR,2.0
+churn out,churn out,"tʃɚn.aʊt,2.0
+afflict,af-flict,ə.flɪkt,2.0
+Chippendale,Chip-pen-dale,tʃɪ.pən.deɪl,3.0
+ambuscade,am-bus-cade,"æm.bəs.keɪd,3.0
+child's-play,child's--play,tʃaɪldz.pleɪ,2.0
+anaemic,a-nae-mic,ə.niː.mɪk,3.0
+chain saw,chain saw,tʃeɪn.sɔɚ,2.0
+beeswax,bees-wax,biːz.wæks,2.0
+canny,can-ny,kæ.nɪ,2.0
+backband,back-band,bæk.bænd,2.0
+cervix,cer-vix,sɚ.vɪks,2.0
+back dive,back dive,"bæk.daɪv,2.0
+affirmation,af-fir-ma-tion,"æ.fə.meɪ.ʃən,4.0
+brickkiln,brick-kiln,bɹɪk.kɪln,2.0
+buffet,buf-fet,bʊ.feɪ,2.0
+bank on,bank on,bæŋk.ɑn,2.0
+claustrophobia,claus-tro-pho-bi-a,"klɔɚs.tɹə.foʊ.bjə,4.0
+bone-idle,bone--i-dle,"boʊn.aɪ.dəl,3.0
+broad bean,broad bean,"bɹɔɚd.biːn,2.0
+aphasia,a-pha-sia,ə.feɪ.zjə,3.0
+alehouse,ale-house,eɪl.haʊs,2.0
+baby-sitter,ba-by--sit-ter,beɪ.bɪ."sɪ.təR,4.0
+aurora,au-ro-ra,ɔɚ.ɹɔɚ.ɹə,3.0
+beggarliness,beg-gar-li-ness,bɛ.gə.lɪ.nɪs,4.0
+bakelite,ba-ke-lite,beɪ.kə.laɪt,3.0
+attar,at-tar,æ.təR,2.0
+channel,chan-nel,tʃæ.nəl,2.0
+camphor,cam-phor,kæm.fəR,2.0
+adorn,a-dorn,ə.dɔɚn,2.0
+cohort,co-hort,koʊ.hɔɚt,2.0
+coconut,co-co-nut,koʊ.kə.nʌt,3.0
+away,a-way,ə.weɪ,2.0
+bollocks,bol-locks,bɑ.ləks,2.0
+as from,as from,æz.fɹɑm,2.0
+breach of confidence,breach of con-fi-dence,"bɹiːtʃ.ɑv.kɑn.fɪ.dəns,5.0
+battiness,bat-ti-ness,bæ.tɪ.nɪs,3.0
+bugger,bug-ger,bʌ.gəR,2.0
+Christendom,Chris-ten-dom,kɹaɪst.dəm,2.0
+blind spot,blind spot,blaɪnd.spɑt,2.0
+bindweed,bind-weed,baɪnd.wiːd,2.0
+bombast,bom-bast,bɑm.bæst,2.0
+byway,by-way,baɪ.weɪ,2.0
+accomplish,ac-com-plish,ə.kʌm.plɪʃ,3.0
+byplay,by-play,baɪ.pleɪ,2.0
+ascertain,as-cer-tain,"æ.sə.teɪn,3.0
+carryings-on,car-ry-ings--on,"kæ.ɹɪ.ɪŋz.ɑn,4.0
+amok,a-mok,ə.mɑk,2.0
+bereavement,be-reave-ment,bɪ.ɹiːv.mənt,3.0
+aweigh,a-weigh,ə.weɪ,2.0
+befall,be-fall,bɪ.fɔɚl,2.0
+airdrome,air-drome,ɛɚ.dɹoʊm,2.0
+arrange for,ar-range for,ə.ɹeɪndʒ.fɔɚR,3.0
+appreciative,ap-pre-cia-tive,ə.pɹiː.ʃjə.tɪv,4.0
+combine,com-bine,kəm.baɪn,2.0
+airbed,air-bed,ɛɚ.bɛd,2.0
+advocate,ad-vo-cate,æd.və.kət,3.0
+bamboo curtain,bam-boo cur-tain,"bæm.buː.kɚ.tən,4.0
+bride-to-be,bride--to--be,"bɹaɪd.tuː.biː,3.0
+auricle,au-ri-cle,ɔɚ.ɹɪ.kəl,3.0
+brainchild,brain-child,bɹeɪn.tʃaɪld,2.0
+agape,a-gape,ə.geɪp,2.0
+between,be-tween,bɪ.twiːn,2.0
+approbation,ap-pro-ba-tion,"æ.pɹoʊ.beɪ.ʃən,4.0
+call in,call in,"kɔɚl.ɪn,2.0
+all right,all right,ɔɚl.ɹaɪt,2.0
+acquiescent,ac-qui-es-cent,"æ.kwɪ.ɛ.sənt,4.0
+aggress,ag-gress,ə.gɹɛs,2.0
+caucus,cau-cus,kɔɚ.kəs,2.0
+basin,ba-sin,beɪ.sən,2.0
+assault,as-sault,ə.sɔɚlt,2.0
+backroom boy,back-room boy,bæk.ɹʊm.bɔɪ,3.0
+catchword,catch-word,kætʃ.wɚd,2.0
+commingle,com-min-gle,kɑ.mɪŋ.gəl,3.0
+brick over,brick o-ver,"bɹɪk.oʊ.vəR,3.0
+busman,bus-man,bʌs.mən,2.0
+batter,bat-ter,bæ.təR,2.0
+audio,au-di-o,ɔɚ.dɪ.oʊ,3.0
+bugaboo,bug-a-boo,bʌ.gə.buː,3.0
+back of beyond,back of be-yond,"bæk.ɑv.bɪ.jɑnd,4.0
+chaise longue,chaise longue,"ʃeɪz.lɑŋ,2.0
+become,be-come,bɪ.kʌm,2.0
+amalgamate,a-mal-ga-mate,ə.mæl.gə.meɪt,4.0
+begrimed,be-grimed,bɪ.gɹaɪmd,2.0
+aback,a-back,ə.bæk,2.0
+batten down,bat-ten down,"bæ.tən.daʊn,3.0
+amass,a-mass,ə.mæs,2.0
+belly-flop,bel-ly--flop,bɛ.lɪ.flɑp,3.0
+acquittal,ac-quit-tal,ə.kwɪ.təl,3.0
+blue cheese,blue cheese,"bluː.tʃiːz,2.0
+adieu,a-dieu,ə.djuː,2.0
+Chipper,Chip-per,tʃɪ.pəR,2.0
+anguish,an-guish,æŋ.gwɪʃ,2.0
+apple pie,ap-ple pie,"æ.pəl.paɪ,3.0
+Christmas cracker,Christ-mas crack-er,"kɹɪs.məs.kɹæ.kəR,4.0
+chestnut,chest-nut,tʃɛs.nʌt,2.0
+bullfrog,bull-frog,bʊl.fɹɑg,2.0
+anthropoid,an-thro-poid,æn.θɹoʊ.pɔɪd,3.0
+bluntness,blunt-ness,blʌnt.nɪs,2.0
+ad-lib,ad--lib,"æd.lɪb,2.0
+cogwheel,cog-wheel,kɑg.wiːl,2.0
+carry on,car-ry on,"kæ.ɹɪ.ɑn,3.0
+bookshop,book-shop,bʊk.ʃɑp,2.0
+approach,ap-proach,ə.pɹoʊtʃ,2.0
+bus stop,bus stop,bʌs.stɑp,2.0
+burnish,bur-nish,bɚ.nɪʃ,2.0
+andante,an-dan-te,æn.dæn.tɪ,3.0
+anyhow,an-y-how,ɛ.nɪ.haʊ,3.0
+censoriousness,cen-so-ri-ous-ness,sɛn.sɔɚ.ɹɪɚs.nɪs,4.0
+a posteriori,a pos-te-ri-o-ri,"eɪ.pɑ.stɛ.ɹɪ.ɔɚ.ɹaɪ,6.0
+backchat,back-chat,bæk.tʃæt,2.0
+bifurcate,bi-fur-cate,baɪ.fə.keɪt,3.0
+chef-d'oeuvre,chef--d'oeu-vre,"ʃeɪ.dɚ.vɹə,3.0
+burn off,burn off,"bɚn.ɑf,2.0
+beloved,be-lov-ed,bɪ.lʌvd,2.0
+chutney,chut-ney,tʃʌt.nɪ,2.0
+bay-wreath,bay--wreath,beɪ.ɹiːθ,2.0
+accede,ac-cede,æk.siːd,2.0
+Boston,Bos-ton,bɑ.stən,2.0
+betake,be-take,bɪ.teɪk,2.0
+communicably,com-mu-ni-ca-bly,kə.mjuː.nɪ.kə.blɪ,5.0
+across from,a-cross from,ə.kɹɑs.fɹɑm,3.0
+assessor,as-ses-sor,ə.sɛ.səR,3.0
+briskly,brisk-ly,bɹɪsk.lɪ,2.0
+boy scout,boy scout,"bɔɪ.skaʊt,2.0
+bullion,bul-lion,bʊ.ljən,2.0
+Black Country,Black Coun-try,blæk."kʌn.tɹɪ,3.0
+arachnid,a-rach-nid,ə.ɹæk.nɪd,3.0
+clean out,clean out,"kliːn.aʊt,2.0
+agin,a-gin,ə.gɪn,2.0
+burn out,burn out,"bɚn.aʊt,2.0
+bed-roll,bed--roll,bɛd.ɹoʊl,2.0
+apprehension,ap-pre-hen-sion,"æ.pɹɪ.hɛn.ʃən,4.0
+accentuate,ac-cen-tu-ate,æk.sɛn.tjʊ.eɪt,4.0
+bobtailed,bob-tailed,bɑb.teɪld,2.0
+ambition,am-bi-tion,æm.bɪ.ʃən,3.0
+attitude,at-ti-tude,æ.tɪ.tjuːd,3.0
+aggregate,ag-gre-gate,æ.gɹɪ.gət,3.0
+bloodhound,blood-hound,blʌd.haʊnd,2.0
+circumlocution,cir-cum-lo-cu-tion,"sɚ.kəm.lə.kjuː.ʃən,5.0
+clamber,clam-ber,klæm.bəR,2.0
+collect,col-lect,kə.lɛkt,2.0
+billboard,bill-board,bɪl.bɔɚd,2.0
+buttoned-up,but-toned--up,"bʌ.tənd.ʌp,3.0
+blowy,blow-y,bloʊ.ɪ,2.0
+chop suey,chop su-ey,"tʃɑp.suː.ɪ,3.0
+acclamation,ac-cla-ma-tion,"æ.klə.meɪ.ʃən,4.0
+battledress,bat-tle-dress,bæ.təl.dɹɛs,3.0
+cliquishness,cli-quish-ness,kliː.kɪʃ.nɪs,3.0
+bally,bal-ly,bæ.lɪ,2.0
+Anglophobe,An-glo-phobe,æŋ.gloʊ.foʊb,3.0
+carefree,care-free,kɛɚ.fɹiː,2.0
+betwixt,be-twixt,bɪ.twɪkst,2.0
+beaver away,bea-ver a-way,"biː.və.ɹə.weɪ,4.0
+behead,be-head,bɪ.hɛd,2.0
+come out for,come out for,"kʌm.aʊt.fɔɚR,3.0
+acre,a-cre,eɪ.kəR,2.0
+bismuth,bis-muth,bɪz.məθ,2.0
+classify,clas-si-fy,klæ.sɪ.faɪ,3.0
+commonwealth,com-mon-wealth,kɑ.mən.wɛlθ,3.0
+bunk-up,bunk--up,bʌŋk.ʌp,2.0
+acne,ac-ne,æk.nɪ,2.0
+campanologist,cam-pa-nol-o-gist,"kæm.pə.nɑ.lə.dʒɪst,5.0
+career,ca-reer,kə.ɹɪɚR,2.0
+audio frequency,au-di-o fre-quen-cy,ɔɚ.dɪ.oʊ."fɹiː.kwən.sɪ,6.0
+coca,co-ca,koʊ.kə,2.0
+cinnamon,cin-na-mon,sɪ.nə.mən,3.0
+buzz off,buzz off,"bʌz.ɑf,2.0
+bias,bi-as,baɪ.əs,2.0
+absolve,ab-solve,əb.zɑlv,2.0
+arrange,ar-range,ə.ɹeɪndʒ,2.0
+amazon,am-a-zon,æ.mə.zən,3.0
+ambrosia,am-bro-sia,æm.bɹoʊ.zjə,3.0
+cancer,can-cer,kæn.səR,2.0
+chevron,chev-ron,ʃɛ.vɹən,2.0
+assault and battery,as-sault and bat-ter-y,ə."sɔɚlt.ænd.bæ.tə.ɹɪ,6.0
+airframe,air-frame,ɛɚ.fɹeɪm,2.0
+brasserie,bras-se-rie,bɹæ.sə.ɹɪ,3.0
+baseboard,base-board,beɪs.bɔɚd,2.0
+attorn,at-torn,ə.tɚn,2.0
+altar,al-tar,ɔɚl.təR,2.0
+arrowroot,ar-row-root,æ.ɹə.ɹuːt,3.0
+cider,ci-der,saɪ.dəR,2.0
+alike,a-like,ə.laɪk,2.0
+cesspit,cess-pit,sɛs.pɪt,2.0
+cloud-capped,cloud--capped,klaʊd.kæpt,2.0
+black sheep,black sheep,"blæk.ʃiːp,2.0
+bunk off,bunk off,"bʌŋk.ɑf,2.0
+borrow,bor-row,bɑ.ɹoʊ,2.0
+Bushman,Bush-man,bʊʃ.mən,2.0
+cloggy,clog-gy,klɑ.gɪ,2.0
+cobble,cob-ble,kɑ.bəl,2.0
+centrifuge,cen-tri-fuge,sɛn.tɹɪ.fjuːdʒ,3.0
+blossom,blos-som,blɑ.səm,2.0
+chorus-girl,cho-rus--girl,kɔɚ.ɹəs.gɚl,3.0
+chicly,chic-ly,tʃɪ.klɪ,2.0
+awestruck,awe-struck,ɔɚ.stɹʌk,2.0
+backhand,back-hand,bæk.hænd,2.0
+allay,al-lay,ə.leɪ,2.0
+closeout,close-out,kloʊz.aʊt,2.0
+clock out,clock out,"klɑk.aʊt,2.0
+calcination,cal-ci-na-tion,"kæl.sɪ.neɪ.ʃən,4.0
+certified,cer-ti-fied,sɚ.tɪ.faɪd,3.0
+begone,be-gone,bɪ.gɑn,2.0
+accolade,ac-co-lade,æ.koʊ.leɪd,3.0
+bulbul,bul-bul,bʊl.bʊl,2.0
+clumsy,clum-sy,klʌm.zɪ,2.0
+bed out,bed out,"bɛd.aʊt,2.0
+alternative,al-ter-na-tive,ɔɚl.tɚ.nə.tɪv,4.0
+amaze,a-maze,ə.meɪz,2.0
+choiceness,choice-ness,tʃɔɪs.nɪs,2.0
+attractive,at-trac-tive,ə.tɹæk.tɪv,3.0
+centreboard,cen-tre-board,sɛn.tə.bɔɚd,3.0
+babble,bab-ble,bæ.bəl,2.0
+annunciation,an-nun-ci-a-tion,ə."nʌn.sɪ.eɪ.ʃən,5.0
+Christian,Chris-tian,kɹɪs.tʃən,2.0
+bicycle,bi-cy-cle,baɪ.sɪ.kəl,3.0
+check out,check out,"tʃɛk.aʊt,2.0
+bowing,bow-ing,boʊ.ɪŋ,2.0
+cliquey,cli-quey,kliː.kɪ,2.0
+calculation,cal-cu-la-tion,"kæl.kjʊ.leɪ.ʃən,4.0
+alternator,al-ter-na-tor,ɔɚl.tə.neɪ.təR,4.0
+agave,a-ga-ve,ə.geɪ.vɪ,3.0
+Canuck,Ca-nuck,kə.nʌk,2.0
+ad infinitum,ad in-fi-ni-tum,"æd.ɪn.fɪ.naɪ.təm,5.0
+bicycle,bi-cy-cle,baɪ.sɪ.kəl,3.0
+Big Dipper,Big Dip-per,"bɪg.dɪ.pəR,3.0
+chesterfield,ches-ter-field,tʃɛ.stə.fiːld,3.0
+bend to,bend to,bɛnd.tuː,2.0
+arrogant,ar-ro-gant,æ.ɹə.gənt,3.0
+boat-hook,boat--hook,boʊt.hʊk,2.0
+alchemy,al-che-my,æl.kə.mɪ,3.0
+Anglican,An-gli-can,æŋ.glɪ.kən,3.0
+battleground,bat-tle-ground,bæ.təl.gɹaʊnd,3.0
+altitude,al-ti-tude,æl.tɪ.tjuːd,3.0
+alloy,al-loy,ə.lɔɪ,2.0
+coffee shop,cof-fee shop,kɑ.fɪ.ʃɑp,3.0
+business,busi-ness,bɪz.nɪs,2.0
+addle,ad-dle,æ.dəl,2.0
+coalesce,co-a-lesce,"koʊ.ə.lɛs,3.0
+chase about,chase a-bout,"tʃeɪs.ə.baʊt,3.0
+brashly,brash-ly,bɹæʃ.lɪ,2.0
+affectedness,af-fect-ed-ness,ə.fɛk.tɪd.nɪs,4.0
+allegro,al-le-gro,ə.leɪ.gɹoʊ,3.0
+blunderbuss,blun-der-buss,blʌn.də.bʌs,3.0
+clerestory,clere-sto-ry,klɪɚ."stɔɚ.ɹɪ,3.0
+backstroke,back-stroke,bæk.stɹoʊk,2.0
+beauty queen,beau-ty queen,bjuː.tɪ.kwiːn,3.0
+bankruptcy,bank-rupt-cy,bæŋ.kɹəpt.sɪ,3.0
+blimey,bli-mey,blaɪ.mɪ,2.0
+comment,com-ment,kɑ.mɛnt,2.0
+catch up,catch up,"kætʃ.ʌp,2.0
+backward,back-ward,bæk.wəd,2.0
+angrily,an-gri-ly,æn.gɹə.lɪ,3.0
+Chianti,Chi-an-ti,kɪ.æn.tɪ,3.0
+candied,can-died,kæn.dɪd,2.0
+chair-lift,chair--lift,tʃɛɚ.lɪft,2.0
+adjuration,ad-ju-ra-tion,"æ.dʒʊɚ.ɹeɪ.ʃən,4.0
+bikini,bi-ki-ni,bɪ.kiː.nɪ,3.0
+boycott,boy-cott,bɔɪ.kɑt,2.0
+cheesecake,cheese-cake,tʃiːz.keɪk,2.0
+blueberry,blue-ber-ry,bluː.bə.ɹɪ,3.0
+baton,ba-ton,bæ.tən,2.0
+bolthole,bolt-hole,boʊlt.hoʊl,2.0
+clearly,clear-ly,klɪɚ.lɪ,2.0
+beef tea,beef tea,"biːf.tiː,2.0
+airlock,air-lock,ɛɚ.lɑk,2.0
+blizzard,bliz-zard,blɪ.zəd,2.0
+algorithmic,al-go-rith-mic,"æl.gə.ɹɪð.mɪk,4.0
+captor,cap-tor,kæp.təR,2.0
+apprehensively,ap-pre-hen-sive-ly,"æ.pɹɪ.hɛn.sɪv.lɪ,5.0
+commentate,com-men-tate,kɑ.mən.teɪt,3.0
+boyishness,boy-ish-ness,bɔɪ.ɪʃ.nɪs,3.0
+centre forward,cen-tre for-ward,"sɛn.tə.fɔɚ.wəd,4.0
+barebacked,bare-backed,bɛɚ.bækt,2.0
+assiduity,as-si-du-i-ty,"æ.sɪ.djuː.ə.tɪ,5.0
+buckle,buck-le,bʌ.kəl,2.0
+blissful,bliss-ful,blɪs.fʊl,2.0
+chophouse,chop-house,tʃɑp.haʊs,2.0
+bumptiousness,bump-tious-ness,bʌmp.ʃəs.nɪs,3.0
+appropriateness,ap-pro-pri-ate-ness,ə.pɹoʊ.pɹɪɚt.nɪs,4.0
+cabal,ca-bal,kə.bæl,2.0
+clock off,clock off,"klɑk.ɑf,2.0
+allow of,al-low of,ə.laʊ.ɑv,3.0
+block letters,block let-ters,"blɑk.lɛ.təz,3.0
+brocade,bro-cade,bɹoʊ.keɪd,2.0
+chipmunk,chip-munk,tʃɪp.mʌŋk,2.0
+canter,can-ter,kæn.təR,2.0
+bear away,bear a-way,"bɛɚ.ɹə.weɪ,3.0
+border upon,bor-der up-on,bɔɚ.də.ɹə."pɑn,4.0
+candlepower,can-dle-pow-er,kæn.dəl."paʊ.əR,4.0
+camp-stool,camp--stool,kæmp.stuːl,2.0
+come on,come on,"kʌm.ɑn,2.0
+anna,an-na,æ.nə,2.0
+attorney,at-tor-ney,ə.tɚ.nɪ,3.0
+afield,a-field,ə.fiːld,2.0
+boss-eyed,boss--eyed,bɑs.aɪd,2.0
+caboose,ca-boose,kə.buːs,2.0
+classically,clas-si-cal-ly,klæ.sɪ.kə.lɪ,4.0
+blind drunk,blind drunk,"blaɪnd.dɹʌŋk,2.0
+betrothed,be-trothed,bɪ.tɹoʊðd,2.0
+certified mail,cer-ti-fied mail,"sɚ.tɪ.faɪd.meɪl,4.0
+ambitiousness,am-bi-tious-ness,æm.bɪ.ʃəs.nɪs,4.0
+allegory,al-le-go-ry,æ.lɪ.gə.ɹɪ,4.0
+aboveboard,a-bove-board,ə."bʌv.bɔɚd,3.0
+cold-shoulder,cold--shoul-der,"koʊld.ʃoʊl.dəR,3.0
+baron,bar-on,bæ.ɹən,2.0
+attach to,at-tach to,ə.tætʃ.tuː,3.0
+beggar,beg-gar,bɛ.gəR,2.0
+amplitude,am-pli-tude,æm.plɪ.tjuːd,3.0
+bear down,bear down,"bɛɚ.daʊn,2.0
+benignity,be-nig-ni-ty,bɪ.nɪg.nə.tɪ,4.0
+call-in,call--in,kɔɚl.ɪn,2.0
+Chippendale,Chip-pen-dale,tʃɪ.pən.deɪl,3.0
+combustion,com-bus-tion,kəm.bʌs.tʃən,3.0
+aitch-bone,aitch--bone,eɪtʃ.boʊn,2.0
+buckwheat,buck-wheat,bʌk.wiːt,2.0
+bedsit,bed-sit,bɛd.sɪt,2.0
+amble,am-ble,æm.bəl,2.0
+annular,an-nu-lar,æ.njʊ.ləR,3.0
+antenna,an-ten-na,æn.tɛ.nə,3.0
+bless with,bless with,blɛs.wɪð,2.0
+coffee table,cof-fee ta-ble,kɑ.fɪ."teɪ.bəl,4.0
+beat out,beat out,"biːt.aʊt,2.0
+bugler,bu-gler,bjuː.gləR,2.0
+backbench,back-bench,bæk.bɛntʃ,2.0
+Bengalese,Ben-ga-lese,bɛŋ.gə.liːz,3.0
+coeternally,co-e-ter-nal-ly,"koʊ.ɪ.tɚ.nəl.ɪ,5.0
+cable-railway,ca-ble--rail-way,keɪ.bəl."ɹeɪl.weɪ,4.0
+alight,a-light,ə.laɪt,2.0
+bespattered,be-spat-tered,bɪ.spæ.təd,3.0
+antimony,an-ti-mo-ny,æn.tɪ.mə.nɪ,4.0
+annually,an-nu-al-ly,æ.njʊɚ.lɪ,3.0
+borax,bo-rax,bɔɚ.ɹæks,2.0
+athlete's foot,ath-lete's foot,"æθ.liːts.fʊt,3.0
+buckler,buck-ler,bʌ.kləR,2.0
+acuteness,a-cute-ness,ə.kjuːt.nɪs,3.0
+apr`es-ski,a-pres--ski,"æ.pɹeɪ.skiː,3.0
+all-mains,all--mains,"ɔɚl.meɪnz,2.0
+bum around,bum a-round,"bʌm.ə.ɹaʊnd,3.0
+bluebird,blue-bird,bluː.bɚd,2.0
+arrest,ar-rest,ə.ɹɛst,2.0
+abeyant,a-bey-ant,ə.beɪ.ənt,3.0
+close-fitting,close--fit-ting,"kloʊs.fɪ.tɪŋ,3.0
+bedecked,be-decked,bɪ.dɛkt,2.0
+bumblebee,bum-ble-bee,bʌm.bəl.biː,3.0
+clear off,clear off,"klɪɚ.ɹɑf,2.0
+come back,come back,"kʌm.bæk,2.0
+Burundi,Bu-run-di,bʊ.ɹʊn.dɪ,3.0
+abridge,a-bridge,ə.bɹɪdʒ,2.0
+abbey,ab-bey,æ.bɪ,2.0
+barrister,bar-ris-ter,bæ.ɹɪs.təR,3.0
+bluffly,bluff-ly,blʌf.lɪ,2.0
+biceps,bi-ceps,baɪ.sɛps,2.0
+adroitly,a-droit-ly,ə.dɹɔɪt.lɪ,3.0
+Andorran,An-dor-ran,æn.dɔɚ.ɹən,3.0
+blazonry,bla-zon-ry,bleɪ.zən.ɹɪ,3.0
+acclimation,ac-cli-ma-tion,"æk.laɪ.meɪ.ʃən,4.0
+adduce,ad-duce,ə.djuːs,2.0
+Coca-Cola,Co-ca--Co-la,"koʊ.kə.koʊ.lə,4.0
+Angolan,An-go-lan,æŋ.goʊ.lən,3.0
+aviator,a-vi-a-tor,eɪ.vɪ.eɪ.təR,4.0
+Caucasian,Cau-ca-sian,kɔɚ.keɪ.zjən,3.0
+bogey,bo-gey,boʊ.gɪ,2.0
+blow-by-blow,blow--by--blow,"bloʊ.baɪ.bloʊ,3.0
+Chanticleer,Chan-ti-cleer,"tʃæn.tɪ.klɪɚR,3.0
+appreciation,ap-pre-ci-a-tion,ə."pɹiː.ʃɪ.eɪ.ʃən,5.0
+ablative,ab-la-tive,æb.lə.tɪv,3.0
+abandon,a-ban-don,ə.bæn.dən,3.0
+balderdash,bal-der-dash,bɔɚl.də.dæʃ,3.0
+assemble,as-sem-ble,ə.sɛm.bəl,3.0
+barely,bare-ly,bɛɚ.lɪ,2.0
+come out in,come out in,"kʌm.aʊt.ɪn,3.0
+chromosome,chro-mo-some,kɹoʊ.mə.soʊm,3.0
+auditor,au-di-tor,ɔɚ.dɪ.təR,3.0
+cattle grid,cat-tle grid,kæ.təl.gɹɪd,3.0
+cerise,ce-rise,sə.ɹiːz,2.0
+buffalo,buf-fa-lo,bʌ.fə.loʊ,3.0
+cat-o'-nine-tails,cat--o'--nine--tails,"kæt.ə.naɪn.teɪlz,4.0
+boohoo,boo-hoo,"buː.huː,2.0
+arrack,ar-rack,æ.ɹək,2.0
+absinth,ab-sinth,æb.sɪnθ,2.0
+caboodle,ca-boo-dle,kə.buː.dəl,3.0
+buyer,buy-er,baɪ.əR,2.0
+bouzouki,bou-zou-ki,buː.zuː.kɪ,3.0
+betel-nut,be-tel--nut,biː.təl.nʌt,3.0
+cinchona,cin-cho-na,sɪŋ.koʊ.nə,3.0
+come-on,come--on,kʌm.ɑn,2.0
+bell-buoy,bell--buoy,bɛl.bɔɪ,2.0
+backwater,back-wa-ter,bæk."wɔɚ.təR,3.0
+appellant,ap-pel-lant,ə.pɛ.lənt,3.0
+betrayal,be-tray-al,bɪ.tɹeɪ.əl,3.0
+anchoress,an-cho-ress,æŋ.kə.ɹɪs,3.0
+caricature,car-i-ca-ture,kæ.ɹɪ.kə."tjʊɚR,4.0
+backroom,back-room,"bæk.ɹuːm,2.0
+accordion,ac-cor-di-on,ə.kɔɚ.djən,3.0
+actually,ac-tu-al-ly,æk.tʃʊɚ.lɪ,3.0
+barelegged,bare-leg-ged,"bɛɚ.lɛgd,2.0
+cabby,cab-by,kæ.bɪ,2.0
+barracuda,bar-ra-cu-da,"bæ.ɹə.kuː.də,4.0
+blowpipe,blow-pipe,bloʊ.paɪp,2.0
+box off,box off,"bɑks.ɑf,2.0
+bird of passage,bird of pas-sage,"bɚd.ɑv.pæ.sɪdʒ,4.0
+Alsace,Al-sace,æl.sæs,2.0
+appositely,ap-po-site-ly,æ.poʊ.zɪt.lɪ,4.0
+baneful,bane-ful,beɪn.fʊl,2.0
+cathedral,ca-the-dral,kə.θiː.dɹəl,3.0
+calyx,ca-lyx,keɪ.lɪks,2.0
+buttock,but-tock,bʌ.tək,2.0
+anterior,an-te-ri-or,æn.tɪɚ.ɹɪɚR,3.0
+biweekly,bi-week-ly,"baɪ.wiːk.lɪ,3.0
+coed,co-ed,"koʊ.ɛd,2.0
+caveman,cave-man,keɪv.mæn,2.0
+boathouse,boat-house,boʊt.haʊs,2.0
+coalscuttle,coal-scut-tle,koʊl."skʌ.təl,3.0
+boom out,boom out,"buːm.aʊt,2.0
+bustle,bus-tle,bʌ.səl,2.0
+cheapjack,cheap-jack,tʃiːp.dʒæk,2.0
+come along,come a-long,"kʌm.ə.lɑŋ,3.0
+chairperson,chair-per-son,tʃɛɚ."pɚ.sən,3.0
+blot out,blot out,"blɑt.aʊt,2.0
+always,al-ways,ɔɚl.weɪz,2.0
+alligator,al-li-ga-tor,æ.lɪ.geɪ.təR,4.0
+chain-store,chain--store,tʃeɪn.stɔɚR,2.0
+circulation,cir-cu-la-tion,"sɚ.kjʊ.leɪ.ʃən,4.0
+calliope,cal-li-o-pe,kə.laɪ.ə.pɪ,4.0
+assent,as-sent,ə.sɛnt,2.0
+Belgian,Bel-gian,bɛl.dʒən,2.0
+commensurate,com-men-su-rate,kə.mɛn.ʃə.ɹət,4.0
+cater for,ca-ter for,keɪ.tə.fɔɚR,3.0
+best man,best man,"bɛst.mæn,2.0
+cable-length,ca-ble--length,keɪ.bəl.lɛŋθ,3.0
+Colonel Blimp,Colo-nel Blimp,"kɚ.nəl.blɪmp,3.0
+admissible,ad-mis-si-ble,əd.mɪ.sə.bəl,4.0
+agility,a-gil-i-ty,ə.dʒɪ.lə.tɪ,4.0
+cloverleaf,clo-ver-leaf,kloʊ.və."liːf,3.0
+centime,cen-time,sɑn.tiːm,2.0
+aggrandize,ag-gran-dize,ə.gɹæn.daɪz,3.0
+battlements,bat-tle-ments,bæ.təl.mənts,3.0
+adventitiously,ad-ven-ti-tious-ly,"æd.vɛn.tɪ.ʃəs.lɪ,5.0
+aroma,a-ro-ma,ə.ɹoʊ.mə,3.0
+accompany,ac-com-pa-ny,ə.kʌm.pə.nɪ,4.0
+brim over,brim o-ver,"bɹɪm.oʊ.vəR,3.0
+bandy,ban-dy,bæn.dɪ,2.0
+bulkhead,bulk-head,bʌlk.hɛd,2.0
+canal,ca-nal,kə.næl,2.0
+butter,but-ter,bʌ.təR,2.0
+abrasive,a-bra-sive,ə.bɹeɪ.sɪv,3.0
+bloodless,blood-less,blʌd.lɪs,2.0
+chamberpot,cham-ber-pot,tʃeɪm.bə.pɑt,3.0
+bookwork,book-work,bʊk.wɚk,2.0
+bandanna,ban-dan-na,bæn.dæ.nə,3.0
+blindness,blind-ness,blaɪnd.nɪs,2.0
+cetacean,ce-ta-cean,sɪ.teɪ.ʃjən,3.0
+air-conditioned,air--con-di-tioned,ɛɚ.kən."dɪ.ʃənd,4.0
+attraction,at-trac-tion,ə.tɹæk.ʃən,3.0
+air mattress,air mat-tress,ɛɚ."mæ.tɹɪs,3.0
+collector's piece,col-lec-tor's piece,kə.lɛk.təz.piːs,4.0
+Automobile Association,Au-to-mo-bile As-so-ci-a-tion,ɔɚ.tə.moʊ.biːl.ə.soʊ.sɪ."eɪ.ʃən,9.0
+bowl along,bowl a-long,"boʊl.ə.lɑŋ,3.0
+blood-relation,blood--re-la-tion,blʌd.ɹɪ."leɪ.ʃən,4.0
+basic,ba-sic,beɪ.sɪk,2.0
+boil down to,boil down to,"bɔɪl.daʊn.tuː,3.0
+bopeep,bo-peep,"boʊ.piːp,2.0
+bowie knife,bow-ie knife,boʊ.ɪ.naɪf,3.0
+Association Football,As-so-ci-a-tion Foot-ball,ə."soʊ.sɪ.eɪ.ʃən.fʊt.bɔɚl,7.0
+committed,com-mit-ted,kə.mɪ.tɪd,3.0
+cerise,ce-rise,sə.ɹiːz,2.0
+black and tan,black and tan,"blæk.ænd.tæn,3.0
+bring to,bring to,"bɹɪŋ.tuː,2.0
+cheekbone,cheek-bone,tʃiːk.boʊn,2.0
+buffet,buf-fet,bʌ.fɪt,2.0
+bovver,bov-ver,bɑ.vəR,2.0
+bang out,bang out,"bæŋ.aʊt,2.0
+bollocks-up,bol-locks--up,bɑ.ləks.ʌp,3.0
+cachou,ca-chou,kæ.ʃuː,2.0
+catchup,catch-up,kæ.tʃəp,2.0
+bring under,bring un-der,bɹɪŋ."ʌn.dəR,3.0
+behindhand,be-hind-hand,bɪ.haɪnd.hænd,3.0
+captive,cap-tive,kæp.tɪv,2.0
+abstract,ab-stract,æb.stɹækt,2.0
+brazier,bra-zier,bɹeɪ.zjəR,2.0
+black hole,black hole,"blæk.hoʊl,2.0
+appal,ap-pal,ə.pɔɚl,2.0
+clotheshorse,clothes-horse,kloʊðz.hɔɚs,2.0
+autumn,au-tumn,ɔɚ.təm,2.0
+barefaced,bare-faced,bɛɚ.feɪst,2.0
+avert,a-vert,ə.vɚt,2.0
+antediluvian,an-te-di-lu-vi-an,"æn.tɪ.dɪ.luː.vjən,5.0
+adman,ad-man,æd.mæn,2.0
+bethink,be-think,bɪ.θɪŋk,2.0
+cannon,can-non,kæ.nən,2.0
+afford,af-ford,ə.fɔɚd,2.0
+bugle,bu-gle,bjuː.gəl,2.0
+chukker,chuk-ker,tʃʌ.kəR,2.0
+cat-sleep,cat--sleep,kæt.sliːp,2.0
+bladder,blad-der,blæ.dəR,2.0
+acclimate,ac-cli-mate,æ.klɪ.meɪt,3.0
+broadside,broad-side,bɹɔɚd.saɪd,2.0
+chopper,chop-per,tʃɑ.pəR,2.0
+black belt,black belt,"blæk.bɛlt,2.0
+coerce,co-erce,koʊ.ɚs,2.0
+blue chip,blue chip,"bluː.tʃɪp,2.0
+button,but-ton,bʌ.tən,2.0
+Christmas,Christ-mas,kɹɪs.məs,2.0
+beeline,bee-line,biː.laɪn,2.0
+Behemoth,Be-he-moth,bɪ.hiː.mɑθ,3.0
+asylum,a-sy-lum,ə.saɪ.ləm,3.0
+bummer,bum-mer,bʌ.məR,2.0
+broadcloth,broad-cloth,bɹɔɚd.klɑθ,2.0
+causeway,cause-way,kɔɚz.weɪ,2.0
+April fool,A-pril fool,"eɪ.pɹəl.fuːl,3.0
+bloodstain,blood-stain,blʌd.steɪn,2.0
+clientele,cli-en-tele,"kliː.ən.tɛl,3.0
+advert,ad-vert,æd.vɚt,2.0
+bluntly,blunt-ly,blʌnt.lɪ,2.0
+circulate,cir-cu-late,sɚ.kjʊ.leɪt,3.0
+bunkhouse,bunk-house,bʌŋk.haʊs,2.0
+alack,a-lack,ə.læk,2.0
+bewilderment,be-wil-der-ment,bɪ.wɪl.də.mənt,4.0
+blue gum,blue gum,bluː.gʌm,2.0
+authenticate,au-then-ti-cate,ɔɚ.θɛn.tɪ.keɪt,4.0
+committal,com-mit-tal,kə.mɪ.təl,3.0
+bonsai,bon-sai,bɑn.saɪ,2.0
+airport,air-port,ɛɚ.pɔɚt,2.0
+combust,com-bust,kəm.bʌst,2.0
+beneath,be-neath,bɪ.niːθ,2.0
+Agnus Dei,Ag-nus De-i,"æg.nəs.deɪ.iː,4.0
+campground,camp-ground,kæmp.gɹaʊnd,2.0
+alertly,a-lert-ly,ə.lɚt.lɪ,3.0
+carrycot,car-ry-cot,kæ.ɹɪ.kɑt,3.0
+circa,cir-ca,sɚ.kə,2.0
+blockade,block-ade,blɑ.keɪd,2.0
+algebraical,al-ge-bra-i-cal,"æl.dʒɪ.bɹeɪ.ɪ.kəl,5.0
+chorus,cho-rus,kɔɚ.ɹəs,2.0
+beautifully,beau-ti-ful-ly,bjuː.tə.flɪ,3.0
+audition,au-di-tion,ɔɚ.dɪ.ʃən,3.0
+come through,come through,kʌm.θɹuː,2.0
+bolster up,bol-ster up,"boʊl.stə.ɹʌp,3.0
+breathlessly,breath-less-ly,bɹɛθ.lɪs.lɪ,3.0
+appellation,ap-pel-la-tion,"æ.pə.leɪ.ʃən,4.0
+adder,ad-der,æ.dəR,2.0
+bear with,bear with,bɛɚ.wɪð,2.0
+below,be-low,bɪ.loʊ,2.0
+cabstand,cab-stand,kæb.stænd,2.0
+aggravation,ag-gra-va-tion,"æ.gɹə.veɪ.ʃən,4.0
+betray,be-tray,bɪ.tɹeɪ,2.0
+assonance,as-so-nance,æ.soʊ.nəns,3.0
+amorphously,a-mor-phous-ly,ə.mɔɚ.fəs.lɪ,4.0
+clergyman,cler-gy-man,klɚ.dʒɪ.mən,3.0
+anther,an-ther,æn.θəR,2.0
+beguilement,be-guile-ment,bɪ.gaɪl.mənt,3.0
+attentive,at-ten-tive,ə.tɛn.tɪv,3.0
+alleviation,al-le-vi-a-tion,ə."liː.vɪ.eɪ.ʃən,5.0
+brashness,brash-ness,bɹæʃ.nɪs,2.0
+coerciveness,co-er-cive-ness,koʊ.ɚ.sɪv.nɪs,4.0
+adverse,ad-verse,æd.vɚs,2.0
+ambitious,am-bi-tious,æm.bɪ.ʃəs,3.0
+bobtail,bob-tail,bɑb.teɪl,2.0
+alpine,al-pine,æl.paɪn,2.0
+commodore,com-mo-dore,kɑ.mə.dɔɚR,3.0
+burnouse,bur-nouse,bɚ.nuːs,2.0
+askew,a-skew,ə.skjuː,2.0
+bring into,bring in-to,bɹɪŋ."ɪn.tuː,3.0
+aviation,a-vi-a-tion,"eɪ.vɪ.eɪ.ʃən,4.0
+common ground,com-mon ground,"kɑ.mən.gɹaʊnd,3.0
+behold,be-hold,bɪ.hoʊld,2.0
+catch on,catch on,"kætʃ.ɑn,2.0
+carryout,car-ry-out,kæ.ɹɪ.aʊt,3.0
+beget,be-get,bɪ.gɛt,2.0
+coffee break,cof-fee break,kɑ.fɪ.bɹeɪk,3.0
+burton,bur-ton,bɚ.tən,2.0
+audio-lingual,au-di-o--lin-gual,"ɔɚ.dɪ.oʊ.lɪŋ.gwəl,5.0
+bolero,bo-le-ro,bɑ.lə.ɹoʊ,3.0
+calculably,cal-cu-la-bly,kæl.kjʊ.lə.blɪ,4.0
+bottle up,bot-tle up,"bɑ.təl.ʌp,3.0
+beach buggy,beach bug-gy,biːtʃ."bʌ.gɪ,3.0
+assertive,as-ser-tive,ə.sɚ.tɪv,3.0
+antepenultimate,an-te-pe-nul-ti-mate,"æn.tɪ.pɪ.nʌl.tɪ.mət,6.0
+all out,all out,"ɔɚl.aʊt,2.0
+bivouac,biv-ou-ac,bɪ.vʊ.æk,3.0
+abeam,a-beam,ə.biːm,2.0
+bid fair,bid fair,"bɪd.fɛɚR,2.0
+carriage,car-riage,kæ.ɹɪdʒ,2.0
+burst into,burst in-to,bɚst."ɪn.tuː,3.0
+clove hitch,clove hitch,kloʊv.hɪtʃ,2.0
+anticlimax,an-ti-cli-max,"æn.tɪ.klaɪ.mæks,4.0
+cactus,cac-tus,kæk.təs,2.0
+bronchitis,bron-chi-tis,bɹɑŋ.kaɪ.tɪs,3.0
+champion,cham-pi-on,tʃæm.pjən,2.0
+chambers,cham-bers,tʃeɪm.bəz,2.0
+appurtenance,ap-pur-te-nance,ə.pɚ.tɪ.nəns,4.0
+come at,come at,kʌm.æt,2.0
+all fours,all fours,"ɔɚl.fɔɚz,2.0
+cant over,cant o-ver,"kænt.oʊ.vəR,3.0
+brains trust,brains trust,bɹeɪnz.tɹʌst,2.0
+beau monde,beau monde,"boʊ.mɔɚnd,2.0
+brusqueness,brusque-ness,bɹuːsk.nɪs,2.0
+burthen,bur-then,bɚ.ðən,2.0
+cloudless,cloud-less,klaʊd.lɪs,2.0
+butter up,but-ter up,"bʌ.tə.ɹʌp,3.0
+admit of,ad-mit of,əd.mɪt.ɑv,3.0
+balloon,bal-loon,bə.luːn,2.0
+bridle,bri-dle,bɹaɪ.dəl,2.0
+adjourn,ad-journ,ə.dʒɚn,2.0
+census,cen-sus,sɛn.səs,2.0
+abridgment,a-bridg-ment,ə.bɹɪdʒ.mənt,3.0
+basalt,ba-salt,bæ.sɔɚlt,2.0
+alfresco,al-fres-co,æl.fɹɛs.koʊ,3.0
+codling,cod-ling,kɑd.lɪŋ,2.0
+Bantu,Ban-tu,"bæn.tuː,2.0
+bronco,bron-co,bɹɑŋ.koʊ,2.0
+canton,can-ton,kæn.tɑn,2.0
+bristly,bris-tly,bɹɪs.lɪ,2.0
+cash desk,cash desk,kæʃ.dɛsk,2.0
+Church of Scotland,Church of Scot-land,"tʃɚtʃ.ɑv.skɑt.lənd,4.0
+airgun,air-gun,ɛɚ.gʌn,2.0
+benignant,be-nig-nant,bɪ.nɪg.nənt,3.0
+akin,a-kin,ə.kɪn,2.0
+burette,bu-rette,bjʊɚ.ɹɛt,2.0
+bungaloid,bun-ga-loid,bʌŋ.gə.lɔɪd,3.0
+cockleshell,cock-le-shell,kɑ.kəl.ʃɛl,3.0
+bear on,bear on,bɛɚ.ɹɑn,2.0
+befoul,be-foul,bɪ.faʊl,2.0
+aesthete,aes-thete,iːs.θiːt,2.0
+coeternal,co-e-ter-nal,"koʊ.ɪ.tɚ.nəl,4.0
+certify,cer-ti-fy,sɚ.tɪ.faɪ,3.0
+collar,col-lar,kɑ.ləR,2.0
+calcine,cal-cine,kæl.saɪn,2.0
+billiard,bil-liard,bɪ.ljəd,2.0
+closedown,close-down,kloʊz.daʊn,2.0
+canon,can-on,kæ.nən,2.0
+bonbon,bon-bon,bɑn.bɑn,2.0
+aboard,a-board,ə.bɔɚd,2.0
+burglar,bur-glar,bɚ.gləR,2.0
+blueprint,blue-print,bluː.pɹɪnt,2.0
+C-in-C,C--in--C,"siː.ɪn.siː,3.0
+cinquefoil,cinque-foil,sɪŋk.fɔɪl,2.0
+caution,cau-tion,kɔɚ.ʃən,2.0
+antique,an-tique,æn.tiːk,2.0
+airsickness,air-sick-ness,ɛɚ."sɪk.nɪs,3.0
+chammy,cham-my,ʃæ.mɪ,2.0
+caption,cap-tion,kæp.ʃən,2.0
+blameworthy,blame-wor-thy,bleɪm."wɚ.ðɪ,3.0
+cockfight,cock-fight,kɑk.faɪt,2.0
+advowson,ad-vow-son,əd.vaʊ.zən,3.0
+commonness,com-mon-ness,kɑ.mə.nɪs,3.0
+cohesive,co-he-sive,koʊ.hiː.sɪv,3.0
+allegiance,al-le-giance,ə.liː.dʒəns,3.0
+bottle-feed,bot-tle--feed,bɑ.təl.fiːd,3.0
+begetter,be-get-ter,bɪ.gɛ.təR,3.0
+amalgamation,a-mal-ga-ma-tion,ə."mæl.gə.meɪ.ʃən,5.0
+Chippendale,Chip-pen-dale,tʃɪ.pən.deɪl,3.0
+blackbird,black-bird,blæk.bɚd,2.0
+all in,all in,"ɔɚl.ɪn,2.0
+billy-goat,bil-ly--goat,bɪ.lɪ.goʊt,3.0
+busby,bus-by,bʌz.bɪ,2.0
+alongside,a-long-side,ə.lɑŋ.saɪd,3.0
+china,chi-na,tʃaɪ.nə,2.0
+absentee,ab-sen-tee,"æb.sən.tiː,3.0
+commitment,com-mit-ment,kə.mɪt.mənt,3.0
+astir,a-stir,ə.stɚR,2.0
+bundle,bun-dle,bʌn.dəl,2.0
+Afro,Af-ro,æ.fɹoʊ,2.0
+bingo,bin-go,bɪŋ.goʊ,2.0
+beleaguer,be-lea-guer,bɪ.liː.gəR,3.0
+avail,a-vail,ə.veɪl,2.0
+bilge-water,bilge--wa-ter,bɪldʒ."wɔɚ.təR,3.0
+break off,break off,"bɹeɪk.ɑf,2.0
+burn away,burn a-way,"bɚn.ə.weɪ,3.0
+capriciousness,ca-pri-cious-ness,kə.pɹɪ.ʃəs.nɪs,4.0
+analytic,an-a-lyt-ic,"æ.nə.lɪ.tɪk,4.0
+brazen,bra-zen,bɹeɪ.zən,2.0
+bone-lazy,bone--la-zy,"boʊn.leɪ.zɪ,3.0
+ambassador,am-bas-sa-dor,æm.bæ.sə.dəR,4.0
+coauthor,co-au-thor,"koʊ.ɔɚ.θəR,3.0
+adroit,a-droit,ə.dɹɔɪt,2.0
+brickwork,brick-work,bɹɪk.wɚk,2.0
+assuage,as-suage,ə.sweɪdʒ,2.0
+airbase,air-base,ɛɚ.beɪs,2.0
+classical,clas-si-cal,klæ.sɪ.kəl,3.0
+bag and baggage,bag and bag-gage,"bæg.ænd.bæ.gɪdʒ,4.0
+aimlessness,aim-less-ness,eɪm.lɪs.nɪs,3.0
+collywobbles,col-ly-wob-bles,kɑ.lɪ."wɑ.bəlz,4.0
+abhorrent,ab-hor-rent,əb.hɑ.ɹənt,3.0
+avowed,a-vowed,ə.vaʊd,2.0
+chimneystack,chim-ney-stack,tʃɪm.nɪ.stæk,3.0
+campaign,cam-paign,kæm.peɪn,2.0
+accrete,ac-crete,ə.kɹiːt,2.0
+coat of mail,coat of mail,"koʊt.ɑv.meɪl,3.0
+allocation,al-lo-ca-tion,"æ.loʊ.keɪ.ʃən,4.0
+bone-dry,bone--dry,"boʊn.dɹaɪ,2.0
+bobsled,bob-sled,bɑb.slɛd,2.0
+annoy,an-noy,ə.nɔɪ,2.0
+abracadabra,ab-ra-ca-dab-ra,"æ.bɹə.kə.dæ.bɹə,5.0
+birdlime,bird-lime,bɚd.laɪm,2.0
+buy over,buy o-ver,"baɪ.oʊ.vəR,3.0
+blender,blend-er,blɛn.dəR,2.0
+checkrein,check-rein,tʃɛk.ɹeɪn,2.0
+bowline,bow-line,boʊ.lɪn,2.0
+come under,come un-der,kʌm."ʌn.dəR,3.0
+college,col-lege,kɑ.lɪdʒ,2.0
+bring out,bring out,"bɹɪŋ.aʊt,2.0
+bascule,bas-cule,bæ.skjuːl,2.0
+clansman,clans-man,klænz.mən,2.0
+clean-cut,clean--cut,"kliːn.kʌt,2.0
+communal,com-mu-nal,kɑ.mjʊ.nəl,3.0
+bellboy,bell-boy,bɛl.bɔɪ,2.0
+alleluia,al-le-lu-ia,"æ.lɪ.luː.jə,4.0
+briar,bri-ar,bɹaɪ.əR,2.0
+air commodore,air com-mo-dore,"ɛɚ.kɑ.mə.dɔɚR,4.0
+cablegram,ca-ble-gram,keɪ.bəl.gɹæm,3.0
+buckram,buck-ram,bʌk.ɹəm,2.0
+chloric,chlo-ric,klɔɚ.ɹɪk,2.0
+benignly,be-nign-ly,bɪ.naɪn.lɪ,3.0
+closed circuit,closed cir-cuit,"kloʊzd.sɚ.kɪt,3.0
+advice,ad-vice,əd.vaɪs,2.0
+chain-smoker,chain--smok-er,tʃeɪn."smoʊ.kəR,3.0
+blameless,blame-less,bleɪm.lɪs,2.0
+blatant,bla-tant,bleɪ.tənt,2.0
+atlas,at-las,æt.ləs,2.0
+andante,an-dan-te,æn.dæn.tɪ,3.0
+canyon,can-yon,kæ.njən,2.0
+as long as,as long as,æz.lɑŋ.æz,3.0
+built-in,built--in,bɪlt.ɪn,2.0
+blackmailer,black-mail-er,blæk.meɪ.ləR,3.0
+alchemist,al-che-mist,æl.kə.mɪst,3.0
+bacillus,ba-cil-lus,bə.sɪ.ləs,3.0
+circumspection,cir-cum-spec-tion,"sɚ.kəm.spɛk.ʃən,4.0
+about,a-bout,ə.baʊt,2.0
+chanterelle,chan-te-relle,"tʃæn.tə.ɹɛl,3.0
+Bowdler,Bowd-ler,baʊd.ləR,2.0
+airspeed,air-speed,ɛɚ.spiːd,2.0
+bow out,bow out,"baʊ.aʊt,2.0
+buy out,buy out,"baɪ.aʊt,2.0
+colloquially,col-lo-qui-al-ly,kə.loʊ.kwɪɚ.lɪ,4.0
+antiknock,an-ti-knock,"æn.tɪ.nɑk,3.0
+appropriate,ap-pro-pri-ate,ə.pɹoʊ.pɹɪɚt,3.0
+address,ad-dress,ə.dɹɛs,2.0
+ablaut,ab-laut,æb.laʊt,2.0
+aflame,a-flame,ə.fleɪm,2.0
+appointment,ap-point-ment,ə.pɔɪnt.mənt,3.0
+breast-fed,breast--fed,bɹɛst.fɛd,2.0
+camp-follower,camp--fol-low-er,kæmp."fɑ.loʊ.əR,4.0
+caress,ca-ress,kə.ɹɛs,2.0
+angelus,an-ge-lus,æn.dʒə.ləs,3.0
+agglutination,ag-glu-ti-na-tion,ə."gluː.tɪ.neɪ.ʃən,5.0
+classic,clas-sic,klæ.sɪk,2.0
+blood-heat,blood--heat,blʌd.hiːt,2.0
+coarse fish,coarse fish,kɔɚs.fɪʃ,2.0
+come round,come round,"kʌm.ɹaʊnd,2.0
+agglutinate,ag-glu-ti-nate,ə.gluː.tɪ.neɪt,4.0
+acumen,a-cu-men,æ.kjʊ.mən,3.0
+beautify,beau-ti-fy,bjuː.tɪ.faɪ,3.0
+circulatory system,cir-cu-la-to-ry sys-tem,sɚ.kjʊ.lə.tə.ɹɪ."sɪ.stəm,7.0
+chloroform,chlo-ro-form,klɑ.ɹə.fɔɚm,3.0
+commendation,com-men-da-tion,"kɑ.mɛn.deɪ.ʃən,4.0
+brownstone,brown-stone,bɹaʊn.stoʊn,2.0
+auscultation,aus-cul-ta-tion,"ɔɚs.kəl.teɪ.ʃən,4.0
+age of consent,age of con-sent,"eɪdʒ.ɑv.kən.sɛnt,4.0
+casserole,cas-se-role,kæ.sə.ɹoʊl,3.0
+baldness,bald-ness,bɔɚld.nɪs,2.0
+abstention,ab-sten-tion,əb.stɛn.ʃən,3.0
+anchorite,an-cho-rite,æŋ.kə.ɹaɪt,3.0
+athwart,a-thwart,ə.θwɔɚt,2.0
+codeine,co-deine,koʊ.diːn,2.0
+blow in,blow in,"bloʊ.ɪn,2.0
+banter,ban-ter,bæn.təR,2.0
+appliance,ap-pli-ance,ə.plaɪ.əns,3.0
+Christmastime,Christ-mas-time,kɹɪs.məs.taɪm,3.0
+checklist,check-list,tʃɛk."lɪst,2.0
+bullring,bull-ring,bʊl.ɹɪŋ,2.0
+beyond,be-yond,bɪ.jɑnd,2.0
+as if,as if,æz.ɪf,2.0
+billet,bil-let,bɪ.lɪt,2.0
+beat in,beat in,"biːt.ɪn,2.0
+billy-o,bil-ly--o,bɪ.lɪ.oʊ,3.0
+Bangladesh,Ban-gla-desh,"bæŋ.glə.dɛʃ,3.0
+behind,be-hind,bɪ.haɪnd,2.0
+broadly,broad-ly,bɹɔɚd.lɪ,2.0
+bad debt,bad debt,"bæd.dɛt,2.0
+bobsleigh,bob-sleigh,bɑb.sleɪ,2.0
+bounty,boun-ty,baʊn.tɪ,2.0
+backwardly,back-ward-ly,bæ.kwəd.lɪ,3.0
+bridgehead,bridge-head,bɹɪdʒ.hɛd,2.0
+amidships,a-mid-ships,ə.mɪd.ʃɪps,3.0
+bird dog,bird dog,bɚd.dɑg,2.0
+centre,cen-tre,sɛn.təR,2.0
+bellflower,bell-flow-er,bɛl."flaʊ.əR,3.0
+annotate,an-no-tate,æ.noʊ.teɪt,3.0
+beadle,bea-dle,biː.dəl,2.0
+bang up,bang up,"bæŋ.ʌp,2.0
+cadger,cadg-er,kæ.dʒəR,2.0
+backspace,back-space,bæk.speɪs,2.0
+clobber,clob-ber,klɑ.bəR,2.0
+agnail,ag-nail,æg.neɪl,2.0
+absolute,ab-so-lute,æb.sə.luːt,3.0
+ambulant,am-bu-lant,æm.bjʊ.lənt,3.0
+carry-on,car-ry--on,"kæ.ɹɪ.ɑn,3.0
+bemused,be-mused,bɪ.mjuːzd,2.0

@@ -1,0 +1,4438 @@
+# webcelex random #50%
+Head;;HeadSyl;;PhonSylCLX;;SylCnt
+a;;a;;1;;1
+A;;A;;1;;1
+AA;;AA;;"1-1;;2
+aback;;a-back;;@-b{k;;2
+abacus;;ab-a-cus;;{-b@-k@s;;3
+abaft;;a-baft;;@-b#ft;;2
+abandon;;a-ban-don;;@-b{n-d@n;;3
+abandoned;;a-ban-doned;;@-b{n-d@nd;;3
+abasement;;a-base-ment;;@-b1s-m@nt;;3
+abash;;a-bash;;@-b{S;;2
+abb#e;;ab-be;;{-b1;;2
+abbess;;ab-bess;;{-bEs;;2
+abbey;;ab-bey;;{-bI;;2
+abbreviate;;ab-bre-vi-ate;;@-bri-vI-1t;;4
+ABC;;ABC;;"1-bi-si;;3
+abdominal;;ab-dom-i-nal;;{b-dQ-mI-nP;;4
+abduction;;ab-duc-tion;;{b-dVk-SH;;3
+abeam;;a-beam;;@-bim;;2
+aberrant;;ab-er-rant;;{-bE-r@nt;;3
+abeyance;;a-bey-ance;;@-b1-@ns;;3
+abeyant;;a-bey-ant;;@-b1-@nt;;3
+abhorrence;;ab-hor-rence;;@b-hQ-r@ns;;3
+abhorrent;;ab-hor-rent;;@b-hQ-r@nt;;3
+abidance by;;abid-ance by;;@-b2-d@ns-"b2;;4
+abide by;;a-bide by;;@-b2d-b2;;3
+ability;;a-bil-i-ty;;@-bI-l@-tI;;4
+ab initio;;ab in-i-ti-o;;"{-bI-nI-SI-5;;5
+abjection;;ab-jec-tion;;{b-_Ek-SH;;3
+ablative;;ab-la-tive;;{b-l@-tIv;;3
+ablaut;;ab-laut;;{b-l6t;;2
+ablution;;ab-lu-tion;;@-blu-SH;;3
+abnegate;;ab-ne-gate;;{b-nI-g1t;;3
+abnegation;;ab-ne-ga-tion;;"{b-nI-g1-SH;;4
+abnormality;;ab-nor-mal-i-ty;;"{b-n$-m{-l@-tI;;5
+abnormally;;ab-nor-mal-ly;;{b-n$-m@-lI;;4
+abo;;ab-o;;{-b5;;2
+aboard;;a-board;;@-b$d;;2
+aboard;;a-board;;@-b$d;;2
+abominably;;a-bom-i-na-bly;;@-bQ-mI-n@-blI;;5
+abomination;;a-bom-i-na-tion;;@-"bQ-mI-n1-SH;;5
+aboriginal;;ab-o-rig-i-nal;;"{-b@-rI-_@-nP;;5
+aboriginal;;ab-o-rig-i-nal;;"{-b@-rI-_@-nP;;5
+abortionist;;a-bor-tion-ist;;@-b$-SH-Ist;;4
+abound;;a-bound;;@-b6nd;;2
+abound in;;a-bound in;;@-b6nd-In;;3
+about;;a-bout;;@-b6t;;2
+about;;a-bout;;@-b6t;;2
+about-face;;a-bout--face;;@-"b6t-f1s;;3
+above;;a-bove;;@-bVv;;2
+aboveboard;;a-bove-board;;@-"bVv-b$d;;3
+above-mentioned;;a-bove--men-tioned;;@-"bVv-mEn-SHd;;4
+above-named;;a-bove--named;;@-"bVv-n1md;;3
+abracadabra;;ab-ra-ca-dab-ra;;"{-br@-k@-d{-br@;;5
+abrasion;;a-bra-sion;;@-br1-ZH;;3
+abrasive;;a-bra-sive;;@-br1-sIv;;3
+abrasive;;a-bra-sive;;@-br1-sIv;;3
+abreast;;a-breast;;@-brEst;;2
+abridge;;a-bridge;;@-brI_;;2
+abridgment;;a-bridg-ment;;@-brI_-m@nt;;3
+abrogate;;ab-ro-gate;;{-br5-g1t;;3
+abrogation;;ab-ro-ga-tion;;"{-br5-g1-SH;;4
+abrupt;;ab-rupt;;@-brVpt;;2
+abruptly;;ab-rupt-ly;;@-brVpt-lI;;3
+abscess;;ab-scess;;{b-sIs;;2
+absent;;ab-sent;;{b-sEnt;;2
+absentee;;ab-sen-tee;;"{b-s@n-ti;;3
+absently;;ab-sent-ly;;{b-s@nt-lI;;3
+absent-mindedly;;ab-sent--mind-ed-ly;;"{b-s@nt-m2n-dId-lI;;5
+absinth;;ab-sinth;;{b-sInT;;2
+absolute;;ab-so-lute;;{b-s@-lut;;3
+absoluteness;;ab-so-lute-ness;;{b-s@-lut-nIs;;4
+absolute zero;;ab-so-lute ze-ro;;{b-s@-lut-"z7-r5;;5
+absolution;;ab-so-lu-tion;;"{b-s@-lu-SH;;4
+absolutism;;ab-so-lut-ism;;{b-s@-lu-tI-z@m;;5
+absolve;;ab-solve;;@b-zQlv;;2
+absorb;;ab-sorb;;@b-s$b;;2
+absorbent;;ab-sorb-ent;;@b-s$-b@nt;;3
+absorbent;;ab-sorb-ent;;@b-s$-b@nt;;3
+absorption;;ab-sorp-tion;;@b-s$p-SH;;3
+abstain;;ab-stain;;@b-st1n;;2
+abstemiously;;ab-ste-mi-ous-ly;;{b-sti-mj@s-lI;;4
+abstention;;ab-sten-tion;;@b-stEn-SH;;3
+abstract;;ab-stract;;{b-str{kt;;2
+abstract;;ab-stract;;{b-str{kt;;2
+abstractedly;;ab-stract-ed-ly;;{b-str{k-tId-lI;;4
+absurd;;ab-surd;;@b-s3d;;2
+absurdly;;ab-surd-ly;;@b-s3d-lI;;3
+abundant;;a-bun-dant;;@-bVn-d@nt;;3
+abuse;;a-buse;;@-bjus;;2
+abutment;;a-but-ment;;@-bVt-m@nt;;3
+abut on;;a-but on;;@-bVt-Qn;;3
+abysmally;;a-bys-mal-ly;;@-bIz-m@-lI;;4
+acacia;;a-ca-cia;;@-k1-S@;;3
+academically;;ac-a-dem-i-cal-ly;;"{-k@-dE-mI-k@-lI;;6
+academy;;a-cad-e-my;;@-k{-d@-mI;;4
+acc.;;acc.;;"1-si-si;;3
+accede;;ac-cede;;{k-sid;;2
+accelerando;;ac-cel-er-an-do;;@k-"sE-l@-r{n-d5;;5
+accelerando;;ac-cel-er-an-do;;@-"JE-l@-r{n-d5;;5
+accelerando;;ac-cel-er-an-do;;{k-"sE-l@-r{n-d5;;5
+accelerate;;ac-cel-er-ate;;@k-sE-l@-r1t;;4
+acceleration;;ac-cel-er-a-tion;;@k-"sE-l@-r1-SH;;5
+accentuate;;ac-cen-tu-ate;;{k-sEn-tjU-1t;;4
+accentuation;;ac-cen-tu-a-tion;;{k-"sEn-tjU-1-SH;;5
+acceptance;;ac-cept-ance;;@k-sEp-t@ns;;3
+acceptation;;ac-cep-ta-tion;;"{k-sEp-t1-SH;;4
+accessibility;;ac-ces-si-bil-i-ty;;@k-"sE-s@-bI-l@-tI;;6
+accessible;;ac-ces-si-ble;;@k-sE-s@-bP;;4
+accident;;ac-ci-dent;;{k-sI-d@nt;;3
+accidental;;ac-ci-den-tal;;"{k-sI-dEn-tP;;4
+acclaim;;ac-claim;;@-kl1m;;2
+acclamation;;ac-cla-ma-tion;;"{-kl@-m1-SH;;4
+acclimate;;ac-cli-mate;;{-klI-m1t;;3
+acclimation;;ac-cli-ma-tion;;"{k-l2-m1-SH;;4
+acclimatize;;ac-cli-ma-tize;;@-kl2-m@-t2z;;4
+accolade;;ac-co-lade;;{-k5-l1d;;3
+accommodation;;ac-com-mo-da-tion;;@-"kQ-m@-d1-SH;;5
+accommodations;;ac-com-mo-da-tions;;@-"kQ-m@-d1-SHz;;5
+accompany;;ac-com-pa-ny;;@-kVm-p@-nI;;4
+accomplice;;ac-com-plice;;@-kVm-plIs;;3
+accomplish;;ac-com-plish;;@-kVm-plIS;;3
+accordance;;ac-cord-ance;;@-k$-d@ns;;3
+accordingly;;ac-cord-ing-ly;;@-k$-dIN-lI;;4
+according to;;ac-cord-ing to;;@-k$-dIN-tu;;4
+accordion;;ac-cor-di-on;;@-k$-dj@n;;3
+accouchement;;ac-couche-ment;;@-kuS-mqN;;3
+account;;ac-count;;@-k6nt;;2
+accountable;;ac-count-a-ble;;@-k6n-t@-bP;;4
+accountably;;ac-count-a-bly;;@-k6n-t@-blI;;4
+accountant;;ac-count-ant;;@-k6n-t@nt;;3
+accoutrements;;ac-cou-tre-ments;;@-ku-t@-m@nts;;4
+accredit;;ac-cred-it;;@-krE-dIt;;3
+accredited;;ac-cred-it-ed;;@-krE-dI-tId;;4
+accrete;;ac-crete;;@-krit;;2
+accretion;;ac-cre-tion;;{-kri-SH;;3
+accrue;;ac-crue;;@-kru;;2
+accumulate;;ac-cu-mu-late;;@-kju-mjU-l1t;;4
+accumulatively;;ac-cu-mu-la-tive-ly;;@-kju-mjU-l@-tIv-lI;;6
+accurately;;ac-cu-rate-ly;;{-kjU-r@t-lI;;4
+accursed;;ac-curs-ed;;@-k3-sId;;3
+accursedly;;ac-curs-ed-ly;;@-k3-sId-lI;;4
+accusative;;ac-cu-sa-tive;;@-kju-z@-tIv;;4
+accuse;;ac-cuse;;@-kjuz;;2
+accused;;ac-cused;;@-kjuzd;;2
+accusing;;ac-cus-ing;;@-kju-zIN;;3
+accustom;;ac-cus-tom;;@-kV-st@m;;3
+accustomed;;ac-cus-tomed;;@-kV-st@md;;3
+acerbity;;a-cer-bi-ty;;@-s3-b@-tI;;4
+acetate;;ac-e-tate;;{-sI-t1t;;3
+acetylene;;a-cet-y-lene;;@-sE-tI-lin;;4
+ache;;ache;;1k;;1
+ache;;ache;;1k;;1
+achievement;;a-chieve-ment;;@-Jiv-m@nt;;3
+Achilles tendon;;A-chil-les ten-don;;@-"kI-liz-tEn-d@n;;5
+acid;;ac-id;;{-sId;;2
+acid;;ac-id;;{-sId;;2
+acidic;;a-cid-ic;;@-sI-dIk;;3
+acid test;;ac-id test;;"{-sId-tEst;;3
+acidulate;;a-cid-u-late;;@-sI-djU-l1t;;4
+acidulated;;a-cid-u-lat-ed;;@-sI-djU-l1-tId;;5
+acknowledge;;ac-knowl-edge;;@k-nQ-lI_;;3
+acne;;ac-ne;;{k-nI;;2
+aconite;;ac-o-nite;;{-k@-n2t;;3
+acoustic;;a-cous-tic;;@-ku-stIk;;3
+acoustic;;a-cous-tic;;@-ku-stIk;;3
+acoustics;;a-cous-tics;;@-ku-stIks;;3
+acquaintanceship;;ac-quaint-ance-ship;;@-kw1n-t@n-SIp;;4
+acquiescence;;ac-qui-es-cence;;"{-kwI-E-sHs;;4
+acquiescent;;ac-qui-es-cent;;"{-kwI-E-sHt;;4
+acquiescently;;ac-qui-es-cent-ly;;"{-kwI-E-sHt-lI;;5
+acquire;;ac-quire;;@-kw2-@R;;3
+acquired taste;;ac-quired taste;;@-"kw2-@d-t1st;;4
+acquisition;;ac-qui-si-tion;;"{-kwI-zI-SH;;4
+acquit;;ac-quit;;@-kwIt;;2
+acquittal;;ac-quit-tal;;@-kwI-tP;;3
+acre;;a-cre;;1-k@R;;2
+acreage;;a-cre-age;;1-k@-rI_;;3
+acrimoniously;;ac-ri-mo-ni-ous-ly;;"{-krI-m5-nj@s-lI;;5
+acrobat;;ac-ro-bat;;{-kr@-b{t;;3
+acrobatic;;ac-ro-bat-ic;;"{-kr5-b{-tIk;;4
+acronym;;ac-ro-nym;;{-kr5-nIm;;3
+across from;;a-cross from;;@-krQs-frQm;;3
+acrostic;;a-cros-tic;;@-krQ-stIk;;3
+acrylic;;a-cryl-ic;;{-krI-lIk;;3
+act;;act;;{kt;;1
+act;;act;;{kt;;1
+actinic;;ac-tin-ic;;{k-ti-nIk;;3
+activation;;ac-ti-va-tion;;"{k-tI-v1-SH;;4
+active;;ac-tive;;{k-tIv;;2
+active;;ac-tive;;{k-tIv;;2
+actively;;ac-tive-ly;;{k-tIv-lI;;3
+active voice;;ac-tive voice;;"{k-tIv-v4s;;3
+activist;;ac-tiv-ist;;{k-tI-vIst;;3
+activity;;ac-tiv-i-ty;;{k-tI-v@-tI;;4
+actor;;ac-tor;;{k-t@R;;2
+actual;;ac-tu-al;;{k-J9l;;2
+actually;;ac-tu-al-ly;;{k-J9-lI;;3
+actuarial;;ac-tu-ar-i-al;;"{k-tjU-8-r7l;;4
+actuary;;ac-tu-ar-y;;{k-tj9-rI;;3
+actuate;;ac-tu-ate;;{k-tjU-1t;;3
+act up;;act up;;"{kt-Vp;;2
+acumen;;a-cu-men;;{-kjU-m@n;;3
+acupuncture;;ac-u-punc-ture;;{-kjU-pVNk-J@R;;4
+acuteness;;a-cute-ness;;@-kjut-nIs;;3
+AD;;AD;;"1-di;;2
+adagio;;a-da-gio;;@-d#-_I-5;;4
+adagio;;a-da-gio;;@-d#-_I-5;;4
+adamant;;ad-a-mant;;{-d@-m@nt;;3
+adamant;;ad-a-mant;;{-d@-m@nt;;3
+adamantine;;ad-a-man-tine;;"{-d@-m{n-t2n;;4
+adamantly;;ad-a-mant-ly;;{-d@-m@nt-lI;;4
+Adam's apple;;Ad-am's ap-ple;;"{-d@mz-{-pP;;4
+adapt;;a-dapt;;@-d{pt;;2
+adaptability;;a-dapt-a-bil-i-ty;;@-"d{p-t@-bI-l@-tI;;6
+adaptable;;a-dapt-a-ble;;@-d{p-t@-bP;;4
+adapter;;a-dapt-er;;@-d{p-t@R;;3
+addendum;;ad-den-dum;;@-dEn-d@m;;3
+adder;;ad-der;;{-d@R;;2
+addiction;;ad-dic-tion;;@-dIk-SH;;3
+adding-machine;;add-ing--ma-chine;;{-dIN-m@-"Sin;;4
+addition;;ad-di-tion;;@-dI-SH;;3
+additional;;ad-di-tion-al;;@-dI-S@-nP;;4
+addle;;ad-dle;;{-dP;;2
+addle-brained;;ad-dle--brained;;{-dP-"br1nd;;3
+addle-head;;ad-dle--head;;{-dP-hEd;;3
+address;;ad-dress;;@-drEs;;2
+address;;ad-dress;;@-drEs;;2
+addressee;;ad-dress-ee;;"{-drE-si;;3
+Addressograph;;Ad-dres-so-graph;;@-drE-s5-gr#f;;4
+adduce;;ad-duce;;@-djus;;2
+adenoidal;;ad-e-noi-dal;;"{-dI-n4-dP;;4
+adept;;ad-ept;;{-dEpt;;2
+adeptly;;a-dept-ly;;{-dEpt;;2
+adequate;;ad-e-quate;;{-dI-kw@t;;3
+adhere;;ad-here;;@d-h7R;;2
+adherence;;ad-her-ence;;@d-h7-r@ns;;3
+adherent;;ad-her-ent;;@d-h7-r@nt;;3
+adherent;;ad-her-ent;;@d-h7-r@nt;;3
+adhesive;;ad-he-sive;;@d-hi-sIv;;3
+ad hoc;;ad hoc;;"{d-hQk;;2
+ad hoc;;ad hoc;;"{d-hQk;;2
+adieu;;a-dieu;;@-dju;;2
+ad infinitum;;ad in-fi-ni-tum;;"{d-In-fI-n2-t@m;;5
+adipose;;ad-i-pose;;{-dI-p5s;;3
+adjacent;;ad-ja-cent;;@-_1-s@nt;;3
+adjective;;ad-jec-tive;;{-_Ik-tIv;;3
+adjourn;;ad-journ;;@-_3n;;2
+adjudge;;ad-judge;;@-_V_;;2
+adjudication;;ad-ju-di-ca-tion;;@-"_u-dI-k1-SH;;5
+adjuration;;ad-ju-ra-tion;;"{-_9-r1-SH;;4
+adjust;;ad-just;;@-_Vst;;2
+adjustable;;ad-just-a-ble;;@-_V-st@-bP;;4
+adjuster;;ad-just-er;;@-_V-st@R;;3
+ad lib;;ad lib;;"{d-lIb;;2
+ad-lib;;ad--lib;;"{d-lIb;;2
+ad-lib;;ad--lib;;"{d-lIb;;2
+adman;;ad-man;;{d-m{n;;2
+administer to;;ad-min-is-ter to;;@d-mI-nI-st@-tu;;5
+admirable;;ad-mi-ra-ble;;{d-m@-r@-bP;;4
+admire;;ad-mire;;@d-m2-@R;;3
+admiring;;ad-mir-ing;;@d-m2-@-rIN;;4
+admissibility;;ad-mis-si-bil-i-ty;;@d-"mI-s@-bI-l@-tI;;6
+admissible;;ad-mis-si-ble;;@d-mI-s@-bP;;4
+admission;;ad-mis-sion;;@d-mI-SH;;3
+admit of;;ad-mit of;;@d-mIt-Qv;;3
+admitted;;ad-mit-ted;;@d-mI-tId;;3
+admonish;;ad-mon-ish;;@d-mQ-nIS;;3
+admonishingly;;ad-mon-ish-ing-ly;;@d-mQ-nI-SIN-lI;;5
+admonition;;ad-mo-ni-tion;;"{d-m5-nI-SH;;4
+admonitory;;ad-mon-i-to-ry;;@d-mQ-nI-t@-rI;;5
+ad nauseam;;ad nau-se-am;;"{d-n$-zI-{m;;4
+ado;;a-do;;@-du;;2
+adoration;;ad-o-ra-tion;;"{-d@-r1-SH;;4
+adorer;;a-dor-er;;@-d$-r@R;;3
+adorn;;a-dorn;;@-d$n;;2
+adornment;;a-dorn-ment;;@-d$n-m@nt;;3
+adrenalin;;ad-ren-a-lin;;@-drE-n@-lIn;;4
+adroit;;a-droit;;@-dr4t;;2
+adroitly;;a-droit-ly;;@-dr4t-lI;;3
+adulator;;ad-u-la-tor;;{-djU-l1-t@R;;4
+adult;;a-dult;;{-dVlt;;2
+adult;;a-dult;;{-dVlt;;2
+adult education;;a-dult ed-u-ca-tion;;"{-dVlt-E-_U-k1-SH;;6
+adulteration;;a-dul-ter-a-tion;;@-"dVl-t@-r1-SH;;5
+adulterer;;a-dul-ter-er;;@-dVl-t@-r@R;;4
+adulteress;;a-dul-ter-ess;;@-dVl-t@-rIs;;4
+adultery;;a-dul-ter-y;;@-dVl-t@-rI;;4
+adumbrate;;ad-um-brate;;{-dVm-br1t;;3
+adv;;adv;;{d-v3b;;2
+ad valorem;;ad va-lo-rem;;"{d-v@-l$-rEm;;4
+advance;;ad-vance;;@d-v#ns;;2
+advanced;;ad-vanced;;@d-v#nst;;2
+advanced level;;ad-vanced lev-el;;@d-v#nst-"lE-vP;;4
+advancement;;ad-vance-ment;;@d-v#ns-m@nt;;3
+advantage;;ad-van-tage;;@d-v#n-tI_;;3
+advantage;;ad-van-tage;;@d-v#n-tI_;;3
+advent;;ad-vent;;{d-v@nt;;2
+adventitious;;ad-ven-ti-tious;;"{d-vEn-tI-S@s;;4
+adventitiously;;ad-ven-ti-tious-ly;;"{d-vEn-tI-S@s-lI;;5
+adventure;;ad-ven-ture;;@d-vEn-J@R;;3
+adventurer;;ad-ven-tur-er;;@d-vEn-J@-r@R;;4
+adventuresome;;ad-ven-ture-some;;@d-vEn-J@-s@m;;4
+adventurous;;ad-ven-tur-ous;;@d-vEn-J@-r@s;;4
+adventurously;;ad-ven-tur-ous-ly;;@d-vEn-J@-r@s-lI;;5
+adverb;;ad-verb;;{d-v3b;;2
+adverbial;;ad-ver-bi-al;;@d-v3-bj@l;;3
+adverbially;;ad-ver-bi-al-ly;;@d-v3-bj@-lI;;4
+adversary;;ad-ver-sar-y;;{d-v@-s@-rI;;4
+adverse;;ad-verse;;{d-v3s;;2
+adversely;;ad-verse-ly;;{d-v3s-lI;;3
+advert;;ad-vert;;{d-v3t;;2
+advice;;ad-vice;;@d-v2s;;2
+advisability;;ad-vis-a-bil-i-ty;;@d-"v2-z@-bI-l@-tI;;6
+advisable;;ad-vis-a-ble;;@d-v2-z@-bP;;4
+adviser;;ad-vis-er;;@d-v2-z@R;;3
+advisory;;ad-vi-so-ry;;@d-v2-z@-rI;;4
+advocate;;ad-vo-cate;;{d-v@-k@t;;3
+advowson;;ad-vow-son;;@d-v6-zH;;3
+aerially;;aer-i-al-ly;;8-r7-lI;;3
+aerobatics;;aer-o-bat-ics;;"8-r5-b{-tIks;;4
+aerodynamic;;aer-o-dy-nam-ic;;"8-r5-d2-n{-mIk;;5
+aerodynamically;;aer-o-dy-nam-i-cal-ly;;"8-r5-d2-n{-mI-klI;;6
+aeronaut;;aer-o-naut;;8-r@-n$t;;3
+aeronautic;;aer-o-naut-ic;;"8-r@-n$-tIk;;4
+aeronautics;;aer-o-naut-ics;;"8-r@-n$-tIks;;4
+aertex;;aer-tex;;8-tEks;;2
+aesthete;;aes-thete;;is-Tit;;2
+aesthetically;;aes-thet-i-cal-ly;;is-TE-tI-k@-lI;;5
+aesthetics;;aes-thet-ics;;is-TE-tIks;;3
+aetiologically;;ae-ti-o-log-i-cal-ly;;"i-t7-lQ-_I-k@-lI;;6
+aetiology;;ae-ti-ol-o-gy;;"i-tI-Q-l@-_I;;5
+afar;;a-far;;@-f#R;;2
+affected;;af-fect-ed;;@-fEk-tId;;3
+affectedness;;af-fect-ed-ness;;@-fEk-tId-nIs;;4
+affecting;;af-fect-ing;;@-fEk-tIN;;3
+affectingly;;af-fect-ing-ly;;@-fEk-tIN-lI;;4
+affectionate;;af-fec-tion-ate;;@-fEk-Sn@t;;3
+affinity;;af-fin-i-ty;;@-fI-n@-tI;;4
+affirm;;af-firm;;@-f3m;;2
+affirmation;;af-fir-ma-tion;;"{-f@-m1-SH;;4
+affirmative;;af-firm-a-tive;;@-f3-m@-tIv;;4
+affix;;af-fix;;@-fIks;;2
+afflict;;af-flict;;@-flIkt;;2
+affliction;;af-flic-tion;;@-flIk-SH;;3
+afford;;af-ford;;@-f$d;;2
+afforestation;;af-for-est-a-tion;;{-"fQ-rI-st1-SH;;5
+affray;;af-fray;;@-fr1;;2
+affront;;af-front;;@-frVnt;;2
+Afghani;;Af-ghan-i;;{f-g#-nI;;3
+Afghanistan;;Af-ghan-i-stan;;{f-g{-nI-st{n;;4
+Afghanistani;;Af-ghan-i-stan-i;;{f-g{-nI-"st{-nI;;5
+aficionado;;a-fi-ci-o-na-do;;@-"fI-sj@-n#-d5;;5
+afield;;a-field;;@-fild;;2
+aflame;;a-flame;;@-fl1m;;2
+afloat;;a-float;;@-fl5t;;2
+afore;;a-fore;;@-f$R;;2
+aforementioned;;a-fore-men-tioned;;@-"f$-mEn-S@nd;;4
+a fortiori;;a for-ti-o-ri;;"1-"f$-tI-$-r2;;5
+afoul;;a-foul;;@-f6l;;2
+afraid;;a-fraid;;@-fr1d;;2
+afresh;;a-fresh;;@-frES;;2
+Africa;;Af-ri-ca;;{-frI-k@;;3
+Afrikaans;;Af-ri-kaans;;"{-frI-k#ns;;3
+Afrikaner;;Af-ri-ka-ner;;"{-frI-k#-n@R;;4
+Afro;;Af-ro;;{-fr5;;2
+Afro-wig;;Af-ro--wig;;"{-fr5-wIg;;3
+after;;af-ter;;#f-t@R;;2
+after all;;af-ter all;;"#f-t@-r$l;;3
+aftercare;;af-ter-care;;#f-t@-k8R;;3
+afterdamp;;af-ter-damp;;#f-t@-d{mp;;3
+aftereffect;;af-ter-ef-fect;;#f-t@-rI-"fEkt;;4
+afterlife;;af-ter-life;;#f-t@-l2f;;3
+aftermath;;af-ter-math;;#f-t@-m{T;;3
+afternoon;;af-ter-noon;;"#f-t@-nun;;3
+afternoon;;af-ter-noon;;#f-t@-nun;;3
+afternoons;;af-ter-noons;;"#f-t@-nunz;;3
+aftershave;;af-ter-shave;;#f-t@-S1v;;3
+aftertaste;;af-ter-taste;;#f-t@-t1st;;3
+afterward;;af-ter-ward;;#f-t@-w@d;;3
+agape;;a-gape;;@-g1p;;2
+agate;;ag-ate;;{-g@t;;2
+agave;;a-ga-ve;;@-g1-vI;;3
+age;;age;;1_;;1
+age;;age;;1_;;1
+aged;;aged;;1-_Id;;2
+aged;;a-ged;;1_d;;1
+age-group;;age--group;;1_-"grup;;2
+ageing;;age-ing;;1-_IN;;2
+agelessness;;age-less-ness;;1_-lIs-nIs;;3
+agenda;;a-gen-da;;@-_En-d@;;3
+age of consent;;age of con-sent;;"1_-Qv-k@n-sEnt;;4
+age-old;;age--old;;"1_-5ld;;2
+agglomerate;;ag-glom-er-ate;;@-glQ-m@-r@t;;4
+agglutinate;;ag-glu-ti-nate;;@-glu-tI-n1t;;4
+agglutination;;ag-glu-ti-na-tion;;@-"glu-tI-n1-SH;;5
+aggrandize;;ag-gran-dize;;@-gr{n-d2z;;3
+aggravation;;ag-gra-va-tion;;"{-gr@-v1-SH;;4
+aggregate;;ag-gre-gate;;{-grI-g@t;;3
+aggregate;;ag-gre-gate;;{-grI-g@t;;3
+aggregation;;ag-gre-ga-tion;;"{-grI-g1-SH;;4
+aggress;;ag-gress;;@-grEs;;2
+aggression;;ag-gres-sion;;@-grE-SH;;3
+aggressive;;ag-gres-sive;;@-grE-sIv;;3
+aggressiveness;;ag-gres-sive-ness;;@-grE-sIv-nIs;;4
+aggressor;;ag-gres-sor;;@-grE-s@R;;3
+aggrieve;;ag-grieve;;@-griv;;2
+aggrieved;;ag-grieved;;@-grivd;;2
+aggro;;ag-gro;;{-gr5;;2
+aghast;;a-ghast;;@-g#st;;2
+agile;;ag-ile;;{-_2l;;2
+agilely;;ag-ile-ly;;{-_2l-lI;;3
+agility;;a-gil-i-ty;;@-_I-l@-tI;;4
+agin;;a-gin;;@-gIn;;2
+agitate;;ag-i-tate;;{-_I-t1t;;3
+agitated;;ag-i-tat-ed;;{-_I-t1-tId;;4
+agitating;;ag-i-tat-ing;;{-_I-t1-tIN;;4
+agitator;;ag-i-ta-tor;;{-_I-t1-t@R;;4
+aglow;;a-glow;;@-gl5;;2
+agnail;;ag-nail;;{g-n1l;;2
+Agnus Dei;;Ag-nus De-i;;"{g-n@s-d1-i;;4
+ago;;a-go;;@-g5;;2
+agonized;;ag-o-nized;;{-g@-n2zd;;3
+agonizingly;;ag-o-niz-ing-ly;;{-g@-n2-zIN-lI;;5
+agony;;ag-o-ny;;{-g@-nI;;3
+agrarian;;a-grar-i-an;;@-gr8-r7n;;3
+agricultural;;ag-ri-cul-tur-al;;"{-grI-kVl-J@-r@l;;5
+agriculturalist;;ag-ri-cul-tur-al-ist;;"{-grI-kVl-J@-r@-lIst;;6
+agriculture;;ag-ri-cul-ture;;{-grI-kVl-J@R;;4
+agriculturist;;ag-ri-cul-tur-ist;;"{-grI-kVl-J@-rIst;;5
+agronomist;;a-gron-o-mist;;@-grQ-n@-mIst;;4
+aground;;a-ground;;@-gr6nd;;2
+aground;;a-ground;;@-gr6nd;;2
+ague;;a-gue;;1-gju;;2
+aha;;a-ha;;#-h#;;2
+ahem;;a-hem;;hF;;1
+ahoy;;a-hoy;;@-h4;;2
+aid;;aid;;1d;;1
+aide;;aide;;1d;;1
+aide-m#emoire;;aide--me-moire;;"1d-mEm-w#R;;3
+ailment;;ail-ment;;1l-m@nt;;2
+aim;;aim;;1m;;1
+aim;;aim;;1m;;1
+aim at;;aim at;;1m-{t;;2
+aimless;;aim-less;;1m-lIs;;2
+aimlessly;;aim-less-ly;;1m-lIs-lI;;3
+aimlessness;;aim-less-ness;;1m-lIs-nIs;;3
+ain't;;ain't;;1nt;;1
+ain't;;ain't;;1nt;;1
+air;;air;;8R;;1
+airbase;;air-base;;8-b1s;;2
+airbed;;air-bed;;8-bEd;;2
+airborne;;air-borne;;8-b$n;;2
+airbus;;air-bus;;8-bVs;;2
+air chief marshal;;air chief mar-shal;;"8-Jif-m#-SP;;4
+air commodore;;air com-mo-dore;;"8-kQ-m@-d$R;;4
+air-conditioned;;air--con-di-tioned;;8-k@n-"dI-SHd;;4
+air-cooled;;air--cooled;;8-"kuld;;2
+air-cooling;;air--cool-ing;;8-"ku-lIN;;3
+aircraft;;air-craft;;8-kr#ft;;2
+aircraft carrier;;air-craft car-ri-er;;8-kr#ft-"k{-r7R;;4
+aircraftman;;air-craft-man;;8-kr#ft-m@n;;3
+aircraftsman;;air-crafts-man;;8-kr#fts-m@n;;3
+airdrome;;air-drome;;8-dr5m;;2
+airfield;;air-field;;8-fild;;2
+airframe;;air-frame;;8-fr1m;;2
+airgun;;air-gun;;8-gVn;;2
+airhole;;air-hole;;8-h5l;;2
+airlift;;air-lift;;8-lIft;;2
+airlock;;air-lock;;8-lQk;;2
+airmail;;air-mail;;8-m1l;;2
+airman;;air-man;;8-m@n;;2
+air mattress;;air mat-tress;;8-"m{-trIs;;3
+air-minded;;air--mind-ed;;8-"m2n-dId;;3
+airpocket;;air-pock-et;;8-"pQ-kIt;;3
+airport;;air-port;;8-p$t;;2
+air-raid;;air--raid;;8-r1d;;2
+airsick;;air-sick;;8-sIk;;2
+airsickness;;air-sick-ness;;8-"sIk-nIs;;3
+airspace;;air-space;;8-sp1s;;2
+airspeed;;air-speed;;8-spid;;2
+air terminal;;air ter-mi-nal;;8-"t3-mI-nP;;4
+air-to-ground;;air--to--ground;;"8-tu-gr6nd;;3
+airworthiness;;air-wor-thi-ness;;8-"w3-DI-nIs;;4
+airworthy;;air-wor-thy;;8-"w3-DI;;3
+airy;;air-y;;8-rI;;2
+aitch-bone;;aitch--bone;;1J-b5n;;2
+akimbo;;a-kim-bo;;@-kIm-b5;;3
+akin;;a-kin;;@-kIn;;2
+Al;;Al;;{l;;1
+alabaster;;al-a-bas-ter;;"{-l@-b#-st@R;;4
+alabaster;;al-a-bas-ter;;"{-l@-b#-st@R;;4
+`a la carte;;a la carte;;"#-l#-k#t;;3
+`a la carte;;a la carte;;"#-l#-k#t;;3
+alack;;a-lack;;@-l{k;;2
+alarm;;a-larm;;@-l#m;;2
+alb;;alb;;{lb;;1
+albeit;;al-be-it;;$l-bi-It;;3
+albino;;al-bi-no;;{l-bi-n5;;3
+alchemist;;al-che-mist;;{l-k@-mIst;;3
+alchemy;;al-che-my;;{l-k@-mI;;3
+alcoholic;;al-co-hol-ic;;"{l-k@-hQ-lIk;;4
+alcoholically;;al-co-hol-i-cal-ly;;"{l-k@-hQ-lI-k@-lI;;6
+alcoholism;;al-co-hol-ism;;{l-k@-hQ-lI-z@m;;5
+alcove;;al-cove;;{l-k5v;;2
+alehouse;;ale-house;;1l-h6s;;2
+alert;;a-lert;;@-l3t;;2
+alertly;;a-lert-ly;;@-l3t-lI;;3
+A-level;;A--lev-el;;1-"lE-vP;;3
+alexandrine;;al-ex-an-drine;;"{-lIg-z{n-dr2n;;4
+alexia;;a-lex-i-a;;1-lEk-s7;;3
+alfresco;;al-fres-co;;{l-frEs-k5;;3
+alfresco;;al-fres-co;;{l-frEs-k5;;3
+alga;;al-ga;;{l-g@;;2
+algebraical;;al-ge-bra-i-cal;;"{l-_I-br1-I-kP;;5
+algebraically;;al-ge-bra-i-cal-ly;;"{l-_I-br1-I-k@-lI;;6
+algorithm;;al-go-rithm;;{l-g@-rI-D@m;;4
+algorithmic;;al-go-rith-mic;;"{l-g@-rID-mIk;;4
+alias;;a-li-as;;1-l7s;;2
+alibi;;al-i-bi;;{-lI-b2;;3
+alienable;;al-ien-a-ble;;1-lj@-n@-bP;;4
+alienate;;al-ien-ate;;1-lj@-n1t;;3
+alienation;;al-ien-a-tion;;"1-lj@-n1-SH;;4
+alienist;;al-ien-ist;;1-lj@-nIst;;3
+alight;;a-light;;@-l2t;;2
+alight;;a-light;;@-l2t;;2
+align with;;a-lign with;;@-l2n-wID;;3
+alike;;a-like;;@-l2k;;2
+alike;;a-like;;@-l2k;;2
+aliment;;al-i-ment;;{-lI-m@nt;;3
+alimentary canal;;al-i-men-ta-ry ca-nal;;{-lI-"mEn-t@-rI-k@-n{l;;7
+alimony;;al-i-mo-ny;;{-lI-m@-nI;;4
+alive;;a-live;;@-l2v;;2
+alkali;;al-ka-li;;{l-k@-l2;;3
+alkaline;;al-ka-line;;{l-k@-l2n;;3
+all;;all;;$l;;1
+allay;;al-lay;;@-l1;;2
+all-day;;all--day;;$l-d1;;2
+allegation;;al-le-ga-tion;;"{-lI-g1-SH;;4
+allegedly;;al-leg-ed-ly;;@-lE-_Id-lI;;4
+allegiance;;al-le-giance;;@-li-_@ns;;3
+allegoric;;al-le-gor-ic;;"{-lI-gQ-rIk;;4
+allegorical;;al-le-gor-i-cal;;"{-lI-gQ-rI-kP;;5
+allegory;;al-le-go-ry;;{-lI-g@-rI;;4
+allegretto;;al-le-gret-to;;"{-lI-grE-t5;;4
+allegretto;;al-le-gret-to;;"{-lI-grE-t5;;4
+allegro;;al-le-gro;;@-l1-gr5;;3
+allegro;;al-le-gro;;@-l1-gr5;;3
+alleluia;;al-le-lu-ia;;"{-lI-lu-j@;;4
+allergy;;al-ler-gy;;{-l@-_I;;3
+alleviation;;al-le-vi-a-tion;;@-"li-vI-1-SH;;5
+all fours;;all fours;;"$l-f$z;;2
+alliance;;al-li-ance;;@-l2-@ns;;3
+alligator;;al-li-ga-tor;;{-lI-g1-t@R;;4
+all in;;all in;;"$l-In;;2
+alliterate;;al-lit-er-ate;;@-lI-t@-r1t;;4
+alliterative;;al-lit-er-a-tive;;@-lI-t@-r@-tIv;;5
+alliteratively;;al-lit-er-a-tive-ly;;@-lI-t@-r@-tIv-lI;;6
+all-mains;;all--mains;;"$l-m1nz;;2
+all-night;;all--night;;$l-n2t;;2
+allocate;;al-lo-cate;;{-l5-k1t;;3
+allocation;;al-lo-ca-tion;;"{-l5-k1-SH;;4
+allopathic;;al-lo-path-ic;;"{-l5-p{-TIk;;4
+allopathically;;al-lo-path-i-cal-ly;;"{-l@-p{-TI-k@-lI;;6
+allotment;;al-lot-ment;;@-lQt-m@nt;;3
+all out;;all out;;"$l-6t;;2
+all-out;;all--out;;$l-6t;;2
+allowance;;al-low-ance;;@-l6-@ns;;3
+allow of;;al-low of;;@-l6-Qv;;3
+alloy;;al-loy;;@-l4;;2
+all right;;all right;;$l-r2t;;2
+all-rounder;;all--round-er;;$l-r6n-d@R;;3
+all-time;;all--time;;$l-t2m;;2
+alluring;;al-lur-ing;;@-lj9-rIN;;3
+ally;;al-ly;;@-l2;;2
+alma mater;;al-ma ma-ter;;"{l-m@-m#-t@R;;4
+almanac;;al-ma-nac;;$l-m@-n{k;;3
+almost;;al-most;;$l-m5st;;2
+alms;;alms;;#mz;;1
+alms-giving;;alms--giv-ing;;#mz-"gI-vIN;;3
+alms-house;;alms--house;;#mz-h6s;;2
+aloft;;a-loft;;@-lQft;;2
+alone;;a-lone;;@-l5n;;2
+alone;;a-lone;;@-l5n;;2
+alongside;;a-long-side;;@-lQN-s2d;;3
+aloofness;;a-loof-ness;;@-luf-nIs;;3
+alopecia;;al-o-pe-ci-a;;"{-l@-pi-S@;;4
+alp;;alp;;{lp;;1
+alpha and omega;;al-pha and o-me-ga;;"{l-f@-r{nd-5-mI-g@;;6
+alphabetic;;al-pha-bet-ic;;"{l-f@-bE-tIk;;4
+alpha particle;;al-pha par-ti-cle;;{l-f@-"p#-tI-kP;;5
+alpine;;al-pine;;{l-p2n;;2
+alpinist;;al-pin-ist;;{l-pI-nIst;;3
+already;;al-read-y;;$l-rE-dI;;3
+Alsace;;Al-sace;;{l-s{s;;2
+Alsatian;;Al-sa-tian;;{l-s1-SH;;3
+also-ran;;al-so--ran;;$l-s5-r{n;;3
+altar;;al-tar;;$l-t@R;;2
+alter;;al-ter;;$l-t@R;;2
+alter ego;;al-ter e-go;;"{l-t@-rE-g5;;4
+alternate;;al-ter-nate;;$l-t@-n1t;;3
+alternating current;;al-ter-nat-ing cur-rent;;"$l-t@-n1-tIN-kV-r@nt;;6
+alternative;;al-ter-na-tive;;$l-t3-n@-tIv;;4
+alternative;;al-ter-na-tive;;$l-t3-n@-tIv;;4
+alternatively;;al-ter-na-tive-ly;;$l-t3-n@-tIv-lI;;5
+alternator;;al-ter-na-tor;;$l-t@-n1-t@R;;4
+altitude;;al-ti-tude;;{l-tI-tjud;;3
+alto;;al-to;;{l-t5;;2
+altogether;;al-to-geth-er;;"$l-t@-gE-D@R;;4
+altogether;;al-to-geth-er;;"$l-t@-gE-D@R;;4
+altruism;;al-tru-ism;;{l-trU-I-z@m;;4
+alum;;al-um;;{-l@m;;2
+aluminum;;a-lu-mi-num;;@-lu-mI-n@m;;4
+alveolar;;al-ve-o-lar;;{l-v7-l@R;;3
+alveolar;;al-ve-o-lar;;{l-v7-l@R;;3
+always;;al-ways;;$l-w1z;;2
+amalgam;;a-mal-gam;;@-m{l-g@m;;3
+amalgamate;;a-mal-ga-mate;;@-m{l-g@-m1t;;4
+amalgamation;;a-mal-ga-ma-tion;;@-"m{l-g@-m1-SH;;5
+amaryllis;;am-a-ryl-lis;;"{-m@-rI-lIs;;4
+amass;;a-mass;;@-m{s;;2
+amateur;;am-a-teur;;{-m@-t@R;;3
+amateurism;;am-a-teur-ism;;{-m@-t@-rI-z@m;;5
+amaze;;a-maze;;@-m1z;;2
+amazon;;am-a-zon;;{-m@-z@n;;3
+amazonian;;am-a-zo-ni-an;;"{-m@-z5-nj@n;;4
+ambassador;;am-bas-sa-dor;;{m-b{-s@-d@R;;4
+ambassadorial;;am-bas-sa-do-ri-al;;{m-"b{-s@-d$-r7l;;5
+ambassadorship;;am-bas-sa-dor-ship;;{-b{-s@-d@-SIp;;5
+ambidextrous;;am-bi-dex-trous;;"{m-bI-dEks-tr@s;;4
+ambidextrously;;am-bi-dex-trous-ly;;"{m-bI-dEk-str@s-lI;;5
+ambience;;am-bi-ence;;{m-b7ns;;2
+ambient;;am-bi-ent;;{m-b7nt;;2
+ambiguously;;am-big-u-ous-ly;;{m-bI-gj9s-lI;;4
+ambiguousness;;am-big-u-ous-ness;;{m-bI-gj9s-nIs;;4
+ambition;;am-bi-tion;;{m-bI-SH;;3
+ambitious;;am-bi-tious;;{m-bI-S@s;;3
+ambitiously;;am-bi-tious-ly;;{m-bI-S@s-lI;;4
+ambitiousness;;am-bi-tious-ness;;{m-bI-S@s-nIs;;4
+ambivalent;;am-biv-a-lent;;{m-bI-v@-l@nt;;4
+amble;;am-ble;;{m-bP;;2
+ambrosia;;am-bro-sia;;{m-br5-zj@;;3
+ambulance;;am-bu-lance;;{m-bjU-l@ns;;3
+ambulant;;am-bu-lant;;{m-bjU-l@nt;;3
+ambuscade;;am-bus-cade;;"{m-b@s-k1d;;3
+ambuscade;;am-bus-cade;;"{m-b@s-k1d;;3
+ambush;;am-bush;;{m-bUS;;2
+AmE;;AmE;;{-"mE-rI-k@n-IN-glIS;;6
+ameliorate;;a-mel-io-rate;;@-mi-lj@-r1t;;4
+amenable;;a-me-na-ble;;@-mi-n@-bP;;4
+amendable;;a-mend-a-ble;;@-mEn-d@-bP;;4
+American;;A-mer-i-can;;@-mE-rI-k@n;;4
+American football;;A-mer-i-can foot-ball;;@-"mE-rI-k@n-fUt-b$l;;6
+American Indian;;A-mer-i-can In-di-an;;@-"mE-rI-k@n-In-dj@n;;6
+Amhara;;Am-ha-ra;;{m-h#-r@;;3
+Amharic;;Am-har-ic;;{m-h{-rIk;;3
+amiable;;a-mi-a-ble;;1-mj@-bP;;3
+amiably;;a-mi-a-bly;;1-mj@-blI;;3
+amicability;;am-i-ca-bil-i-ty;;"{-mI-k@-bI-l@-tI;;6
+amicable;;am-i-ca-ble;;{-mI-k@-bP;;4
+amicably;;am-i-ca-bly;;{-mI-k@-blI;;4
+amidships;;a-mid-ships;;@-mId-SIps;;3
+amir;;a-mir;;@-m7R;;2
+amiss;;a-miss;;@-mIs;;2
+amity;;am-i-ty;;{-m@-tI;;3
+ammonia;;am-mo-nia;;@-m5-nj@;;3
+ammoniated;;am-mo-ni-at-ed;;@-m5-nI-1-tId;;5
+ammonite;;am-mo-nite;;{-m@-n2t;;3
+ammunition;;am-mu-ni-tion;;"{-mjU-nI-SH;;4
+amnesia;;am-ne-sia;;{m-ni-zj@;;3
+amoeba;;a-moe-ba;;@-mi-b@;;3
+amok;;a-mok;;@-mQk;;2
+among;;a-mong;;@-mVN;;2
+amongst;;a-mongst;;@-mVNst;;2
+amorality;;a-mo-ral-i-ty;;"1-mQ-r{-lI-tI;;5
+amorously;;am-o-rous-ly;;{-m@-r@s-lI;;4
+amorousness;;am-o-rous-ness;;{-m@-r@s-nIs;;4
+amorphously;;a-mor-phous-ly;;@-m$-f@s-lI;;4
+amorphousness;;a-mor-phous-ness;;@-m$-f@s-nIs;;4
+amount;;a-mount;;@-m6nt;;2
+amount to;;a-mount to;;@-m6nt-tu;;3
+amour;;a-mour;;@-m9R;;2
+amperage;;am-per-age;;{m-p@-rI_;;3
+amphetamine;;am-phet-a-mine;;{m-fE-t@-min;;4
+amphibian;;am-phib-i-an;;{m-fI-b7n;;3
+amphibious;;am-phib-i-ous;;{m-fI-b7s;;3
+amphora;;am-pho-ra;;{m-f@-r@;;3
+amplifier;;am-pli-fi-er;;{m-plI-f2-@R;;4
+amplify;;am-pli-fy;;{m-plI-f2;;3
+amplitude;;am-pli-tude;;{m-plI-tjud;;3
+amply;;am-ply;;{m-plI;;2
+ampoule;;am-poule;;{m-pul;;2
+amputate;;am-pu-tate;;{m-pjU-t1t;;3
+amuse;;a-muse;;@-mjuz;;2
+amusing;;a-mus-ing;;@-mu-zIN;;3
+anachronism;;a-nach-ro-nism;;@-n{-kr@-nI-z@m;;5
+anaemia;;a-nae-mi-a;;@-ni-mj@;;3
+anaemic;;a-nae-mic;;@-ni-mIk;;3
+anaemically;;a-nae-mi-cal-ly;;@-ni-mI-k@-lI;;5
+anaesthetic;;an-aes-thet-ic;;"{-nIs-TE-tIk;;4
+anaesthetize;;an-aes-the-tize;;{-nis-T@-t2z;;4
+anagram;;an-a-gram;;{-n@-gr{m;;3
+anal;;a-nal;;1-nP;;2
+analgesic;;an-al-ge-sic;;"{-n{l-_i-sIk;;4
+analogize;;a-nal-o-gize;;@-n{-l@-_2z;;4
+analogously;;a-nal-o-gous-ly;;@-n{-l@-g@s-lI;;5
+analogue;;an-a-logue;;{-n@-lQg;;3
+analogue computer;;an-a-logue com-put-er;;"{-n@-lQg-k@m-pju-t@R;;6
+analytic;;an-a-lyt-ic;;"{-n@-lI-tIk;;4
+analytically;;an-a-lyt-i-cal-ly;;"{-n@-lI-tI-k@-lI;;6
+anapaestic;;an-a-paes-tic;;"{-n@-pi-stIk;;4
+anarchic;;an-ar-chic;;{-n#-kIk;;3
+anarchical;;an-ar-chi-cal;;{-n#-kI-kP;;4
+anarchically;;an-ar-chi-cal-ly;;{-n#-kI-k@-lI;;5
+anarchism;;an-ar-chism;;{-n@-kI-z@m;;4
+anarchist;;an-ar-chist;;{-n@-kIst;;3
+anarchistically;;an-ar-chis-ti-cal-ly;;"{-n@-kI-stI-k@-lI;;6
+anatomical;;an-a-tom-i-cal;;"{-n@-tQ-mI-kP;;5
+anatomy;;a-nat-o-my;;@-n{-t@-mI;;4
+ancestor;;an-ces-tor;;{n-sE-st@R;;3
+anchorage;;an-chor-age;;{N-k@-rI_;;3
+anchoress;;an-cho-ress;;{N-k@-rIs;;3
+anchorite;;an-cho-rite;;{N-k@-r2t;;3
+ancient;;an-cient;;1n-S@nt;;2
+ancillary;;an-cil-lar-y;;{n-sI-l@-rI;;4
+andante;;an-dan-te;;{n-d{n-tI;;3
+andante;;an-dan-te;;{n-d{n-tI;;3
+andante;;an-dan-te;;{n-d{n-tI;;3
+andiron;;and-i-ron;;{n-d2-@n;;3
+Andorra;;An-dor-ra;;{n-d$-r@;;3
+Andorran;;An-dor-ran;;{n-d$-r@n;;3
+anecdotal;;an-ec-do-tal;;"{-nEk-d5-tP;;4
+anecdote;;an-ec-dote;;{-nIk-d5t;;3
+anemometer;;an-e-mom-e-ter;;"{-nI-mQ-mI-t@R;;5
+anemone;;a-nem-o-ne;;@-nE-m@-nI;;4
+aneroid;;an-er-oid;;{-n@-r4d;;3
+anew;;a-new;;@-nju;;2
+angel;;an-gel;;1n-_@l;;2
+angelical;;an-gel-i-cal;;{n-_E-lI-kP;;4
+angelically;;an-gel-i-cal-ly;;@n-_E-lI-k@-lI;;5
+angelus;;an-ge-lus;;{n-_@-l@s;;3
+anger;;an-ger;;{N-g@R;;2
+angle;;an-gle;;{N-gP;;2
+angle bracket;;an-gle brack-et;;{N-gP-"br{-kIt;;4
+angle-dozer;;an-gle--doz-er;;{N-gP-"d5-z@;;4
+angle-park;;an-gle--park;;{N-gP-p#k;;3
+Anglican;;An-gli-can;;{N-glI-k@n;;3
+Anglican;;An-gli-can;;{N-glI-k@n;;3
+Anglicanism;;An-gli-can-ism;;{N-glI-k@-nI-z@m;;5
+anglicize;;an-gli-cize;;{N-glI-s2z;;3
+Anglo-American;;An-glo--A-mer-i-can;;"{N-gl5-@-mE-rI-k@n;;6
+Anglo-Catholic;;An-glo--Cath-o-lic;;"{N-gl5-k{-T@-lIk;;5
+Anglo-Indian;;An-glo--In-di-an;;"{N-gl5-In-dj@n;;4
+Anglophile;;An-glo-phile;;{N-gl5-f2l;;3
+Anglophilia;;An-glo-phil-i-a;;"{N-gl5-fI-l7;;4
+Anglophobe;;An-glo-phobe;;{N-gl5-f5b;;3
+Anglo-Saxon;;An-glo--Sax-on;;"{N-gl5-s{k-s@n;;4
+Angolan;;An-go-lan;;{N-g5-l@n;;3
+angora;;an-go-ra;;{N-g$-r@;;3
+angrily;;an-gri-ly;;{n-gr@-lI;;3
+angst;;angst;;{Nst;;1
+Anguillan;;An-guil-lan;;{N-gwI-l@n;;3
+Anguillan;;An-guil-lan;;{N-gwI-l@n;;3
+anguish;;an-guish;;{N-gwIS;;2
+animadvert;;an-i-mad-vert;;"{-nI-m{d-v3t;;4
+animalism;;an-i-mal-ism;;{-nI-m@-lI-z@m;;5
+animal kingdom;;an-i-mal king-dom;;{-nI-mP-"kIN-d@m;;5
+animate;;an-i-mate;;{-nI-m@t;;3
+animated cartoon;;an-i-mat-ed car-toon;;"{-nI-m1-tId-k#-tun;;6
+animation;;an-i-ma-tion;;"{-nI-m1-SH;;4
+animosity;;an-i-mos-i-ty;;"{-nI-mQ-s@-tI;;5
+anis;;an-is;;{-nis;;2
+anise;;an-ise;;{-nIs;;2
+ankle;;an-kle;;{N-kP;;2
+anna;;an-na;;{-n@;;2
+annalist;;an-nal-ist;;{-n@-lIst;;3
+annals;;an-nals;;{-nPz;;2
+annexe;;an-nexe;;{-nEks;;2
+anniversary;;an-ni-ver-sa-ry;;"{-nI-v3-s@-rI;;5
+Anno Domini;;An-no Dom-i-ni;;"{-n5-dQ-mI-n2;;5
+annotate;;an-no-tate;;{-n5-t1t;;3
+announcement;;an-nounce-ment;;@-n6n-sm@nt;;3
+annoy;;an-noy;;@-n4;;2
+annoying;;an-noy-ing;;@-n4-IN;;3
+annual;;an-nu-al;;{-nj9l;;2
+annually;;an-nu-al-ly;;{-nj9-lI;;3
+annuitant;;an-nu-i-tant;;@-nju-t@nt;;3
+annuity;;an-nu-i-ty;;@-nju-I-tI;;4
+annul;;an-nul;;@-nVl;;2
+annular;;an-nu-lar;;{-njU-l@R;;3
+annunciate;;an-nun-ci-ate;;@-nVn-sI-1t;;4
+annunciation;;an-nun-ci-a-tion;;@-"nVn-sI-1-SH;;5
+anode;;an-ode;;{-n5d;;2
+anodyne;;an-o-dyne;;{-n5-d2n;;3
+anodyne;;an-o-dyne;;{-n5-d2n;;3
+anointment;;a-noint-ment;;@-n4nt-m@nt;;3
+anomalous;;a-nom-a-lous;;@-nQ-m@-l@s;;4
+anomalously;;a-nom-a-lous-ly;;@-nQ-m@-l@s-lI;;5
+anomaly;;a-nom-a-ly;;@-nQ-m@-lI;;4
+anon.;;anon.;;@-nQn;;2
+anonymous;;a-non-y-mous;;@-nQ-nI-m@s;;4
+anonymously;;a-non-y-mous-ly;;@-nQ-nI-m@s-lI;;5
+anopheles;;a-noph-e-les;;@-nQ-fI-liz;;4
+anorak;;an-o-rak;;{-n@-r{k;;3
+answer;;an-swer;;#n-s@R;;2
+answerable;;an-swer-a-ble;;#n-s@-r@-bP;;4
+answerably;;an-swer-a-bly;;#n-s@-r@-blI;;4
+answer for;;an-swer for;;#n-s@-f$R;;3
+antacid;;ant-ac-id;;"{n-t{-sId;;3
+antagonistic;;an-tag-o-nis-tic;;{n-"t{-g@-nI-stIk;;5
+antagonistically;;an-tag-o-nis-ti-cal-ly;;{n-"t{-g@-nI-stI-k@-lI;;7
+antagonize;;an-tag-o-nize;;{n-t{-g@-n2z;;4
+antarctic;;ant-arc-tic;;{n-t#k-tIk;;3
+ante;;an-te;;{n-tI;;2
+antecede;;an-te-cede;;"{n-tI-sid;;3
+antecedence;;an-te-ced-ence;;"{n-tI-si-d@ns;;4
+antecedent;;an-te-ced-ent;;"{n-tI-si-d@nt;;4
+antecedents;;an-te-ced-ents;;"{n-tI-si-d@nts;;4
+antediluvian;;an-te-di-lu-vi-an;;"{n-tI-dI-lu-vj@n;;5
+antediluvian;;an-te-di-lu-vi-an;;"{n-tI-dI-lu-vj@n;;5
+ante meridiem;;an-te me-rid-i-em;;"{n-tI-m@-rI-d7m;;5
+antenna;;an-ten-na;;{n-tE-n@;;3
+antepenultimate;;an-te-pe-nul-ti-mate;;"{n-tI-pI-nVl-tI-m@t;;6
+anterior;;an-te-ri-or;;{n-t7-r7R;;3
+ante up;;an-te up;;"{n-tI-Vp;;3
+anther;;an-ther;;{n-T@R;;2
+anthologist;;an-thol-o-gist;;{n-TQ-l@-_Ist;;4
+anthology;;an-thol-o-gy;;{n-TQ-l@-_I;;4
+anthracite;;an-thra-cite;;{n-Tr@-s2t;;3
+anthrax;;an-thrax;;{n-Tr{ks;;2
+anthropoid;;an-thro-poid;;{n-Tr5-p4d;;3
+anthropoid;;an-thro-poid;;{n-Tr5-p4d;;3
+anthropological;;an-thro-po-log-i-cal;;"{n-Tr@-p@-lQ-_I-kP;;6
+anthropologically;;an-thro-po-log-i-cal-ly;;"{n-Tr@-p@-lQ-_I-k@-lI;;7
+anthropologist;;an-thro-pol-o-gist;;"{n-Tr@-pQ-l@-_Ist;;5
+anthropology;;an-thro-pol-o-gy;;"{n-Tr@-pQ-l@-_I;;5
+anthropomorphic;;an-thro-po-mor-phic;;"{n-Tr@-p5-m$-fIk;;5
+anthropophagy;;an-thro-poph-a-gy;;"{n-Tr5-pQ-f@-_I;;5
+anti-aircraft;;an-ti--air-craft;;"{n-tI-8-kr#ft;;4
+antiaircraft;;an-ti-air-craft;;"{n-tI-8-kr#ft;;4
+antibiotic;;an-ti-bi-ot-ic;;"{n-tI-b2-Q-tIk;;5
+antibiotic;;an-ti-bi-ot-ic;;"{n-tI-b2-Q-tIk;;5
+antibody;;an-ti-bod-y;;{n-tI-"bQ-dI;;4
+anticipate;;an-tic-i-pate;;{n-tI-sI-p1t;;4
+anticipation;;an-tic-i-pa-tion;;{n-"tI-sI-p1-SH;;5
+anticlerical;;an-ti-cler-i-cal;;"{n-tI-klE-rI-kP;;5
+anticlimax;;an-ti-cli-max;;"{n-tI-kl2-m{ks;;4
+anticlockwise;;an-ti-clock-wise;;"{n-tI-klQk-w2z;;4
+antidote;;an-ti-dote;;{n-tI-d5t;;3
+antifreeze;;an-ti-freeze;;{n-tI-friz;;3
+antigen;;an-ti-gen;;{n-tI-_@n;;3
+Antiguan;;An-ti-guan;;{n-ti-g@n;;3
+antihistamine;;an-ti-his-ta-mine;;"{n-tI-hI-st@-mIn;;5
+antiknock;;an-ti-knock;;"{n-tI-nQk;;3
+antilogarithm;;an-ti-log-a-rithm;;"{n-tI-lQ-g@-rI-DF;;6
+antimacassar;;an-ti-ma-cas-sar;;"{n-tI-m@-k{-s@R;;5
+antimony;;an-ti-mo-ny;;{n-tI-m@-nI;;4
+antipathetic;;an-ti-pa-thet-ic;;"{n-tI-p@-TE-tIk;;5
+antipathetically;;an-ti-pa-thet-i-cal-ly;;"{n-tI-p@-TE-tI-klI;;6
+antipersonnel;;an-ti-per-son-nel;;"{n-tI-p3-s@-nEl;;5
+antipodes;;an-tip-o-des;;{n-tI-p@-diz;;4
+antique;;an-tique;;{n-tik;;2
+antique;;an-tique;;{n-tik;;2
+antiquity;;an-tiq-ui-ty;;{n-tI-kw@-tI;;4
+antirrhinum;;an-tir-rhi-num;;"{n-tI-r2-n@m;;4
+anti-Semite;;an-ti--Sem-ite;;"{n-tI-si-m2t;;4
+anti-Semite;;an-ti--Sem-ite;;"{n-tI-si-m2t;;4
+antiseptic;;an-ti-sep-tic;;"{n-tI-sEp-tIk;;4
+antiseptic;;an-ti-sep-tic;;"{n-tI-sEp-tIk;;4
+antithesis;;an-tith-e-sis;;{n-tI-TI-sIs;;4
+antithetical;;an-ti-thet-i-cal;;"{n-tI-TE-tI-kP;;5
+antithetically;;an-ti-thet-i-cal-ly;;"{n-tI-TE-tI-k@-lI;;6
+antitrades;;an-ti-trades;;"{n-tI-tr1dz;;3
+anus;;a-nus;;1-n@s;;2
+anxiously;;anx-ious-ly;;{Nk-S@s-lI;;3
+any;;an-y;;E-nI;;2
+anybody;;an-y-bod-y;;E-nI-"bQ-dI;;4
+anyhow;;an-y-how;;E-nI-h6;;3
+anyone;;an-y-one;;E-nI-wVn;;3
+anything;;an-y-thing;;E-nI-TIN;;3
+apart;;a-part;;@-p#t;;2
+apart;;a-part;;@-p#t;;2
+apartments;;a-part-ments;;@-p#t-m@nts;;3
+apathetic;;ap-a-thet-ic;;"{-p@-TE-tIk;;4
+apathetically;;ap-a-thet-i-cal-ly;;"{-p@-TE-tI-k@-lI;;6
+apathy;;ap-a-thy;;{-p@-TI;;3
+ape;;ape;;1p;;1
+aperture;;ap-er-ture;;{-p@-tj9R;;3
+apex;;a-pex;;1-pEks;;2
+aphasia;;a-pha-sia;;@-f1-zj@;;3
+aphasic;;a-pha-sic;;@-f1-zIk;;3
+aphrodisiac;;aph-ro-dis-i-ac;;"{-fr5-dI-zI-{k;;5
+apiary;;a-pi-ar-y;;1-pj@-rI;;3
+apocalyptic;;a-poc-a-lyp-tic;;@-"pQ-k@-lIp-tIk;;5
+apocalyptically;;a-poc-a-lyp-ti-cal-ly;;@-"pQ-k@-lIp-tI-klI;;6
+apologetic;;a-pol-o-get-ic;;@-"pQ-l@-_E-tIk;;5
+apologetic;;a-pol-o-get-ic;;@-"pQ-l@-_E-tIk;;5
+apologetically;;a-pol-o-get-i-cal-ly;;@-"pQ-l@-_E-tI-k@-lI;;7
+apology;;a-pol-o-gy;;@-pQ-l@-_I;;4
+apoplectically;;ap-o-plec-ti-cal-ly;;@-"pQ-l@-_E-tI-k@-lI;;7
+apostasy;;a-pos-ta-sy;;@-pQ-st@-sI;;4
+apostate;;a-pos-tate;;@-pQ-st1t;;3
+a posteriori;;a pos-te-ri-o-ri;;"1-pQ-stE-rI-$-r2;;6
+a posteriori;;a pos-te-ri-o-ri;;"1-pQ-st7-rI-$-r2;;6
+apostolic;;ap-os-tol-ic;;"{-p@-stQ-lIk;;4
+apostrophe;;a-pos-tro-phe;;@-pQs-tr@-fI;;4
+apothegm;;ap-o-thegm;;{-p@-TEm;;3
+appal;;ap-pal;;@-p$l;;2
+apparel;;ap-par-el;;@-p{-r@l;;3
+apparel;;ap-par-el;;@-p{-r@l;;3
+appeal;;ap-peal;;@-pil;;2
+appealing;;ap-peal-ing;;@-pi-lIN;;3
+appealingly;;ap-peal-ing-ly;;@-pi-lIN-lI;;4
+appeal to;;ap-peal to;;@-pil-tu;;3
+appear;;ap-pear;;@-p7R;;2
+appearances;;ap-pear-anc-es;;@-pi-r@n-sIz;;4
+appease;;ap-pease;;@-piz;;2
+appellant;;ap-pel-lant;;@-pE-l@nt;;3
+appellant;;ap-pel-lant;;@-pE-l@nt;;3
+appellation;;ap-pel-la-tion;;"{-p@-l1-SH;;4
+appendage;;ap-pend-age;;@-pEn-dI_;;3
+appendix;;ap-pen-dix;;@-pEn-dIks;;3
+appetizer;;ap-pe-tiz-er;;{-pI-t2-z@R;;4
+appetizing;;ap-pe-tiz-ing;;{-pI-t2-zIN;;4
+applaud;;ap-plaud;;@-pl$d;;2
+apple cart;;ap-ple cart;;{-pP-k#t;;3
+applejack;;ap-ple-jack;;{-pP-_{k;;3
+apple pie;;ap-ple pie;;"{-pP-p2;;3
+appliance;;ap-pli-ance;;@-pl2-@ns;;3
+applied;;ap-plied;;@-pl2d;;2
+appliqu#e;;ap-pli-que;;{-pli-k1;;3
+appliqu#e;;ap-pli-que;;{-pli-k1;;3
+appointee;;ap-point-ee;;@-p4n-ti;;3
+appointment;;ap-point-ment;;@-p4nt-m@nt;;3
+apportion;;ap-por-tion;;@-p$-SH;;3
+appositely;;ap-po-site-ly;;{-p5-zIt-lI;;4
+appraisal;;ap-prais-al;;@-pr1-zP;;3
+appraiser;;ap-prais-er;;@-pr1-z@R;;3
+appreciably;;ap-pre-cia-bly;;@-pri-S@-blI;;4
+appreciation;;ap-pre-ci-a-tion;;@-"pri-SI-1-SH;;5
+appreciative;;ap-pre-cia-tive;;@-pri-Sj@-tIv;;4
+apprehension;;ap-pre-hen-sion;;"{-prI-hEn-SH;;4
+apprehensively;;ap-pre-hen-sive-ly;;"{-prI-hEn-sIv-lI;;5
+apprentice;;ap-pren-tice;;@-prEn-tIs;;3
+apprenticeship;;ap-pren-tice-ship;;@-prEn-tI-SIp;;4
+approach;;ap-proach;;@-pr5J;;2
+approachable;;ap-proach-a-ble;;@-pr5-J@-bP;;4
+approbate;;ap-pro-bate;;{-pr5-b1t;;3
+approbation;;ap-pro-ba-tion;;"{-pr5-b1-SH;;4
+approbatory;;ap-pro-ba-to-ry;;"{-pr5-b1-t@-rI;;5
+appropriate;;ap-pro-pri-ate;;@-pr5-pr7t;;3
+appropriately;;ap-pro-pri-ate-ly;;@-pr5-pr7t-lI;;4
+appropriateness;;ap-pro-pri-ate-ness;;@-pr5-pr7t-nIs;;4
+appropriation;;ap-pro-pri-a-tion;;@-"pr5-prI-1-SH;;5
+approval;;ap-prov-al;;@-pru-vP;;3
+approve;;ap-prove;;@-pruv;;2
+approved school;;ap-proved school;;@-pruvd-skul;;3
+approximate;;ap-prox-i-mate;;@-prQk-sI-m@t;;4
+appurtenance;;ap-pur-te-nance;;@-p3-tI-n@ns;;4
+apr`es-ski;;a-pres--ski;;"{-pr1-ski;;3
+April fool;;A-pril fool;;"1-pr@l-ful;;3
+a priori;;a pri-o-ri;;"1-pr2-$-r2;;4
+aptitude;;ap-ti-tude;;{p-tI-tjud;;3
+aptly;;apt-ly;;{pt-lI;;2
+aquaplane;;aq-ua-plane;;{-kw@-pl1n;;3
+aquarium;;a-quar-i-um;;@-kw8-r7m;;3
+Aquarius;;A-quar-i-us;;@-kw8-r7s;;3
+Aquarius;;A-quar-i-us;;@-kw8-r7s;;3
+aquatic;;a-quat-ic;;@-kw{-tIk;;3
+aqua vitae;;aq-ua vi-tae;;"{-kw@-v2-ti;;4
+aqueduct;;aq-ue-duct;;{-kwI-dVkt;;3
+aqueous;;a-que-ous;;1-kw7s;;2
+aquiline;;aq-ui-line;;{-kwI-l2n;;3
+Arab;;Ar-ab;;{-r@b;;2
+Arabia;;A-ra-bi-a;;@-r1-bj@;;3
+Arabic;;Ar-a-bic;;{-r@-bIk;;3
+Arabic;;Ar-a-bic;;{-r@-bIk;;3
+Arabic numeral;;Ar-a-bic nu-mer-al;;"{-r@-bIk-nju-m@-r@l;;6
+Arabist;;Ar-ab-ist;;{-r@-bIst;;3
+arachnid;;a-rach-nid;;@-r{k-nId;;3
+arbitrament;;ar-bit-ra-ment;;#-bI-tr@-m@nt;;4
+arbitrariness;;ar-bi-trar-i-ness;;#-bI-tr@-rI-nIs;;5
+arbitrary;;ar-bi-trar-y;;#-bI-tr@-rI;;4
+arbitration;;ar-bi-tra-tion;;"#-bI-tr1-SH;;4
+arbitrator;;ar-bi-tra-tor;;#-bI-tr1-t@R;;4
+arboreal;;ar-bo-re-al;;#-b$-r7l;;3
+arboretum;;ar-bo-re-tum;;"#-b@-ri-t@m;;4
+arbour;;ar-bour;;#-b@R;;2
+arc;;arc;;#k;;1
+Arcadia;;Ar-ca-di-a;;#-k1-dj@;;3
+Arcadian;;Ar-ca-di-an;;#-k1-dj@n;;3
+arch;;arch;;#J;;1
+arch;;arch;;#J;;1
+arch;;arch;;#J;;1
+archaeological;;ar-chae-o-log-i-cal;;"#-k7-lQ-_I-kP;;5
+archaeologist;;ar-chae-ol-o-gist;;"#-kI-Q-l@-_Ist;;5
+archaic;;ar-cha-ic;;#-k1-Ik;;3
+archaism;;ar-cha-ism;;#-k1-I-z@m;;4
+archbishop;;arch-bish-op;;"#J-bI-S@p;;3
+archbishopric;;arch-bish-op-ric;;"#J-bI-S@p-rIk;;4
+archdeacon;;arch-dea-con;;"#J-di-k@n;;3
+archdeaconry;;arch-dea-con-ry;;"#J-di-k@n-rI;;4
+archdiocese;;arch-di-o-cese;;"#J-d2-@-sIs;;4
+archer;;arch-er;;#-J@R;;2
+archery;;ar-cher-y;;#-J@-rI;;3
+archetypically;;ar-che-typ-i-cal-ly;;"#-k@-tI-pI-k@-lI;;6
+archimandrite;;ar-chi-man-drite;;"#-kI-m{n-dr2t;;4
+archipelago;;ar-chi-pel-a-go;;"#-kI-pE-lI-g5;;5
+architectural;;ar-chi-tec-tur-al;;"#-kI-tEk-J@-r@l;;5
+architecture;;ar-chi-tec-ture;;#-kI-tEk-J@R;;4
+archives;;ar-chives;;#-k2vz;;2
+archivist;;ar-chi-vist;;#-kI-vIst;;3
+archly;;arch-ly;;#J-lI;;2
+arc-lamp;;arc--lamp;;#k-l{mp;;2
+Arctic;;Arc-tic;;#k-tIk;;2
+arc welding;;arc weld-ing;;"#k-wEl-dIN;;3
+ardent;;ar-dent;;#-d@nt;;2
+ardour;;ar-dour;;#-d@R;;2
+arduously;;ar-du-ous-ly;;#-dj9s-lI;;3
+arduousness;;ar-du-ous-ness;;#-dj9s-nIs;;3
+are;;are;;#R;;1
+aren't;;aren't;;#nt;;1
+ar^ete;;ar-ete;;@-rEt;;2
+argent;;ar-gent;;#-_@nt;;2
+Argentina;;Ar-gen-ti-na;;"#-_@n-ti-n@;;4
+argon;;ar-gon;;#-gQn;;2
+arguable;;ar-gu-a-ble;;#-gj9-bP;;3
+argue;;ar-gue;;#-gju;;2
+argumentation;;ar-gu-men-ta-tion;;"#-gjU-mEn-t1-SH;;5
+argumentative;;ar-gu-men-ta-tive;;"#-gjU-mEn-t@-tIv;;5
+argumentatively;;ar-gu-men-ta-tive-ly;;"#-gjU-mEn-t@-tIv-lI;;6
+Argus;;Ar-gus;;#-g@s;;2
+argy-bargy;;ar-gy--bar-gy;;"#-_I-b#-_I;;4
+aria;;a-ri-a;;#-r7;;2
+aridity;;a-rid-i-ty;;{-rI-d@-tI;;4
+aridly;;ar-id-ly;;{-rId-lI;;3
+Aries;;Ar-ies;;8-riz;;2
+Aries;;Ar-ies;;8-riz;;2
+aristocracy;;ar-is-toc-ra-cy;;"{-rI-stQ-kr@-sI;;5
+aristocratically;;a-ris-to-crat-i-cal-ly;;"{-rI-st@-kr{-tI-k@-lI;;7
+arithmetic;;a-rith-me-tic;;@-rIT-m@-tIk;;4
+arithmetical;;ar-ith-met-i-cal;;"{-rIT-mE-tI-kP;;5
+arithmetic progression;;a-rith-me-tic pro-gres-sion;;{-rIT-"mE-tIk-pr5-grE-SH;;7
+ark;;ark;;#k;;1
+Ark of the Covenant;;Ark of the Cov-e-nant;;"#k-Qv-D@-kV-v@-n@nt;;6
+armada;;ar-ma-da;;#-m#-d@;;3
+armadillo;;ar-ma-dil-lo;;"#-m@-dI-l5;;4
+armament;;ar-ma-ment;;#-m@-m@nt;;3
+armband;;arm-band;;#m-b{nd;;2
+armed;;armed;;#md;;1
+armful;;arm-ful;;#m-fUl;;2
+armhole;;arm-hole;;#m-h5l;;2
+armistice;;ar-mi-stice;;#-mI-stIs;;3
+armless;;arm-less;;#m-lIs;;2
+armlet;;arm-let;;#m-lIt;;2
+armoire;;ar-moire;;#m-w#R;;2
+armour;;ar-mour;;#-m@R;;2
+armour-clad;;ar-mour--clad;;#-m@-kl{d;;3
+armour-plate;;ar-mour--plate;;#-m@-pl1t;;3
+armoury;;ar-mour-y;;#-m@-rI;;3
+armpit;;arm-pit;;#m-pIt;;2
+arms-race;;arms--race;;#mz-r1s;;2
+army;;ar-my;;#-mI;;2
+army corps;;ar-my corps;;#-mI-k$R;;3
+army list;;ar-my list;;#-mI-lIst;;3
+aroma;;a-ro-ma;;@-r5-m@;;3
+aromatic;;ar-o-mat-ic;;"{-r5-m{-tIk;;4
+arr.;;arr.;;@-r1n_d;;2
+arrack;;ar-rack;;{-r@k;;2
+arraignment;;ar-raign-ment;;@-r1n-m@nt;;3
+arrange;;ar-range;;@-r1n_;;2
+arrange for;;ar-range for;;@-r1n_-f$R;;3
+array;;ar-ray;;@-r1;;2
+arrears;;ar-rears;;@-r7z;;2
+arrest;;ar-rest;;@-rEst;;2
+arrester;;ar-rest-er;;@-rE-st@R;;3
+arresting;;ar-rest-ing;;@-rE-stIN;;3
+arrive;;ar-rive;;@-r2v;;2
+arrogance;;ar-ro-gance;;{-r@-g@ns;;3
+arrogant;;ar-ro-gant;;{-r@-g@nt;;3
+arrogantly;;ar-ro-gant-ly;;{-r@-g@nt-lI;;4
+arrowroot;;ar-row-root;;{-r@-rut;;3
+arse;;arse;;#s;;1
+arse around;;arse a-round;;"#s-@-r6nd;;3
+arsenal;;ar-se-nal;;#-s@-nP;;3
+arsenic;;ar-se-nic;;#s-nIk;;2
+arson;;ar-son;;#-sH;;2
+artful;;art-ful;;#t-fUl;;2
+artfulness;;art-ful-ness;;#t-fUl-nIs;;3
+arthritic;;ar-thrit-ic;;#-TrI-tIk;;3
+Arthur;;Ar-thur;;#-T@R;;2
+article;;ar-ti-cle;;#-tI-kP;;3
+articulate;;ar-tic-u-late;;#-tI-kjU-l1t;;4
+articulately;;ar-tic-u-late-ly;;#-tI-kjU-l@t-lI;;5
+articulation;;ar-tic-u-la-tion;;#-"tI-kjU-l1-SH;;5
+artifact;;ar-ti-fact;;#-tI-f{kt;;3
+artificial insemination;;ar-ti-fi-cial in-sem-i-na-tion;;"#-tI-fI-SP-In-sE-mI-n1-SH;;9
+artificiality;;ar-ti-fi-ci-al-i-ty;;"#-tI-fI-SI-{-l@-tI;;7
+artificially;;ar-ti-fi-cial-ly;;"#-tI-fI-S@-lI;;5
+artiness;;art-i-ness;;#-tI-nIs;;3
+artiste;;ar-tiste;;#-tist;;2
+artistic;;ar-tis-tic;;#-tI-stIk;;3
+artistically;;ar-tis-ti-cal-ly;;#-tI-stI-k@-lI;;5
+artistry;;ar-tist-ry;;#-tIs-trI;;3
+artlessly;;art-less-ly;;#t-lIs-lI;;3
+arts and crafts;;arts and crafts;;"#ts-{nd-kr#fts;;3
+arty-crafty;;art-y--craft-y;;"#-tI-kr#f-tI;;4
+arum;;ar-um;;8-r@m;;2
+as;;as;;{z;;1
+as;;as;;{z;;1
+asbestos;;as-bes-tos;;{s-bE-stQs;;3
+ascendancy;;as-cend-an-cy;;@-sEn-d@n-sI;;4
+ascendant;;as-cend-ant;;@-sEn-d@nt;;3
+ascendent;;as-cend-ent;;@-sEn-d@nt;;3
+ascent;;as-cent;;@-sEnt;;2
+ascertain;;as-cer-tain;;"{-s@-t1n;;3
+ascetic;;as-cet-ic;;@-sE-tIk;;3
+ascetically;;as-cet-i-cal-ly;;@-sE-tI-k@-lI;;5
+ascorbic acid;;a-scor-bic ac-id;;@-"sk$-bIk-{-sId;;5
+ascribable;;a-scrib-a-ble;;@s-kr2-b@-bP;;4
+ascribable to;;a-scrib-a-ble to;;@s-kr2-b@-bP-tu;;5
+aseptic;;a-sep-tic;;1-"sEp-tIk;;3
+aseptically;;a-sep-ti-cal-ly;;1-sEp-tI-k@-lI;;5
+as from;;as from;;{z-frQm;;2
+ashamedly;;a-sham-ed-ly;;@-S1-mId-lI;;4
+ashen;;ash-en;;{-SH;;2
+ash-key;;ash--key;;{S-ki;;2
+ashy;;ash-y;;{-SI;;2
+Asian;;A-sian;;1-SH;;2
+Asiatic;;A-si-at-ic;;"1-SI-{-tIk;;4
+aside;;a-side;;@-s2d;;2
+aside from;;a-side from;;@-s2d-frQm;;3
+as if;;as if;;{z-If;;2
+askew;;a-skew;;@-skju;;2
+askew;;a-skew;;@-skju;;2
+asking;;ask-ing;;#-skIN;;2
+asking price;;ask-ing price;;#-skIN-pr2s;;3
+as long as;;as long as;;{z-lQN-{z;;3
+as opposed to;;as op-posed to;;{z-@-p5z-tu;;4
+asparagus;;as-par-a-gus;;@-sp{-r@-g@s;;4
+aspect;;as-pect;;{-spEkt;;2
+aspectual;;as-pec-tu-al;;{-spEk-J9l;;3
+aspectually;;as-pec-tu-al-ly;;{-spEk-J9-lI;;4
+asperse;;as-perse;;@-sp3s;;2
+aspersion;;as-per-sion;;@-sp3-SH;;3
+asphalt;;as-phalt;;{s-f{lt;;2
+asphodel;;as-pho-del;;{s-f@-dEl;;3
+asphyxia;;as-phyx-i-a;;@s-fIk-s7;;3
+asphyxiate;;as-phyx-i-ate;;@s-fIk-sI-1t;;4
+asphyxiation;;as-phyx-i-a-tion;;@s-"fIk-sI-1-SH;;5
+aspic;;as-pic;;{-spIk;;2
+aspirate;;as-pi-rate;;{-sp@-r1t;;3
+aspire;;as-pire;;@-sp2-@R;;3
+as regards;;as re-gards;;{z-rI-g#dz;;3
+assassinate;;as-sas-si-nate;;@-s{-sI-n1t;;4
+assault;;as-sault;;@-s$lt;;2
+assault and battery;;as-sault and bat-ter-y;;@-"s$lt-{nd-b{-t@-rI;;6
+assay;;as-say;;@-s1;;2
+assemblage;;as-sem-blage;;@-sEm-blI_;;3
+assemble;;as-sem-ble;;@-sEm-bP;;3
+assembly room;;as-sem-bly room;;@-sEm-blI-rUm;;4
+assent;;as-sent;;@-sEnt;;2
+assent;;as-sent;;@-sEnt;;2
+assert;;as-sert;;@-s3t;;2
+assertion;;as-ser-tion;;@-s3-SH;;3
+assertive;;as-ser-tive;;@-s3-tIv;;3
+assertiveness;;as-ser-tive-ness;;@-s3-tIv-nIs;;4
+assess;;as-sess;;@-sEs;;2
+assessment;;as-sess-ment;;@-sEs-m@nt;;3
+assessor;;as-ses-sor;;@-sE-s@R;;3
+asseveration;;as-sev-er-a-tion;;@-"sE-v@-r1-SH;;5
+assiduity;;as-si-du-i-ty;;"{-sI-dju-@-tI;;5
+assignable;;as-sign-a-ble;;@-s2-n@-bP;;4
+assignment;;as-sign-ment;;@-s2n-m@nt;;3
+assimilation;;as-sim-i-la-tion;;@-"sI-mI-l1-SH;;5
+assist;;as-sist;;@-sIst;;2
+Association Football;;As-so-ci-a-tion Foot-ball;;@-"s5-sI-1-SH-fUt-b$l;;7
+assonance;;as-so-nance;;{-s5-n@ns;;3
+assorted;;as-sort-ed;;@-s$-tId;;3
+assortment;;as-sort-ment;;@-s$t-m@nt;;3
+assuage;;as-suage;;@-sw1_;;2
+assume;;as-sume;;@-sjum;;2
+assumption;;as-sump-tion;;@-sVmp-SH;;3
+assure;;as-sure;;@-S$R;;2
+assured;;as-sured;;@-S$d;;2
+assuredly;;as-sur-ed-ly;;@-S$-rId-lI;;4
+aster;;as-ter;;{-st@R;;2
+asterisk;;as-ter-isk;;{-st@-rIsk;;3
+asterisk;;as-ter-isk;;{-st@-rIsk;;3
+astern;;a-stern;;@-st3n;;2
+asteroid;;as-ter-oid;;{-st@-r4d;;3
+asthma;;asth-ma;;{s-m@;;2
+asthmatic;;asth-mat-ic;;{s-m{-tIk;;3
+asthmatic;;asth-mat-ic;;{s-m{-tIk;;3
+astir;;a-stir;;@-st3R;;2
+astir;;a-stir;;@-st3R;;2
+as to;;as to;;{z-tu;;2
+astonishing;;as-ton-ish-ing;;@-stQ-nI-SIN;;4
+astrakhan;;as-tra-khan;;"{-str@-k{n;;3
+astray;;a-stray;;@-str1;;2
+astringent;;as-trin-gent;;@-strIn-_@nt;;3
+astrodome;;as-tro-dome;;{-str@-d5m;;3
+astrolabe;;as-tro-labe;;{-str5-l1b;;3
+astrologer;;as-trol-o-ger;;@-strQ-l@-_@R;;4
+astrology;;as-trol-o-gy;;@s-trQ-l@-_I;;4
+astronaut;;as-tro-naut;;{-str@-n$t;;3
+astronomer;;as-tron-o-mer;;@-strQ-n@-m@R;;4
+astronomically;;as-tro-nom-i-cal-ly;;"{-str@-nQ-mI-k@-lI;;6
+astronomy;;as-tron-o-my;;@s-trQ-n@-mI;;4
+astrophysical;;as-tro-phys-i-cal;;"{-str5-fI-zI-kP;;5
+astutely;;as-tute-ly;;@-stut-lI;;3
+astuteness;;as-tute-ness;;@-stjut-nIs;;3
+asylum;;a-sy-lum;;@-s2-l@m;;3
+asymmetric;;a-sym-met-ric;;"1-sI-mE-trIk;;4
+asymmetrically;;a-sym-met-ri-cal-ly;;"1-sI-mE-trI-k@-lI;;6
+asymmetry;;a-sym-me-try;;"1-sI-m@-trI;;4
+atabrine;;at-a-brine;;{-t@-brin;;3
+atavism;;at-a-vism;;{-t@-vI-z@m;;4
+atavistic;;at-a-vis-tic;;"{-t@-vI-stIk;;4
+atchoo;;a-tchoo;;@-Ju;;2
+atheistic;;a-the-is-tic;;"1-TI-I-stIk;;4
+atheistically;;a-the-is-ti-cal-ly;;"1-TI-I-stI-k@-lI;;6
+athlete;;ath-lete;;{T-lit;;2
+athlete's foot;;ath-lete's foot;;"{T-lits-fUt;;3
+athwart;;a-thwart;;@-Tw$t;;2
+athwart;;a-thwart;;@-Tw$t;;2
+atlantic;;at-lan-tic;;@t-l{n-tIk;;3
+atlas;;at-las;;{t-l@s;;2
+atmosphere;;at-mos-phere;;{t-m@-sf7R;;3
+atmospheric pressure;;at-mos-pher-ic pres-sure;;"{t-m@s-fE-rIk-prE-S@R;;6
+atoll;;a-toll;;{-tQl;;2
+atom bomb;;at-om bomb;;{-t@m-bQm;;3
+atomic energy;;a-tom-ic en-er-gy;;@-"tQ-mIk-E-n@-_I;;6
+atomic pile;;a-tom-ic pile;;@-"tQ-mIk-p2l;;4
+atomic weight;;a-tom-ic weight;;@-"tQ-mIk-w1t;;4
+atomize;;at-om-ize;;{-t5-m2z;;3
+atomizer;;at-om-iz-er;;{-t5-m2-z@R;;4
+atonality;;a-to-nal-i-ty;;"1-t5-n{-l@-tI;;5
+atonally;;a-ton-al-ly;;1-t5-nP-I;;4
+atrocious;;a-tro-cious;;@-tr5-S@s;;3
+atrophy;;at-ro-phy;;{-tr@-fI;;3
+attach;;at-tach;;@-t{J;;2
+attach to;;at-tach to;;@-t{J-tu;;3
+attack;;at-tack;;@-t{k;;2
+attack;;at-tack;;@-t{k;;2
+attacker;;at-tack-er;;@-t{-k@R;;3
+attainment;;at-tain-ment;;@-t1n-m@nt;;3
+attar;;at-tar;;{-t@R;;2
+attempt;;at-tempt;;@-tEmpt;;2
+attention;;at-ten-tion;;@-tEn-SH;;3
+attentive;;at-ten-tive;;@-tEn-tIv;;3
+attentiveness;;at-ten-tive-ness;;@-tEn-tIv-nIs;;4
+attenuate;;at-ten-u-ate;;@-tE-njU-1t;;4
+attenuation;;at-ten-u-a-tion;;@-"tE-njU-1-SH;;5
+attested;;at-test-ed;;@-tEs-tId;;3
+Attic;;At-tic;;{-tIk;;2
+attitude;;at-ti-tude;;{-tI-tjud;;3
+attorn;;at-torn;;@-t3n;;2
+attorney;;at-tor-ney;;@-t3-nI;;3
+attraction;;at-trac-tion;;@-tr{k-SH;;3
+attractive;;at-trac-tive;;@-tr{k-tIv;;3
+attractively;;at-trac-tive-ly;;@-tr{k-tIv-lI;;4
+attribute;;at-trib-ute;;{-trI-bjut;;3
+attribution;;at-tri-bu-tion;;"{-trI-bju-SH;;4
+attributive;;at-trib-u-tive;;@-trI-bjU-tIv;;4
+attributively;;at-trib-u-tive-ly;;@-trI-bjU-tIv-lI;;5
+attrition;;at-tri-tion;;@-trI-SH;;3
+attune to;;at-tune to;;@-tjun-tu;;3
+atypically;;a-typ-i-cal-ly;;"1-tI-pI-k@-lI;;5
+aubergine;;au-ber-gine;;5-b@-Zin;;3
+Aubriet;;Au-briet;;$-brI-1;;3
+aubrietia;;au-brie-tia;;$-bri-S@;;3
+auburn;;au-burn;;$-b@n;;2
+auction;;auc-tion;;$k-SH;;2
+auction bridge;;auc-tion bridge;;"$k-SH-brI_;;3
+auctioneer;;auc-tion-eer;;"$k-S@-n7R;;3
+audacious;;au-da-cious;;$-d1-S@s;;3
+audaciously;;au-da-cious-ly;;$-d1-S@s-lI;;4
+audacity;;au-dac-i-ty;;$-d{-s@-tI;;4
+audibly;;au-di-bly;;$-d@-blI;;3
+audience;;au-di-ence;;$-dj@ns;;2
+audio;;au-di-o;;$-dI-5;;3
+audio frequency;;au-di-o fre-quen-cy;;$-dI-5-"fri-kw@n-sI;;6
+audio-lingual;;au-di-o--lin-gual;;"$-dI-5-lIN-gw@l;;5
+audiovisual;;au-di-o-vis-u-al;;"$-dI-5-vI-Z9l;;5
+audit;;au-dit;;$-dIt;;2
+audition;;au-di-tion;;$-dI-SH;;3
+auditor;;au-di-tor;;$-dI-t@R;;3
+Aug.;;Aug.;;$-g@st;;2
+auger;;au-ger;;$-g@R;;2
+augmentation;;aug-men-ta-tion;;"$g-mEn-t1-SH;;4
+augur;;au-gur;;$-g@R;;2
+augur;;au-gur;;$-g@R;;2
+augury;;au-gu-ry;;$-gjU-rI;;3
+auk;;auk;;$k;;1
+auld lang syne;;auld lang syne;;"$ld-l{N-s2n;;3
+aunt;;aunt;;#nt;;1
+auntie;;aunt-ie;;#n-tI;;2
+au pair;;au pair;;"5-p8R;;2
+aureole;;au-re-ole;;$-rI-5l;;3
+auricle;;au-ri-cle;;$-rI-kP;;3
+auricular;;au-ric-u-lar;;$-rI-kjU-l@R;;4
+auriferous;;au-rif-er-ous;;$-rI-f@-r@s;;4
+aurora;;au-ro-ra;;$-r$-r@;;3
+auscultate;;aus-cul-tate;;$s-k@l-t1t;;3
+auscultation;;aus-cul-ta-tion;;"$s-k@l-t1-SH;;4
+Australasian;;Aus-tral-a-sian;;"Q-str@-l1-ZH;;4
+autarchy;;au-tar-chy;;$-t#-kI;;3
+authenticate;;au-then-ti-cate;;$-TEn-tI-k1t;;4
+authentication;;au-then-ti-ca-tion;;$-"TEn-tI-k1-SH;;5
+authoress;;au-thor-ess;;$-T@-rIs;;3
+authoritarian;;au-thor-i-tar-i-an;;$-"TQ-rI-t8-r7n;;5
+authoritative;;au-thor-i-ta-tive;;$-TQ-rI-t@-tIv;;5
+authoritatively;;au-thor-i-ta-tive-ly;;$-TQ-rI-t@-tIv-lI;;6
+autistically;;au-tis-ti-cal-ly;;$-tI-stI-k@-lI;;5
+auto;;au-to;;$-t5;;2
+autobahn;;au-to-bahn;;$-t5-b#n;;3
+autobiographical;;au-to-bi-o-graph-i-cal;;"$-t5-"b2-5-gr{-fI-kP;;7
+autobiographically;;au-to-bi-o-graph-i-cal-ly;;"$-t5-"b2-5-gr{-fI-k@-lI;;8
+autobiography;;au-to-bi-og-ra-phy;;"$-t5-b2-Q-gr@-fI;;6
+autocracy;;au-toc-ra-cy;;$-tQ-kr@-sI;;4
+autocrat;;au-to-crat;;$-t5-kr{t;;3
+autocratically;;au-to-crat-i-cal-ly;;"$-t5-kr{-tI-k@-lI;;6
+auto-da-f#e;;au-to--da--fe;;"$-t5-d#-f1;;4
+autoeroticism;;au-to-e-rot-i-cism;;"$-t5-I-rQ-tI-sI-z@m;;7
+autoerotism;;au-to-er-o-tism;;"$-t5-E-r@-tI-z@m;;6
+autograph;;au-to-graph;;$-t@-gr#f;;3
+autograph album;;au-to-graph al-bum;;$-t@-gr#f-"{l-b@m;;5
+autograph book;;au-to-graph book;;$-t@-gr#f-bUk;;4
+automat;;au-to-mat;;$-t5-m{t;;3
+automate;;au-to-mate;;$-t5-m1t;;3
+automatic;;au-to-mat-ic;;$-t@-m{-tIk;;4
+automatism;;au-tom-a-tism;;$-tQ-m@-tI-z@m;;5
+Automobile Association;;Au-to-mo-bile As-so-ci-a-tion;;$-t@-m5-bil-@-s5-sI-"1-SH;;9
+autonomously;;au-ton-o-mous-ly;;$-tQ-n@-m@s-lI;;5
+autonomy;;au-ton-o-my;;$-tQ-n@-mI;;4
+autostrada;;au-to-stra-da;;"$-t5-str#-d@;;4
+autosuggestion;;au-to-sug-ges-tion;;"$-t5-s@-_Es-J@n;;5
+autumn;;au-tumn;;$-t@m;;2
+autumnally;;au-tum-nal-ly;;$-tVm-n@-lI;;4
+auxiliary;;aux-il-ia-ry;;$g-zI-lj@-rI;;4
+av.;;av.;;{-v@-rI_;;3
+avail;;a-vail;;@-v1l;;2
+avalanche;;av-a-lanche;;{-v@-l#nJ;;3
+avant-garde;;a-vant--garde;;"{-vqN-g#d;;3
+avaricious;;av-a-ri-cious;;"{-v@-rI-S@s;;4
+avariciously;;av-a-ri-cious-ly;;"{-v@-rI-S@s-lI;;5
+avatar;;av-a-tar;;"{-v@-t#R;;3
+Ave.;;Ave.;;{-v@-nju;;3
+avenger;;a-veng-er;;@-vEn-_@R;;3
+avens;;av-ens;;1-vHz;;2
+avenue;;av-e-nue;;{-v@-nju;;3
+aver;;a-ver;;@-v3R;;2
+average;;av-er-age;;{-v@-rI_;;3
+average;;av-er-age;;{-v@-rI_;;3
+averse;;a-verse;;@-v3s;;2
+avert;;a-vert;;@-v3t;;2
+aviary;;a-vi-ar-y;;1-vj@-rI;;3
+aviation;;a-vi-a-tion;;"1-vI-1-SH;;4
+aviator;;a-vi-a-tor;;1-vI-1-t@R;;4
+avidly;;av-id-ly;;{-vId-lI;;3
+avocado;;av-o-ca-do;;"{-v5-k#-d5;;4
+avocet;;av-o-cet;;{-v5-sEt;;3
+avoid;;a-void;;@-v4d;;2
+avoidable;;a-void-a-ble;;@-v4-d@-bP;;4
+avoidance;;a-void-ance;;@-v4-d@ns;;3
+avoirdupois;;av-oir-du-pois;;"{-v@-d@-p4z;;4
+avowed;;a-vowed;;@-v6d;;2
+awake;;a-wake;;@-w1k;;2
+awake;;a-wake;;@-w1k;;2
+awaken;;a-wak-en;;@-w1-k@n;;3
+awakening;;a-wak-en-ing;;@-w1k-nIN;;3
+awake to;;a-wake to;;@-w1k-tu;;3
+aware;;a-ware;;@-w8R;;2
+awareness;;a-ware-ness;;@-w8-nIs;;3
+awash;;a-wash;;@-wQS;;2
+away;;a-way;;@-w1;;2
+away;;a-way;;@-w1;;2
+aweigh;;a-weigh;;@-w1;;2
+awe-inspiringly;;awe--in-spir-ing-ly;;$-rIn-"sp2-@-rIN-lI;;6
+awestricken;;awe-strick-en;;$-"strI-k@n;;3
+awestruck;;awe-struck;;$-strVk;;2
+awfully;;aw-ful-ly;;$-fU-lI;;3
+awhile;;a-while;;@-w2l;;2
+awkward;;awk-ward;;$-kw@d;;2
+awkwardness;;awk-ward-ness;;$-kw@d-nIs;;3
+axe;;axe;;{ks;;1
+axiomatically;;ax-i-o-mat-i-cal-ly;;"{k-sI-5-m{-tI-k@-lI;;7
+aye;;aye;;1;;1
+aye;;aye;;1;;1
+azalea;;a-zal-ea;;@-z1-lj@;;3
+b;;b;;bi;;1
+b;;b;;bi;;1
+baa;;baa;;b#;;1
+baa;;baa;;b#;;1
+baa-lamb;;baa--lamb;;b#-l{m;;2
+babble;;bab-ble;;b{-bP;;2
+babble;;bab-ble;;b{-bP;;2
+babbler;;bab-bler;;b{-bP-@R;;3
+babel;;ba-bel;;b1-bP;;2
+babu;;ba-bu;;b#-bu;;2
+baby;;ba-by;;b1-bI;;2
+baby carriage;;ba-by car-riage;;b1-bI-"k{-rI_;;4
+baby-face;;ba-by--face;;b1-bI-f1s;;3
+baby-faced;;ba-by--faced;;b1-bI-"f1st;;3
+baby-farmer;;ba-by--farm-er;;b1-bI-"f#-m@R;;4
+babyhood;;ba-by-hood;;b1-bI-hUd;;3
+baby-sit;;ba-by--sit;;b1-bI-"sIt;;3
+baby-sitter;;ba-by--sit-ter;;b1-bI-"sI-t@R;;4
+baby-sitting;;ba-by--sit-ting;;b1-bI-"sI-tIN;;4
+baby-talk;;ba-by--talk;;b1-bI-t$k;;3
+baccalaureate;;bac-ca-lau-re-ate;;"b{-k@-l$-r7t;;4
+baccarat;;bac-ca-rat;;b{-k@-r#;;3
+bacchanal;;bac-cha-nal;;b{-k@-nP;;3
+bacchanalian;;bac-cha-na-lian;;"b{-k@-n1-lj@n;;4
+bachelor;;bach-e-lor;;b{-J@-l@R;;3
+bachelor girl;;bach-e-lor girl;;b{-J@-l@-"g3l;;4
+bachelor's degree;;bach-e-lor's de-gree;;b{-J@-l@z-dI-"gri;;5
+bacillus;;ba-cil-lus;;b@-sI-l@s;;3
+back;;back;;b{k;;1
+backband;;back-band;;b{k-b{nd;;2
+backbench;;back-bench;;b{k-bEnJ;;2
+backbencher;;back-bench-er;;"b{k-bEn-J@R;;3
+backbiting;;back-bit-ing;;b{k-b2-tIN;;3
+back-blocks;;back--blocks;;b{k-blQks;;2
+backboard;;back-board;;b{k-b$d;;2
+backbone;;back-bone;;b{k-b5n;;2
+backbreaking;;back-break-ing;;b{k-"br1-kIN;;3
+backchat;;back-chat;;b{k-J{t;;2
+back dive;;back dive;;"b{k-d2v;;2
+backdoor;;back-door;;"b{k-d$R;;2
+backdrop;;back-drop;;b{k-drQp;;2
+backfire;;back-fire;;b{k-f2-@R;;3
+backfire;;back-fire;;"b{k-f2-@R;;3
+backgammon;;back-gam-mon;;b{k-"g{-m@n;;3
+backhand;;back-hand;;b{k-h{nd;;2
+backhand;;back-hand;;b{k-h{nd;;2
+backhanded;;back-hand-ed;;b{k-"h{n-dId;;3
+backlash;;back-lash;;b{k-l{S;;2
+backless;;back-less;;b{k-lIs;;2
+backmost;;back-most;;b{k-m5st;;2
+back of beyond;;back of be-yond;;"b{k-Qv-bI-jQnd;;4
+backroom;;back-room;;"b{k-rum;;2
+backroom boy;;back-room boy;;b{k-rUm-b4;;3
+backscratcher;;back-scratch-er;;b{k-skr{-J@R;;3
+backspace;;back-space;;b{k-sp1s;;2
+backstage;;back-stage;;"b{k-st1_;;2
+backstair;;back-stair;;b{k-st8R;;2
+backstroke;;back-stroke;;b{k-str5k;;2
+backtrack;;back-track;;b{k-tr{k;;2
+backward;;back-ward;;b{k-w@d;;2
+backward;;back-ward;;b{k-w@d;;2
+backward country;;back-ward coun-try;;"b{-kw@d-kVn-trI;;4
+backwardly;;back-ward-ly;;b{-kw@d-lI;;3
+backward nation;;back-ward na-tion;;"b{-kw@d-n1-SH;;4
+backwardness;;back-ward-ness;;b{-kw@d-nIs;;3
+backwards;;back-wards;;b{k-w@dz;;2
+backwater;;back-wa-ter;;b{k-"w$-t@R;;3
+backwoods;;back-woods;;b{k-wUdz;;2
+bacon;;ba-con;;b1-k@n;;2
+bacterial;;bac-te-ri-al;;b{k-t7-r7l;;3
+bacteriologist;;bac-te-ri-ol-o-gist;;b{k-"t7-rI-Q-l@-_Ist;;6
+bacterium;;bac-te-ri-um;;b{k-t7-r7m;;3
+Bactria;;Bac-tri-a;;b{k-tr7;;2
+bad;;bad;;b{d;;1
+bad;;bad;;b{d;;1
+bad debt;;bad debt;;"b{d-dEt;;2
+bad feeling;;bad feel-ing;;"b{d-fi-lIN;;3
+badge;;badge;;b{_;;1
+badger;;badg-er;;b{-_@R;;2
+badly;;bad-ly;;b{d-lI;;2
+badly-behaved;;bad-ly--be-haved;;"b{d-lI-bI-h1vd;;4
+badly-off;;bad-ly--off;;"b{d-lI-Qf;;3
+baffle;;baf-fle;;b{-fP;;2
+baffling;;baf-fling;;b{-fP-IN;;3
+bafflingly;;baf-fling-ly;;b{-flIN-lI;;3
+bag;;bag;;b{g;;1
+bag and baggage;;bag and bag-gage;;"b{g-{nd-b{-gI_;;4
+baggage;;bag-gage;;b{-gI_;;2
+baggy;;bag-gy;;b{-gI;;2
+bagnio;;bagn-io;;b#-nj5;;2
+bagpipe;;bag-pipe;;b{g-p2p;;2
+bags;;bags;;b{gz;;1
+bah;;bah;;b#;;1
+Bahamian;;Ba-ha-mi-an;;b@-h1-m7n;;3
+Bahamian;;Ba-ha-mi-an;;b@-h1-m7n;;3
+bailey;;bai-ley;;b1-lI;;2
+bailiff;;bail-iff;;b1-lIf;;2
+bailment;;bail-ment;;b1l-m@nt;;2
+bail out;;bail out;;"b1l-6t;;2
+bairn;;bairn;;b8n;;1
+bait;;bait;;b1t;;1
+bait;;bait;;b1t;;1
+bakelite;;ba-ke-lite;;b1-k@-l2t;;3
+baker;;bak-er;;b1-k@R;;2
+baker's dozen;;bak-er's doz-en;;"b1-k@z-dV-zH;;4
+baking-hot;;bak-ing--hot;;"b1-kIN-hQt;;3
+baksheesh;;bak-sheesh;;"b{k-SiS;;2
+balaclava;;bal-a-cla-va;;"b{-l@-kl#-v@;;4
+balance;;bal-ance;;b{-l@ns;;2
+balanced diet;;bal-anced di-et;;"b{-l@nst-d2-@t;;4
+balance of trade;;bal-ance of trade;;"b{-l@ns-Qv-tr1d;;4
+balance-wheel;;bal-ance--wheel;;b{-l@ns-wil;;3
+bald;;bald;;b$ld;;1
+balderdash;;bal-der-dash;;b$l-d@-d{S;;3
+balding;;bald-ing;;b$l-dIN;;2
+baldly;;bald-ly;;b$ld-lI;;2
+baldness;;bald-ness;;b$ld-nIs;;2
+bald-pate;;bald--pate;;b$ld-p1t;;2
+bale;;bale;;b1l;;1
+bale out;;bale out;;"b1l-6t;;2
+balk;;balk;;b$k;;1
+ball;;ball;;b$l;;1
+ballade;;bal-lade;;b{-l#d;;2
+ballast;;bal-last;;b{-l@st;;2
+ballcock;;ball-cock;;b$l-kQk;;2
+ball-dress;;ball--dress;;b$l-drEs;;2
+ballerina;;bal-le-ri-na;;"b{-l@-ri-n@;;4
+ballet-dancer;;bal-let--danc-er;;b{-lI-"d#n-s@R;;4
+ballet-skirt;;bal-let--skirt;;b{-lI-sk3t;;3
+balloon;;bal-loon;;b@-lun;;2
+ballooning;;bal-loon-ing;;b@-lu-nIN;;3
+balloonist;;bal-loon-ist;;b@-lu-nIst;;3
+ballot;;bal-lot;;b{-l@t;;2
+ballot-box;;bal-lot--box;;b{-l@t-bQks;;3
+ball-pen;;ball--pen;;b$l-pEn;;2
+ballpoint;;ball-point;;b$l-p4nt;;2
+ballpoint-pen;;ball-point--pen;;"b$l-p4nt-pEn;;3
+ballroom;;ball-room;;b$l-rUm;;2
+balls;;balls;;b$lz;;1
+balls-up;;balls--up;;b$lz-Vp;;2
+balls up;;balls up;;"b$lz-Vp;;2
+ball-up;;ball--up;;b$l-Vp;;2
+bally;;bal-ly;;b{-lI;;2
+balmy;;balm-y;;b#-mI;;2
+balsa;;bal-sa;;bQl-s@;;2
+balsam;;bal-sam;;b$l-s@m;;2
+baluster;;bal-us-ter;;b{-l@s-t@R;;3
+balustrade;;bal-us-trade;;"b{-l@s-tr1d;;3
+bamboo;;bam-boo;;b{m-bu;;2
+bamboo curtain;;bam-boo cur-tain;;"b{m-bu-k3-tH;;4
+ban;;ban;;b{n;;1
+ban;;ban;;b{n;;1
+banal;;ba-nal;;b@-n#l;;2
+banality;;ba-nal-i-ty;;b@-n{-l@-tI;;4
+banana;;ba-nan-a;;b@-n#-n@;;3
+banana republic;;ba-nan-a re-pub-lic;;b@-"n#-n@-rI-pV-blIk;;6
+bandage;;band-age;;b{n-dI_;;2
+Band-Aid;;Band--Aid;;b{nd-1d;;2
+bandanna;;ban-dan-na;;b{n-d{-n@;;3
+b and b;;b and b;;"bi-{nd-bi;;3
+bandbox;;band-box;;b{nd-bQks;;2
+bandoleer;;ban-do-leer;;"b{n-d5-l7R;;3
+bandwagon;;band-wag-on;;b{nd-"w{-g@n;;3
+bandy;;ban-dy;;b{n-dI;;2
+bandy;;ban-dy;;b{n-dI;;2
+bandy about;;ban-dy a-bout;;"b{n-dI-@-b6t;;4
+bane;;bane;;b1n;;1
+baneful;;bane-ful;;b1n-fUl;;2
+bang;;bang;;b{N;;1
+banger;;bang-er;;b{-N@R;;2
+Bangladesh;;Ban-gla-desh;;"b{N-gl@-dES;;3
+bangle;;ban-gle;;b{N-gP;;2
+bang-on;;bang--on;;"b{N-Qn;;2
+bang out;;bang out;;"b{N-6t;;2
+bang up;;bang up;;"b{N-Vp;;2
+banish;;ban-ish;;b{-nIS;;2
+bankbill;;bank-bill;;b{Nk-bIl;;2
+bank-draft;;bank--draft;;b{Nk-dr#ft;;2
+banker;;bank-er;;b{N-k@R;;2
+banker's card;;bank-er's card;;b{N-k@z-k#d;;3
+banker's draft;;bank-er's draft;;b{N-k@z-dr#ft;;3
+bank holiday;;bank hol-i-day;;"b{Nk-hQ-l@-d1;;4
+banking;;bank-ing;;b{N-kIN;;2
+bank on;;bank on;;b{Nk-Qn;;2
+bankrupt;;bank-rupt;;b{N-krVpt;;2
+bankruptcy;;bank-rupt-cy;;b{N-kr@pt-sI;;3
+banner headline;;ban-ner head-line;;"b{-n@-hEd-l2n;;4
+bannock;;ban-nock;;b{-n@k;;2
+banns;;banns;;b{nz;;1
+banquet;;ban-quet;;b{N-kwIt;;2
+banquet;;ban-quet;;b{N-kwIt;;2
+banshee;;ban-shee;;b{n-Si;;2
+bantam;;ban-tam;;b{n-t@m;;2
+banter;;ban-ter;;b{n-t@R;;2
+bantering;;ban-ter-ing;;b{n-t@-rIN;;3
+Bantu;;Ban-tu;;"b{n-tu;;2
+Bantu;;Ban-tu;;"b{n-tu;;2
+baobab;;ba-o-bab;;b1-5-b{b;;3
+baptism;;bap-tism;;b{p-tI-z@m;;3
+bar;;bar;;b#R;;1
+Bar;;Bar;;b#;;1
+barb;;barb;;b#b;;1
+Barbadian;;Bar-ba-di-an;;b#-b1-d7n;;3
+barbarian;;bar-bar-i-an;;b#-b8-r7n;;3
+barbarian;;bar-bar-i-an;;b#-b8-r7n;;3
+barbarism;;bar-ba-rism;;b#-b@-rI-z@m;;4
+barbecue;;bar-be-cue;;b#-bI-kju;;3
+barbed wire;;barbed wire;;"b#bd-w2-@R;;3
+barbitone;;bar-bi-tone;;b#-bI-t5n;;3
+bard;;bard;;b#d;;1
+barebacked;;bare-backed;;b8-b{kt;;2
+barefaced;;bare-faced;;b8-f1st;;2
+barefoot;;bare-foot;;b8-fUt;;2
+barefooted;;bare-foot-ed;;"b8-fU-tId;;3
+barefooted;;bare-foot-ed;;"b8-fU-tId;;3
+bareheaded;;bare-head-ed;;"b8-hE-dId;;3
+barelegged;;bare-leg-ged;;"b8-lEgd;;2
+barelegged;;bare-leg-ged;;"b8-lEgd;;2
+barely;;bare-ly;;b8-lI;;2
+bareness;;bare-ness;;b8-nIs;;2
+bargain for;;bar-gain for;;b#-gIn-f$R;;3
+bargain on;;bar-gain on;;b#-gIn-Qn;;3
+barge;;barge;;b#_;;1
+barge;;barge;;b#_;;1
+bargeman;;barge-man;;b#_-m@n;;2
+baritone;;bar-i-tone;;b{-rI-t5n;;3
+barium;;bar-i-um;;b8-r7m;;2
+barium meal;;bar-i-um meal;;"b8-r7m-mil;;3
+bark;;bark;;b#k;;1
+bark;;bark;;b#k;;1
+bark;;bark;;b#k;;1
+barker;;bark-er;;b#-k@R;;2
+barley;;bar-ley;;b#-lI;;2
+barleycorn;;bar-ley-corn;;b#-lI-k$n;;3
+barman;;bar-man;;b#-m@n;;2
+barn;;barn;;b#n;;1
+barnstorm;;barn-storm;;b#n-st$m;;2
+barnstormer;;barn-storm-er;;b#n-"st$-m@R;;3
+barnyard;;barn-yard;;b#n-j#d;;2
+barometer;;ba-rom-e-ter;;b@-rQ-mI-t@R;;4
+baron;;bar-on;;b{-r@n;;2
+baronage;;bar-on-age;;b{-r@-nI_;;3
+barony;;bar-o-ny;;b{-r@-nI;;3
+bar parlour;;bar par-lour;;b#-"p#-l@R;;3
+barracuda;;bar-ra-cu-da;;"b{-r@-ku-d@;;4
+barrage;;bar-rage;;b{-r#Z;;2
+barrel organ;;bar-rel or-gan;;b{-r@l-"$-g@n;;4
+barricade;;bar-ri-cade;;"b{-rI-k1d;;3
+barrier;;bar-ri-er;;b{-r7R;;2
+barrister;;bar-ris-ter;;b{-rIs-t@R;;3
+barrow-boy;;bar-row--boy;;b{-r5-b4;;3
+barrow-man;;bar-row--man;;b{-r5-m{n;;3
+barter;;bar-ter;;b#-t@R;;2
+barterer;;bar-ter-er;;b#-t@-r@R;;3
+basalt;;ba-salt;;b{-s$lt;;2
+bascule;;bas-cule;;b{-skjul;;2
+base;;base;;b1s;;1
+baseboard;;base-board;;b1s-b$d;;2
+baseless;;base-less;;b1s-lIs;;2
+baseline;;base-line;;b1s-l2n;;2
+basely;;base-ly;;b1s-lI;;2
+basement;;base-ment;;b1s-m@nt;;2
+base metal;;base met-al;;"b1s-mE-tP;;3
+baseness;;base-ness;;b1s-nIs;;2
+bashfully;;bash-ful-ly;;b{S-fU-lI;;3
+basic;;ba-sic;;b1-sIk;;2
+basil;;bas-il;;b{-zP;;2
+basilica;;ba-sil-i-ca;;b@-zI-lI-k@;;4
+basin;;ba-sin;;b1-sH;;2
+bas-relief;;bas--re-lief;;"b{s-rI-lif;;3
+bass;;bass;;b{s;;1
+bass clef;;bass clef;;"b1s-klEf;;2
+bastard;;bas-tard;;b#-st@d;;2
+bastard;;bas-tard;;b#-st@d;;2
+bastardy;;bas-tar-dy;;b#-st@-dI;;3
+baste;;baste;;b1st;;1
+bast fibre;;bast fi-bre;;b{st-"f2-b@R;;3
+bastion;;bas-tion;;b{-st7n;;2
+bat;;bat;;b{t;;1
+bat;;bat;;b{t;;1
+bated;;bat-ed;;b1-tId;;2
+Bath;;Bath;;b#T;;1
+bathe;;bathe;;b1D;;1
+bather;;bath-er;;b1-D@R;;2
+bathing;;bath-ing;;b1-DIN;;2
+bathing-cap;;bath-ing--cap;;b1-DIN-k{p;;3
+bathing-suit;;bath-ing--suit;;b1-DIN-sut;;3
+bath mat;;bath mat;;b#T-m{t;;2
+baths;;baths;;b#Dz;;1
+bathtub;;bath-tub;;b#T-tVb;;2
+batman;;bat-man;;b{t-m@n;;2
+baton;;ba-ton;;b{-t@n;;2
+batten down;;bat-ten down;;"b{-tH-d6n;;3
+batten upon;;bat-ten up-on;;b{-tH-@-"pQn;;4
+batter;;bat-ter;;b{-t@R;;2
+battering ram;;bat-ter-ing ram;;b{-t@-rIN-r{m;;4
+battiness;;bat-ti-ness;;b{-tI-nIs;;3
+batting crease;;bat-ting crease;;b{-tIN-kris;;3
+battledress;;bat-tle-dress;;b{-tP-drEs;;3
+battleground;;bat-tle-ground;;b{-tP-gr6nd;;3
+battlements;;bat-tle-ments;;b{-tP-m@nts;;3
+bauble;;bau-ble;;b$-bP;;2
+bauxite;;baux-ite;;b$k-s2t;;2
+bawbee;;baw-bee;;"b$-bi;;2
+bawd;;bawd;;b$d;;1
+bawdily;;bawd-i-ly;;b$-dI-lI;;3
+bawdiness;;bawd-i-ness;;b$-dI-nIs;;3
+bawdy;;bawd-y;;b$-dI;;2
+bawdy;;bawd-y;;b$-dI;;2
+bawl;;bawl;;b$l;;1
+bay;;bay;;b1;;1
+bay;;bay;;b1;;1
+bay leaf;;bay leaf;;b1-lif;;2
+bayonet;;bay-o-net;;b1-@-nIt;;3
+bayonet;;bay-o-net;;b1-@-nIt;;3
+bayou;;bay-ou;;b2-u;;2
+bay window;;bay win-dow;;"b1-wIn-d5;;3
+bay-wreath;;bay--wreath;;b1-riT;;2
+bazooka;;ba-zoo-ka;;b@-zu-k@;;3
+beach;;beach;;biJ;;1
+beach buggy;;beach bug-gy;;biJ-"bV-gI;;3
+beachwear;;beach-wear;;biJ-w8R;;2
+beacon-fire;;bea-con--fire;;bi-k@n-f2-@R;;4
+beading;;bead-ing;;bi-dIN;;2
+beadle;;bea-dle;;bi-dP;;2
+beagle;;bea-gle;;bi-gP;;2
+beak;;beak;;bik;;1
+be-all and end-all;;be--all and end--all;;"bi-$l-{nd-End-$l;;5
+beam;;beam;;bim;;1
+bean;;bean;;bin;;1
+beano;;bean-o;;bi-n5;;2
+bearably;;bear-a-bly;;b8-r@-blI;;3
+bear away;;bear a-way;;"b8-r@-w1;;3
+beard;;beard;;b7d;;1
+beard;;beard;;b7d;;1
+bear down;;bear down;;"b8-d6n;;2
+bearer;;bear-er;;b8-r@R;;2
+bear hug;;bear hug;;b8-hVg;;2
+bearish;;bear-ish;;b8-rIS;;2
+bearishly;;bear-ish-ly;;b8-rIS-lI;;3
+bearishness;;bear-ish-ness;;b8-rIS-nIs;;3
+bear on;;bear on;;b8-rQn;;2
+bearskin;;bear-skin;;b8-skIn;;2
+bear upon;;bear up-on;;b8-r@-"pQn;;3
+bear with;;bear with;;b8-wID;;2
+beastly;;beast-ly;;bist-lI;;2
+beast of burden;;beast of bur-den;;"bist-Qv-b3-dH;;4
+beat down;;beat down;;"bit-d6n;;2
+beater;;beat-er;;bi-t@R;;2
+beatific;;be-a-tif-ic;;"bi-@-tI-fIk;;4
+beat in;;beat in;;"bit-In;;2
+beating;;beat-ing;;bi-tIN;;2
+beatitude;;be-at-i-tude;;bi-{-tI-tjud;;4
+beat out;;beat out;;"bit-6t;;2
+beat up;;beat up;;"bit-Vp;;2
+beau monde;;beau monde;;"b5-m$nd;;2
+beaut;;beaut;;bjut;;1
+beauteous;;beau-te-ous;;bju-tj@s;;2
+beautiful;;beau-ti-ful;;bju-t@-fUl;;3
+beautifully;;beau-ti-ful-ly;;bju-t@-flI;;3
+beautify;;beau-ti-fy;;bju-tI-f2;;3
+beauty;;beau-ty;;bju-tI;;2
+beauty queen;;beau-ty queen;;bju-tI-kwin;;3
+beauty shop;;beau-ty shop;;bju-tI-SQp;;3
+beaver away;;bea-ver a-way;;"bi-v@-r@-w1;;4
+becalmed;;be-calmed;;bI-k#md;;2
+become;;be-come;;bI-kVm;;2
+become of;;be-come of;;bI-kVm-Qv;;3
+becomingly;;be-com-ing-ly;;bI-kV-mIN-lI;;4
+bed and breakfast;;bed and break-fast;;"bEd-{nd-brEk-f@st;;4
+bedaubed;;be-daubed;;bI-d$bd;;2
+bedbug;;bed-bug;;bEd-bVg;;2
+bedclothes;;bed-clothes;;bEd-kl5Dz;;2
+bed down;;bed down;;"bEd-d6n;;2
+bedecked;;be-decked;;bI-dEkt;;2
+bed out;;bed out;;"bEd-6t;;2
+bedraggled;;be-drag-gled;;bI-dr{-gPd;;3
+bedridden;;bed-rid-den;;bEd-"rI-dH;;3
+bedrock;;bed-rock;;bEd-rQk;;2
+bed-roll;;bed--roll;;bEd-r5l;;2
+bedroom;;bed-room;;bEd-rUm;;2
+bedside manner;;bed-side man-ner;;"bEd-s2d-m{-n@R;;4
+bedsit;;bed-sit;;bEd-sIt;;2
+bedsore;;bed-sore;;bEd-s$R;;2
+bedspread;;bed-spread;;bEd-sprEd;;2
+bedstead;;bed-stead;;bEd-stEd;;2
+bee;;bee;;bi;;1
+beech;;beech;;biJ;;1
+beech mast;;beech mast;;biJ-m#st;;2
+beef;;beef;;bif;;1
+beef cattle;;beef cat-tle;;bif-"k{-tP;;3
+beef tea;;beef tea;;"bif-ti;;2
+beehive;;bee-hive;;bi-h2v;;2
+beeline;;bee-line;;bi-l2n;;2
+beep;;beep;;bip;;1
+beer money;;beer mon-ey;;b7-"mV-nI;;3
+beery;;beer-y;;b7-rI;;2
+beeswax;;bees-wax;;biz-w{ks;;2
+beeswax;;bees-wax;;biz-w{ks;;2
+beetle;;bee-tle;;bi-tP;;2
+beetle-browed;;bee-tle--browed;;bi-tP-br6d;;3
+beetling;;bee-tling;;bi-tP-IN;;3
+befall;;be-fall;;bI-f$l;;2
+befit;;be-fit;;bI-fIt;;2
+befittingly;;be-fit-ting-ly;;bI-fI-tIN-lI;;4
+befog;;be-fog;;bI-fQg;;2
+beforehand;;be-fore-hand;;bI-f$-h{nd;;3
+beforehand;;be-fore-hand;;bI-f$-h{nd;;3
+befoul;;be-foul;;bI-f6l;;2
+begad;;be-gad;;bI-g{d;;2
+beget;;be-get;;bI-gEt;;2
+begetter;;be-get-ter;;bI-gE-t@R;;3
+beggar;;beg-gar;;bE-g@R;;2
+beggarliness;;beg-gar-li-ness;;bE-g@-lI-nIs;;4
+beggarwoman;;beg-gar-wom-an;;bE-g@-"wU-m@n;;4
+beggary;;beg-gar-y;;bE-g@-rI;;3
+beginning;;be-gin-ning;;bI-gI-nIN;;3
+beg off;;beg off;;"bEg-Qf;;2
+Begon;;Be-gon;;b@-g~N;;2
+begone;;be-gone;;bI-gQn;;2
+begonia;;be-gon-ia;;bI-g5-nj@;;3
+begrimed;;be-grimed;;bI-gr2md;;2
+beguile;;be-guile;;bI-g2l;;2
+beguilement;;be-guile-ment;;bI-g2l-m@nt;;3
+behalf;;be-half;;bI-h#f;;2
+behave;;be-have;;bI-h1v;;2
+behaviour;;be-hav-iour;;bI-h1-vj@R;;3
+behaviourism;;be-hav-iour-ism;;bI-h1-vj@-rI-z@m;;5
+behaviourist;;be-hav-iour-ist;;bI-h1-vj@-rIst;;4
+behead;;be-head;;bI-hEd;;2
+Behemoth;;Be-he-moth;;bI-hi-mQT;;3
+behind;;be-hind;;bI-h2nd;;2
+behindhand;;be-hind-hand;;bI-h2nd-h{nd;;3
+behindhand;;be-hind-hand;;bI-h2nd-h{nd;;3
+behold;;be-hold;;bI-h5ld;;2
+beholder;;be-hold-er;;bI-h5l-d@R;;3
+behove;;be-hove;;bI-h5v;;2
+beige;;beige;;b1Z;;1
+beige;;beige;;b1Z;;1
+being;;be-ing;;bi-IN;;2
+bejewel;;be-jew-el;;bI-_u-@l;;3
+bejewelled;;be-jew-elled;;bI-_u-@ld;;3
+belabour;;be-la-bour;;bI-l1-b@R;;3
+beldame;;bel-dame;;bEl-d@m;;2
+beleaguer;;be-lea-guer;;bI-li-g@R;;3
+Belgian;;Bel-gian;;bEl-_@n;;2
+Belgian;;Bel-gian;;bEl-_@n;;2
+belief;;be-lief;;bI-lif;;2
+believe in;;be-lieve in;;bI-liv-In;;3
+Belisha;;Be-li-sha;;bI-li-S@;;3
+belittle;;be-lit-tle;;bI-lI-tP;;3
+bell;;bell;;bEl;;1
+bell-bottoms;;bell--bot-toms;;bEl-"bQ-t@mz;;3
+bellboy;;bell-boy;;bEl-b4;;2
+bell-buoy;;bell--buoy;;bEl-b4;;2
+belles-lettres;;belles--let-tres;;"bEl-lE-tr@;;3
+bellflower;;bell-flow-er;;bEl-"fl6-@R;;3
+bellhop;;bell-hop;;bEl-hQp;;2
+belligerence;;bel-lig-er-ence;;bI-lI-_@-r@ns;;4
+bellow;;bel-low;;bE-l5;;2
+bellows;;bel-lows;;bE-l5z;;2
+bell-wether;;bell--weth-er;;bEl-"wE-D@R;;3
+belly-ache;;bel-ly--ache;;bE-lI-1k;;3
+belly button;;bel-ly but-ton;;bE-lI-"bV-tH;;4
+belly dance;;bel-ly dance;;bE-lI-d#ns;;3
+belly-flop;;bel-ly--flop;;bE-lI-flQp;;3
+bellyful;;bel-ly-ful;;bE-lI-fUl;;3
+belly-laugh;;bel-ly--laugh;;bE-lI-l#f;;3
+belong;;be-long;;bI-lQN;;2
+belongings;;be-long-ings;;bI-lQ-NINz;;3
+beloved;;be-lov-ed;;bI-lVvd;;2
+beloved;;be-lov-ed;;bI-lVvd;;2
+beloved;;be-lov-ed;;bI-lVvd;;2
+below;;be-low;;bI-l5;;2
+belting;;belt-ing;;bEl-tIN;;2
+belt out;;belt out;;"bElt-6t;;2
+belt up;;belt up;;"bElt-Vp;;2
+beltway;;belt-way;;bElt-w1;;2
+bemuse;;be-muse;;bI-mjuz;;2
+bemused;;be-mused;;bI-mjuzd;;2
+ben;;ben;;bEn;;1
+bench;;bench;;bEnJ;;1
+bencher;;bench-er;;bEn-J@R;;2
+bend;;bend;;bEnd;;1
+bend;;bend;;bEnd;;1
+bends;;bends;;bEndz;;1
+bend to;;bend to;;bEnd-tu;;2
+beneath;;be-neath;;bI-niT;;2
+beneath;;be-neath;;bI-niT;;2
+benedick;;ben-e-dick;;bE-nI-dIk;;3
+Benedict;;Ben-e-dict;;bE-nI-dIkt;;3
+Benedictine;;Ben-e-dic-tine;;"bE-nI-dIk-tIn;;4
+benedictine;;ben-e-dic-tine;;"bE-nI-dIk-tin;;4
+Benedictine;;Ben-e-dic-tine;;"bE-nI-dIk-tIn;;4
+benediction;;ben-e-dic-tion;;"bE-nI-dIk-SH;;4
+Benedictus;;Ben-e-dic-tus;;"bE-nI-dIk-t@s;;4
+benefactor;;ben-e-fac-tor;;bE-nI-f{k-t@R;;4
+benefactress;;ben-e-fac-tress;;bE-nI-f{k-trIs;;4
+beneficed;;ben-e-ficed;;bE-nI-fIst;;3
+beneficent;;be-nef-i-cent;;bI-nE-fI-sHt;;4
+beneficently;;be-nef-i-cent-ly;;bI-nE-fI-sHt-lI;;5
+beneficially;;ben-e-fi-cial-ly;;"bE-nI-fI-S@-lI;;5
+benefit;;ben-e-fit;;bE-nI-fIt;;3
+benefit of the doubt;;ben-e-fit of the doubt;;"bE-nI-fIt-Qv-D@-d6t;;6
+benevolent;;be-nev-o-lent;;bI-nE-v@-l@nt;;4
+benevolently;;be-nev-o-lent-ly;;bI-nE-v@-l@nt-lI;;5
+Bengalese;;Ben-ga-lese;;bEN-g@-liz;;3
+benignant;;be-nig-nant;;bI-nIg-n@nt;;3
+benignity;;be-nig-ni-ty;;bI-nIg-n@-tI;;4
+benignly;;be-nign-ly;;bI-n2n-lI;;3
+Beninese;;Be-nin-ese;;"bE-nI-niz;;3
+Beninese;;Be-nin-ese;;"bE-nI-niz;;3
+bequest;;be-quest;;bI-kwEst;;2
+bereave;;be-reave;;bI-riv;;2
+bereaved;;be-reaved;;bI-rivd;;2
+bereaved;;be-reaved;;bI-rivd;;2
+bereavement;;be-reave-ment;;bI-riv-m@nt;;3
+beret;;be-ret;;bE-r1;;2
+beriberi;;ber-i-ber-i;;"bE-rI-bE-rI;;4
+berk;;berk;;b3k;;1
+Bermuda;;Ber-mu-da;;b@-mju-d@;;3
+berth;;berth;;b3T;;1
+berth;;berth;;b3T;;1
+beseech;;be-seech;;bI-siJ;;2
+beseeching;;be-seech-ing;;bI-siJ;;2
+beseechingly;;be-seech-ing-ly;;bI-si-JIN-lI;;4
+besides;;be-sides;;bI-s2dz;;2
+besiege;;be-siege;;bI-si_;;2
+bespattered;;be-spat-tered;;bI-sp{-t@d;;3
+bestiality;;bes-ti-al-i-ty;;"bE-stI-{-l@-tI;;5
+bestially;;bes-tial-ly;;bEs-tj@-lI;;3
+best man;;best man;;"bEst-m{n;;2
+bestow;;be-stow;;bI-st5;;2
+bestowal;;be-stow-al;;bI-st5-@l;;3
+betake;;be-take;;bI-t1k;;2
+betel-nut;;be-tel--nut;;bi-tP-nVt;;3
+b^ete-noire;;bete--noire;;"b1t-nw#R;;2
+bethink;;be-think;;bI-TINk;;2
+betide;;be-tide;;bI-t2d;;2
+betoken;;be-to-ken;;bI-t5-k@n;;3
+betray;;be-tray;;bI-tr1;;2
+betrayal;;be-tray-al;;bI-tr1-@l;;3
+betrayer;;be-tray-er;;bI-tr1-@R;;3
+betrothed;;be-trothed;;bI-tr5Dd;;2
+better;;bet-ter;;bE-t@R;;2
+better;;bet-ter;;bE-t@R;;2
+betterment;;bet-ter-ment;;bE-t@-m@nt;;3
+between;;be-tween;;bI-twin;;2
+between;;be-tween;;bI-twin;;2
+betwixt;;be-twixt;;bI-twIkst;;2
+betwixt;;be-twixt;;bI-twIkst;;2
+betwixt and between;;be-twixt and be-tween;;bI-"twIkst-{nd-bI-twin;;5
+beware;;be-ware;;bI-w8R;;2
+bewilderment;;be-wil-der-ment;;bI-wIl-d@-m@nt;;4
+bewitch;;be-witch;;bI-wIJ;;2
+bewitchingly;;be-witch-ing-ly;;bI-wI-JIN-lI;;4
+beyond;;be-yond;;bI-jQnd;;2
+beyond;;be-yond;;bI-jQnd;;2
+Bhutan;;Bhu-tan;;"bu-t#n;;2
+Bhutani;;Bhu-tan-i;;"bu-t#-nI;;3
+bias;;bi-as;;b2-@s;;2
+bias binding;;bi-as bind-ing;;"b2-@s-b2n-dIN;;4
+bib;;bib;;bIb;;1
+Bible;;Bi-ble;;b2-bP;;2
+biblical;;bib-li-cal;;bI-blI-kP;;3
+biblically;;bib-li-cal-ly;;bI-blI-k@-lI;;4
+bibliography;;bib-li-og-ra-phy;;"bI-blI-Q-gr@-fI;;5
+bibliophile;;bib-li-o-phile;;bI-blI-5-f2l;;4
+bicarb;;bi-carb;;b2-k#b;;2
+bicarbonate of soda;;bi-car-bon-ate of so-da;;b2-"k#-b@-n@t-Qv-s5-d@;;7
+bicentennial;;bi-cen-ten-ni-al;;"b2-sEn-tE-nj@l;;4
+bicentennial;;bi-cen-ten-ni-al;;"b2-sEn-tE-nj@l;;4
+biceps;;bi-ceps;;b2-sEps;;2
+bicker;;bick-er;;bI-k@R;;2
+bicycle;;bi-cy-cle;;b2-sI-kP;;3
+bicycle;;bi-cy-cle;;b2-sI-kP;;3
+bid;;bid;;bId;;1
+bid;;bid;;bId;;1
+bid;;bid;;bId;;1
+bidding;;bid-ding;;bI-dIN;;2
+bide;;bide;;b2d;;1
+bid fair;;bid fair;;"bId-f8R;;2
+biennial;;bi-en-ni-al;;b2-E-n7l;;3
+biff;;biff;;bIf;;1
+bifocal;;bi-fo-cal;;"b2-f5-kP;;3
+bifurcate;;bi-fur-cate;;b2-f@-k1t;;3
+bigamist;;big-a-mist;;bI-g@-mIst;;3
+bigamy;;big-a-my;;bI-g@-mI;;3
+big-boned;;big--boned;;"bIg-b5nd;;2
+big business;;big busi-ness;;"bIg-bIz-nIs;;3
+big deal;;big deal;;"bIg-dil;;2
+Big Dipper;;Big Dip-per;;"bIg-dI-p@R;;3
+big game;;big game;;"bIg-g1m;;2
+bighead;;big-head;;bIg-hEd;;2
+bight;;bight;;b2t;;1
+bigot;;big-ot;;bI-g@t;;2
+bigoted;;big-ot-ed;;bI-g@-tId;;3
+bigotry;;big-ot-ry;;bI-g@-trI;;3
+big sister;;big sis-ter;;"bIg-sI-st@R;;3
+big stick;;big stick;;"bIg-stIk;;2
+big time;;big time;;bIg-t2m;;2
+big-timer;;big--tim-er;;bIg-t2-m@R;;3
+bigwig;;big-wig;;bIg-wIg;;2
+bijou;;bi-jou;;bi-Zu;;2
+bikini;;bi-ki-ni;;bI-ki-nI;;3
+bilabial;;bi-la-bi-al;;"b2-l1-bj@l;;3
+bilateral;;bi-lat-er-al;;"b2-l{-t@-r@l;;4
+bile;;bile;;b2l;;1
+bile-duct;;bile--duct;;b2l-dVkt;;2
+bilge-water;;bilge--wa-ter;;bIl_-"w$-t@R;;3
+bilharzia;;bil-har-zi-a;;bIl-h#-z7;;3
+bilingual;;bi-lin-gual;;b2-lIN-gw@l;;3
+bilious;;bil-ious;;bI-lj@s;;2
+billboard;;bill-board;;bIl-b$d;;2
+billet;;bil-let;;bI-lIt;;2
+billet-doux;;bil-let--doux;;"bI-l1-du;;3
+billfold;;bill-fold;;bIl-f5ld;;2
+billiard;;bil-liard;;bI-lj@d;;2
+billiard-marker;;bil-liard--mark-er;;bI-lj@d-"m#-k@R;;4
+billiards;;bil-liards;;bI-lj@dz;;2
+billiard-table;;bil-liard--ta-ble;;bI-lj@d-"t1-bP;;4
+billion;;bil-lion;;bI-lj@n;;2
+bill of fare;;bill of fare;;"bIl-Qv-f8R;;3
+bill of health;;bill of health;;"bIl-Qv-hElT;;3
+billowy;;bil-low-y;;bI-l5-I;;3
+billsticker;;bill-stick-er;;bIl-"stI-k@R;;3
+billy;;bil-ly;;bI-lI;;2
+billy-goat;;bil-ly--goat;;bI-lI-g5t;;3
+billy-o;;bil-ly--o;;bI-lI-5;;3
+bimonthly;;bi-month-ly;;"b2-mVnT-lI;;3
+bind;;bind;;b2nd;;1
+binder;;bind-er;;b2n-d@R;;2
+binding;;bind-ing;;b2n-dIN;;2
+binding;;bind-ing;;b2n-dIN;;2
+bindweed;;bind-weed;;b2nd-wid;;2
+bine;;bine;;b2n;;1
+bingo;;bin-go;;bIN-g5;;2
+binocular;;bin-oc-u-lar;;"b2-nQ-kjU-l@R;;4
+binomial;;bi-no-mi-al;;"b2-n5-mj@l;;3
+biochemistry;;bi-o-chem-is-try;;"b2-5-kE-mI-strI;;5
+biographer;;bi-og-ra-pher;;b2-Q-gr@-f@R;;4
+biographic;;bi-o-graph-ic;;"b2-5-gr{-fIk;;4
+biographically;;bi-o-graph-i-cal-ly;;"b2-5-gr{-fI-k@-lI;;6
+biological;;bi-o-log-i-cal;;"b2-5-lQ-_I-kP;;5
+biologically;;bi-o-log-i-cal-ly;;"b2-5-lQ-_I-k@-lI;;6
+biologist;;bi-ol-o-gist;;b2-Q-l@-_Ist;;4
+bionic;;bi-on-ic;;b2-Q-nIk;;3
+bioscope;;bi-o-scope;;b2-@s-k5p;;3
+biosphere;;bi-o-sphere;;b2-5-"sf7R;;3
+biotic;;bi-ot-ic;;b2-Q-tIk;;3
+biplane;;bi-plane;;b2-pl1n;;2
+birch;;birch;;b3J;;1
+birch;;birch;;b3J;;1
+bird-brained;;bird--brained;;b3d-br1nd;;2
+bird-cage;;bird--cage;;b3d-k1_;;2
+bird dog;;bird dog;;b3d-dQg;;2
+birdlime;;bird-lime;;b3d-l2m;;2
+bird of paradise;;bird of par-a-dise;;"b3d-Qv-p{-r@-d2s;;5
+bird of passage;;bird of pas-sage;;"b3d-Qv-p{-sI_;;4
+bird of prey;;bird of prey;;"b3d-Qv-pr1;;3
+birdseed;;bird-seed;;b3d-sid;;2
+birthday;;birth-day;;b3T-d1;;2
+birthrate;;birth-rate;;b3T-r1t;;2
+biscuit;;bis-cuit;;bI-skIt;;2
+bisection;;bi-sec-tion;;"b2-sEk-SH;;3
+bisexual;;bi-sex-u-al;;"b2-sEk-S9l;;3
+bisexual;;bi-sex-u-al;;"b2-sEk-S9l;;3
+bisexually;;bi-sex-u-al-ly;;"b2-sEk-S9-lI;;4
+bishop;;bish-op;;bI-S@p;;2
+bismuth;;bis-muth;;bIz-m@T;;2
+bison;;bi-son;;b2-sH;;2
+bit;;bit;;bIt;;1
+bitchily;;bitch-i-ly;;bI-JI-lI;;3
+bite;;bite;;b2t;;1
+bite on;;bite on;;b2t-Qn;;2
+bit part;;bit part;;bIt-p#t;;2
+bitter;;bit-ter;;bI-t@R;;2
+bitterly;;bit-ter-ly;;bI-t@-lI;;3
+bittersweet;;bit-ter-sweet;;bI-t@-swit;;3
+bittiness;;bit-ti-ness;;bI-tI-nIs;;3
+bitty;;bit-ty;;bI-tI;;2
+bitumen;;bi-tu-men;;bI-tjU-mIn;;3
+bituminous;;bi-tu-mi-nous;;bI-tju-mI-n@s;;4
+bivouac;;biv-ou-ac;;bI-vU-{k;;3
+biweekly;;bi-week-ly;;"b2-wik-lI;;3
+bizarre;;bi-zarre;;bI-z#R;;2
+bizarrely;;bi-zarre-ly;;bI-z#-lI;;3
+bizonal;;bi-zon-al;;"b2-z5-nP;;3
+blab;;blab;;bl{b;;1
+black;;black;;bl{k;;1
+black and tan;;black and tan;;"bl{k-{nd-t{n;;3
+black art;;black art;;"bl{k-#t;;2
+black belt;;black belt;;"bl{k-bElt;;2
+blackberry;;black-ber-ry;;bl{k-b@-rI;;3
+blackberrying;;black-ber-ry-ing;;bl{k-"bE-rI-IN;;4
+blackbird;;black-bird;;bl{k-b3d;;2
+black box;;black box;;"bl{k-bQks;;2
+Black Country;;Black Coun-try;;bl{k-"kVn-trI;;3
+blacken;;black-en;;bl{-k@n;;2
+black eye;;black eye;;"bl{k-2;;2
+black-eyed;;black--eyed;;bl{k-2d;;2
+black flag;;black flag;;"bl{k-fl{g;;2
+blackguard;;black-guard;;bl{-g#d;;2
+black hole;;black hole;;"bl{k-h5l;;2
+blacking;;black-ing;;bl{-kIN;;2
+blacklist;;black-list;;bl{k-lIst;;2
+blackmailer;;black-mail-er;;bl{k-m1-l@R;;3
+Black Muslim;;Black Mus-lim;;"bl{k-mU-slIm;;3
+blackness;;black-ness;;bl{k-nIs;;2
+blackout;;black-out;;bl{k-6t;;2
+Black Panther;;Black Pan-ther;;"bl{k-p{n-T@R;;3
+black power;;black pow-er;;"bl{k-p6-@R;;3
+black pudding;;black pud-ding;;"bl{k-pU-dIN;;3
+black sheep;;black sheep;;"bl{k-Sip;;2
+Blackshirt;;Black-shirt;;bl{k-S3t;;2
+black spot;;black spot;;bl{k-spQt;;2
+blackthorn;;black-thorn;;bl{k-T$n;;2
+blackwater fever;;black-wa-ter fe-ver;;"bl{k-w$-t@-fi-v@R;;5
+bladder;;blad-der;;bl{-d@R;;2
+blah;;blah;;bl#;;1
+blame;;blame;;bl1m;;1
+blameless;;blame-less;;bl1m-lIs;;2
+blamelessness;;blame-less-ness;;bl1m-lIs-nIs;;3
+blameworthiness;;blame-wor-thi-ness;;bl1m-"w3-DI-nIs;;4
+blameworthy;;blame-wor-thy;;bl1m-"w3-DI;;3
+blancmange;;blanc-mange;;bl@-mQn_;;2
+blandish;;blan-dish;;bl{n-dIS;;2
+blank;;blank;;bl{Nk;;1
+blank;;blank;;bl{Nk;;1
+blank cartridge;;blank car-tridge;;"bl{Nk-k#-trI_;;3
+blare;;blare;;bl8R;;1
+blare out;;blare out;;"bl8-r6t;;2
+blarney;;blar-ney;;bl#-nI;;2
+blasphemer;;blas-phem-er;;bl{s-fi-m@R;;3
+blasphemously;;blas-phe-mous-ly;;bl{s-f@-m@s-lI;;4
+blast;;blast;;bl#st;;1
+blast-off;;blast--off;;bl#st-Qf;;2
+blast off;;blast off;;"bl#st-Qf;;2
+blatant;;bla-tant;;bl1-t@nt;;2
+blather;;blath-er;;bl{-D@R;;2
+blaze;;blaze;;bl1z;;1
+blaze;;blaze;;bl1z;;1
+blazer;;blaz-er;;bl1-z@R;;2
+blazon;;bla-zon;;bl1-zH;;2
+blazon;;bla-zon;;bl1-zH;;2
+blazonry;;bla-zon-ry;;bl1-z@n-rI;;3
+bleach;;bleach;;bliJ;;1
+bleat;;bleat;;blit;;1
+bleed;;bleed;;blid;;1
+bleeding;;bleed-ing;;bli-dIN;;2
+bleeding heart;;bleed-ing heart;;"bli-dIN-h#t;;3
+bleep;;bleep;;blip;;1
+bleep;;bleep;;blip;;1
+blemish;;blem-ish;;blE-mIS;;2
+blench;;blench;;blEnJ;;1
+blend;;blend;;blEnd;;1
+blender;;blend-er;;blEn-d@R;;2
+blessed;;bless-ed;;blE-sId;;2
+Blessed Virgin Mary;;Bless-ed Vir-gin Ma-ry;;"blE-sId-v3-_In-m8-rI;;6
+bless with;;bless with;;blEs-wID;;2
+blether;;bleth-er;;blE-D@R;;2
+blether;;bleth-er;;blE-D@R;;2
+blight;;blight;;bl2t;;1
+blighter;;blight-er;;bl2-t@R;;2
+blimey;;bli-mey;;bl2-mI;;2
+blimp;;blimp;;blImp;;1
+Blimpish;;Blimp-ish;;blIm-pIS;;2
+blind;;blind;;bl2nd;;1
+blind;;blind;;bl2nd;;1
+blind alley;;blind al-ley;;"bl2nd-{-lI;;3
+blind date;;blind date;;"bl2nd-d1t;;2
+blind drunk;;blind drunk;;"bl2nd-drVNk;;2
+blinder;;blind-er;;bl2n-d@R;;2
+blinders;;blind-ers;;bl2n-d@z;;2
+blindly;;blind-ly;;bl2nd-lI;;2
+blindness;;blind-ness;;bl2nd-nIs;;2
+blind spot;;blind spot;;bl2nd-spQt;;2
+blink;;blink;;blINk;;1
+blink;;blink;;blINk;;1
+blink away;;blink a-way;;"blINk-@-w1;;3
+blinkers;;blink-ers;;blIN-k@z;;2
+blinking;;blink-ing;;blIN-kIN;;2
+bliss;;bliss;;blIs;;1
+blissful;;bliss-ful;;blIs-fUl;;2
+blissfulness;;bliss-ful-ness;;blIs-fUl-nIs;;3
+blister;;blis-ter;;blI-st@R;;2
+blistering;;blis-ter-ing;;blI-st@-rIN;;3
+blithe;;blithe;;bl2D;;1
+blithesome;;blithe-some;;bl2D-s@m;;2
+blitz;;blitz;;blIts;;1
+blizzard;;bliz-zard;;blI-z@d;;2
+blob;;blob;;blQb;;1
+block;;block;;blQk;;1
+blockade;;block-ade;;blQ-k1d;;2
+blockade;;block-ade;;blQ-k1d;;2
+blockage;;block-age;;blQ-kI_;;2
+block and tackle;;block and tack-le;;"blQk-{nd-t{-kP;;4
+blockbuster;;block-bust-er;;blQk-bV-st@R;;3
+block in;;block in;;"blQk-In;;2
+block letters;;block let-ters;;"blQk-lE-t@z;;3
+block out;;block out;;"blQk-6t;;2
+bloke;;bloke;;bl5k;;1
+blood;;blood;;blVd;;1
+blood brother;;blood broth-er;;"blVd-brV-D@R;;3
+bloodcurdling;;blood-cur-dling;;blVd-"k3-dP-IN;;4
+blood-donor;;blood--do-nor;;blVd-"d5-n@R;;3
+blood-heat;;blood--heat;;blVd-hit;;2
+bloodhound;;blood-hound;;blVd-h6nd;;2
+bloodily;;blood-i-ly;;blV-dI-lI;;3
+bloodiness;;blood-i-ness;;blV-dI-nIs;;3
+bloodless;;blood-less;;blVd-lIs;;2
+bloodlessness;;blood-less-ness;;blVd-lIs-nIs;;3
+blood-letting;;blood--let-ting;;blVd-"lE-tIN;;3
+bloodlust;;blood-lust;;blVd-lVst;;2
+blood-money;;blood--mon-ey;;blVd-"mV-nI;;3
+blood red;;blood red;;"blVd-rEd;;2
+blood-relation;;blood--re-la-tion;;blVd-rI-"l1-SH;;4
+bloodstain;;blood-stain;;blVd-st1n;;2
+bloodstained;;blood-stained;;blVd-st1nd;;2
+bloodsucker;;blood-suck-er;;blVd-"sV-k@R;;3
+bloodthirstiness;;blood-thirst-i-ness;;blVd-"T3-stI-nIs;;4
+blood-vessel;;blood--ves-sel;;blVd-"vE-sP;;3
+bloody;;blood-y;;blV-dI;;2
+bloody;;blood-y;;blV-dI;;2
+bloody-minded;;blood-y--mind-ed;;"blV-dI-m2n-dId;;4
+blooming;;bloom-ing;;blu-mIN;;2
+blossom;;blos-som;;blQ-s@m;;2
+blot;;blot;;blQt;;1
+blotch;;blotch;;blQJ;;1
+blotchy;;blotch-y;;blQ-JI;;2
+blot out;;blot out;;"blQt-6t;;2
+blotter;;blot-ter;;blQ-t@R;;2
+blow-by-blow;;blow--by--blow;;"bl5-b2-bl5;;3
+blower;;blow-er;;bl5-@R;;2
+blowfly;;blow-fly;;bl5-fl2;;2
+blowhard;;blow-hard;;bl5-h#d;;2
+blow in;;blow in;;"bl5-In;;2
+blowing-up;;blow-ing--up;;"bl5-IN-Vp;;3
+blow into;;blow in-to;;bl5-"In-tu;;3
+blowlamp;;blow-lamp;;bl5-l{mp;;2
+blow out;;blow out;;"bl5-6t;;2
+blowpipe;;blow-pipe;;bl5-p2p;;2
+blowtorch;;blow-torch;;bl5-t$J;;2
+blowy;;blow-y;;bl5-I;;2
+blowzy;;blowz-y;;bl6-zI;;2
+blubber;;blub-ber;;blV-b@R;;2
+bludgeon into;;bludg-eon in-to;;blV-_@n-"In-tu;;4
+blue;;blue;;blu;;1
+blue baby;;blue ba-by;;blu-"b1-bI;;3
+bluebag;;blue-bag;;blu-b{g;;2
+bluebeard;;blue-beard;;blu-"b7d;;2
+bluebeard;;blue-beard;;blu-"b7d;;2
+bluebell;;blue-bell;;blu-bEl;;2
+blueberry;;blue-ber-ry;;blu-b@-rI;;3
+bluebird;;blue-bird;;blu-b3d;;2
+blue-blooded;;blue--blood-ed;;"blu-blV-dId;;3
+blue cheese;;blue cheese;;"blu-Jiz;;2
+blue chip;;blue chip;;"blu-JIp;;2
+blue-collar;;blue--col-lar;;"blu-kQ-l@R;;3
+blue film;;blue film;;"blu-fIlm;;2
+blue gum;;blue gum;;blu-gVm;;2
+bluejacket;;blue-jack-et;;blu-"_{-kIt;;3
+blue law;;blue law;;blu-l$;;2
+blue moon;;blue moon;;"blu-mun;;2
+blue-pencil;;blue--pen-cil;;"blu-pEn-sP;;3
+blueprint;;blue-print;;blu-prInt;;2
+blues;;blues;;bluz;;1
+bluestocking;;blue-stock-ing;;blu-"stQ-kIN;;3
+bluff;;bluff;;blVf;;1
+bluffer;;bluff-er;;blV-f@R;;2
+bluff into;;bluff in-to;;blVf-"In-tu;;3
+bluffly;;bluff-ly;;blVf-lI;;2
+bluffness;;bluff-ness;;blVf-nIs;;2
+blunder;;blun-der;;blVn-d@R;;2
+blunderbuss;;blun-der-buss;;blVn-d@-bVs;;3
+bluntly;;blunt-ly;;blVnt-lI;;2
+bluntness;;blunt-ness;;blVnt-nIs;;2
+blur;;blur;;bl3R;;1
+blur;;blur;;bl3R;;1
+blurb;;blurb;;bl3b;;1
+blurt out;;blurt out;;"bl3t-6t;;2
+blush;;blush;;blVS;;1
+blush;;blush;;blVS;;1
+blushing;;blush-ing;;blV-SIN;;2
+blushingly;;blush-ing-ly;;blV-SIN-lI;;3
+bluster;;blus-ter;;blV-st@R;;2
+blustery;;blus-ter-y;;blV-st@-rI;;3
+BO;;BO;;b5;;1
+boar;;boar;;b$R;;1
+boarder;;board-er;;b$-d@R;;2
+boarding;;board-ing;;b$-dIN;;2
+boarding-card;;board-ing--card;;b$-dIN-k#d;;3
+boardinghouse;;board-ing-house;;b$-dIN-h6s;;3
+boarding-school;;board-ing--school;;b$-dIN-skul;;3
+boast;;boast;;b5st;;1
+boast;;boast;;b5st;;1
+boastfulness;;boast-ful-ness;;b5st-fUl-nIs;;3
+boat;;boat;;b5t;;1
+boater;;boat-er;;b5-t@R;;2
+boat-hook;;boat--hook;;b5t-hUk;;2
+boathouse;;boat-house;;b5t-h6s;;2
+boatman;;boat-man;;b5t-m@n;;2
+boat-train;;boat--train;;b5t-tr1n;;2
+bob;;bob;;bQb;;1
+Bob;;Bob;;bQb;;1
+bobbin;;bob-bin;;bQ-bIn;;2
+bobby;;bob-by;;bQ-bI;;2
+bobby pin;;bob-by pin;;bQ-bI-pIn;;3
+bobby-socks;;bob-by--socks;;bQ-bI-sQks;;3
+bobby-soxer;;bob-by--sox-er;;bQ-bI-"sQk-s@R;;4
+bobolink;;bob-o-link;;bQ-b@-lINk;;3
+bobsled;;bob-sled;;bQb-slEd;;2
+bobsled;;bob-sled;;bQb-slEd;;2
+bobsleigh;;bob-sleigh;;bQb-sl1;;2
+bobtail;;bob-tail;;bQb-t1l;;2
+bobtailed;;bob-tailed;;bQb-t1ld;;2
+bock;;bock;;bQk;;1
+bod;;bod;;bQd;;1
+bode;;bode;;b5d;;1
+bodice;;bod-ice;;bQ-dIs;;2
+bodily;;bod-i-ly;;bQ-dI-lI;;3
+bodily;;bod-i-ly;;bQ-dI-lI;;3
+bodyguard;;bod-y-guard;;bQ-dI-g#d;;3
+body politic;;bod-y pol-i-tic;;"bQ-dI-pQ-l@-tIk;;5
+body-servant;;bod-y--serv-ant;;bQ-dI-"s3-v@nt;;4
+body-snatcher;;bod-y--snatch-er;;bQ-dI-"sn{-J@R;;4
+body stocking;;bod-y stock-ing;;bQ-dI-"stQ-kIN;;4
+bodywork;;bod-y-work;;bQ-dI-w3k;;3
+Boer;;Boer;;b$R;;1
+Boer;;Boer;;b$R;;1
+bogey;;bo-gey;;b5-gI;;2
+bogey;;bo-gey;;b5-gI;;2
+boggy;;bog-gy;;bQ-gI;;2
+boh;;boh;;b5;;1
+boil;;boil;;b4l;;1
+boil;;boil;;b4l;;1
+boil down to;;boil down to;;"b4l-d6n-tu;;3
+boiling;;boil-ing;;b4-lIN;;2
+boiling-point;;boil-ing--point;;b4-lIN-p4nt;;3
+boil up;;boil up;;"b4l-Vp;;2
+boisterous;;bois-ter-ous;;b4-st@-r@s;;3
+boisterously;;bois-ter-ous-ly;;b4-st@-r@s-lI;;4
+boisterousness;;bois-ter-ous-ness;;b4-st@-r@s-nIs;;4
+boldface;;bold-face;;b5ld-f1s;;2
+boldfaced;;bold-faced;;b5ld-f1st;;2
+bolero;;bo-le-ro;;b@-l8-r5;;3
+bolero;;bo-le-ro;;bQ-l@-r5;;3
+boll;;boll;;b5l;;1
+bollard;;bol-lard;;bQ-l#d;;2
+bollocks;;bol-locks;;bQ-l@ks;;2
+bollocks-up;;bol-locks--up;;bQ-l@ks-Vp;;3
+boll weevil;;boll wee-vil;;"b5l-wi-vP;;3
+boloney;;bo-lo-ney;;b@-l5-nI;;3
+Bolshevik;;Bol-she-vik;;bQl-SI-vIk;;3
+bolshy;;bol-shy;;bQl-SI;;2
+bolster up;;bol-ster up;;"b5l-st@-rVp;;3
+bolt;;bolt;;b5lt;;1
+bolt;;bolt;;b5lt;;1
+bolthole;;bolt-hole;;b5lt-h5l;;2
+bomb;;bomb;;bQm;;1
+bomb;;bomb;;bQm;;1
+bombard;;bom-bard;;bQm-b#d;;2
+bombardier;;bom-bar-dier;;"bQm-b@-d7R;;3
+bombardment;;bom-bard-ment;;bQm-b#d-m@nt;;3
+bombast;;bom-bast;;bQm-b{st;;2
+bombastic;;bom-bas-tic;;bQm-b{-stIk;;3
+bombastically;;bom-bas-ti-cal-ly;;bQm-b{-stI-klI;;4
+bomb disposal squad;;bomb dis-pos-al squad;;bQm-dI-"sp5-zP-skwQd;;5
+bomber;;bomb-er;;bQ-m@R;;2
+bombproof;;bomb-proof;;bQm-pruf;;2
+bombshell;;bomb-shell;;bQm-SEl;;2
+bomb up;;bomb up;;"bQm-Vp;;2
+bona fide;;bo-na fide;;"b5-n@-f2-dI;;4
+bonanza;;bo-nan-za;;b5-n{n-z@;;3
+bonbon;;bon-bon;;bQn-bQn;;2
+bonded;;bond-ed;;bQn-dId;;2
+bonded warehouse;;bond-ed ware-house;;"bQn-dId-w8-h6s;;4
+bonds;;bonds;;bQndz;;1
+bone;;bone;;b5n;;1
+bone;;bone;;b5n;;1
+bone china;;bone chi-na;;"b5n-J2-n@;;3
+boned;;boned;;b5nd;;1
+bone-dry;;bone--dry;;"b5n-dr2;;2
+bone-idle;;bone--i-dle;;"b5n-2-dP;;3
+bone-lazy;;bone--la-zy;;"b5n-l1-zI;;3
+boneless;;bone-less;;b5n-lIs;;2
+bonemeal;;bone-meal;;b5n-mil;;2
+boneshaker;;bone-shak-er;;b5n-"S1-k@R;;3
+bonfire;;bon-fire;;bQn-"f2-@R;;3
+bongo;;bon-go;;bQN-g5;;2
+bongo drum;;bon-go drum;;bQN-g5-drVm;;3
+bonhomie;;bon-ho-mie;;bQ-n@-mi;;3
+bonkers;;bon-kers;;bQN-k@z;;2
+bonnet;;bon-net;;bQ-nIt;;2
+bonsai;;bon-sai;;bQn-s2;;2
+boo;;boo;;bu;;1
+boo;;boo;;bu;;1
+boob;;boob;;bub;;1
+boobs;;boobs;;bubz;;1
+booby;;boo-by;;bu-bI;;2
+booby prize;;boo-by prize;;bu-bI-pr2z;;3
+booby-trap;;boo-by--trap;;bu-bI-tr{p;;3
+boogie-woogie;;boog-ie--woog-ie;;bu-gI-"wu-gI;;4
+boohoo;;boo-hoo;;"bu-hu;;2
+boohoo;;boo-hoo;;"bu-hu;;2
+book;;book;;bUk;;1
+book;;book;;bUk;;1
+bookable;;book-a-ble;;bU-k@-bP;;3
+bookbinder;;book-bind-er;;bUk-"b2n-d@R;;3
+bookbinding;;book-bind-ing;;bUk-"b2n-dIN;;3
+bookclub;;book-club;;bUk-klVb;;2
+bookend;;book-end;;bUk-End;;2
+bookie;;book-ie;;bUk-I;;2
+book in;;book in;;"bUk-In;;2
+booking clerk;;book-ing clerk;;bU-kIN-kl#k;;3
+bookishly;;book-ish-ly;;bU-kIS-lI;;3
+bookkeeping;;book-keep-ing;;bUk-"ki-pIN;;3
+book learning;;book learn-ing;;bUk-"l3-nIN;;3
+bookmaker;;book-mak-er;;bUk-"m1-k@R;;3
+books;;books;;bUks;;1
+bookseller;;book-sell-er;;bUk-"sE-l@R;;3
+bookshop;;book-shop;;bUk-SQp;;2
+bookstall;;book-stall;;bUk-st$l;;2
+book token;;book to-ken;;bUk-"t5-k@n;;3
+book up;;book up;;"bUk-Vp;;2
+bookwork;;book-work;;bUk-w3k;;2
+boomerang;;boom-er-ang;;bu-m@-r{N;;3
+boomerang;;boom-er-ang;;bu-m@-r{N;;3
+boom out;;boom out;;"bum-6t;;2
+boom town;;boom town;;bum-t6n;;2
+boor;;boor;;b9R;;1
+boorishly;;boor-ish-ly;;b9-rIS-lI;;3
+boot;;boot;;but;;1
+boot;;boot;;but;;1
+bootblack;;boot-black;;but-bl{k;;2
+booted;;boot-ed;;bu-tId;;2
+booth;;booth;;buD;;1
+bootlegger;;boot-leg-ger;;but-"lE-g@R;;3
+boots;;boots;;buts;;1
+booze;;booze;;buz;;1
+boozily;;booz-i-ly;;bu-zI-lI;;3
+bopeep;;bo-peep;;"b5-pip;;2
+boracic;;bo-rac-ic;;b@-r{-sIk;;3
+boracic acid;;bo-rac-ic ac-id;;b@-"r{-sIk-{-sId;;5
+borax;;bo-rax;;b$-r{ks;;2
+Bordeaux;;Bor-deaux;;b$-d5;;2
+bordello;;bor-del-lo;;b$-dE-l5;;3
+border;;bor-der;;b$-d@R;;2
+Border;;Bor-der;;b$-d@R;;2
+borderland;;bor-der-land;;b$-d@-l{nd;;3
+borderline;;bor-der-line;;b$-d@-l2n;;3
+borderline;;bor-der-line;;b$-d@-l2n;;3
+border on;;bor-der on;;b$-d@-rQn;;3
+border upon;;bor-der up-on;;b$-d@-r@-"pQn;;4
+bore;;bore;;b$R;;1
+boredom;;bore-dom;;b$-d@m;;2
+boric acid;;bo-ric ac-id;;"b$-rIk-{-sId;;4
+boring;;bor-ing;;b$-rIN;;2
+borne in upon;;borne in up-on;;"b$n-In-@-"pQn;;4
+boron;;bo-ron;;b$-rQn;;2
+borough;;bor-ough;;bV-r@;;2
+borrow;;bor-row;;bQ-r5;;2
+borsch;;borsch;;b$S;;1
+borscht;;borscht;;b$st;;1
+borzoi;;bor-zoi;;b$-z4;;2
+bosh;;bosh;;bQS;;1
+bosh;;bosh;;bQS;;1
+bosk;;bosk;;bQsk;;1
+bosky;;bosk-y;;bQ-skI;;2
+bosom;;bos-om;;bU-z@m;;2
+boss;;boss;;bQs;;1
+boss;;boss;;bQs;;1
+boss-eyed;;boss--eyed;;bQs-2d;;2
+bossiness;;boss-i-ness;;bQ-sI-nIs;;3
+Boston;;Bos-ton;;bQ-st@n;;2
+botch;;botch;;bQJ;;1
+botch;;botch;;bQJ;;1
+botcher;;botch-er;;bQ-J@R;;2
+both;;both;;b5T;;1
+bottle;;bot-tle;;bQ-tP;;2
+bottle-feed;;bot-tle--feed;;bQ-tP-fid;;3
+bottleful;;bot-tle-ful;;bQ-tP-fUl;;3
+bottle up;;bot-tle up;;"bQ-tP-Vp;;3
+botulism;;bot-u-lism;;bQ-tjU-lI-z@m;;4
+boudoir;;bou-doir;;bu-dw#R;;2
+bougainvillaea;;bou-gain-vil-lae-a;;"bu-g@n-vI-l7;;4
+bougainvillea;;bou-gain-vil-lea;;"bu-g@n-vI-l7;;4
+bough;;bough;;b6;;1
+boulder;;boul-der;;b5l-d@R;;2
+boulevard;;boul-e-vard;;bu-l@-v#d;;3
+bounce;;bounce;;b6ns;;1
+bounce;;bounce;;b6ns;;1
+bouncer;;bounc-er;;b6n-s@R;;2
+bouncily;;bounc-i-ly;;b6n-sI-lI;;3
+bound;;bound;;b6nd;;1
+bound;;bound;;b6nd;;1
+boundary;;bound-a-ry;;b6n-d@-rI;;3
+boundlessness;;bound-less-ness;;b6nd-lIs-nIs;;3
+bountiful;;boun-ti-ful;;b6n-tI-fUl;;3
+bountifully;;boun-ti-ful-ly;;b6n-tI-fU-lI;;4
+bounty;;boun-ty;;b6n-tI;;2
+bourgeois;;bour-geois;;b$-Zw#;;2
+bourn;;bourn;;b$n;;1
+bourse;;bourse;;b9s;;1
+boutique;;bou-tique;;bu-tik;;2
+bouzouki;;bou-zou-ki;;bu-zu-kI;;3
+bovine;;bo-vine;;b5-v2n;;2
+Bovril;;Bov-ril;;bQ-vr@l;;2
+bovver;;bov-ver;;bQ-v@R;;2
+bow;;bow;;b5;;1
+bow;;bow;;b5;;1
+Bowdler;;Bowd-ler;;b6d-l@R;;2
+bowels;;bow-els;;b6-@lz;;2
+bower;;bow-er;;b6-@R;;2
+bowie knife;;bow-ie knife;;b5-I-n2f;;3
+bowing;;bow-ing;;b5-IN;;2
+bowl;;bowl;;b5l;;1
+bowl along;;bowl a-long;;"b5l-@-lQN;;3
+bow-legged;;bow--leg-ged;;b5-lEgd;;2
+bowler;;bowl-er;;b5-l@R;;2
+bowlful;;bowl-ful;;b5l-fUl;;2
+bowline;;bow-line;;b5-lIn;;2
+bowling;;bowl-ing;;b5-lIN;;2
+bowling alley;;bowl-ing al-ley;;b5-lIN-"{-lI;;4
+bowls;;bowls;;b5lz;;1
+bow out;;bow out;;"b6-6t;;2
+bowser;;bow-ser;;b6-z@R;;2
+bowsprit;;bow-sprit;;b5-sprIt;;2
+bow tie;;bow tie;;"b5-t2;;2
+bow to;;bow to;;b6-tu;;2
+bow window;;bow win-dow;;"b5-wIn-d5;;3
+box;;box;;bQks;;1
+box;;box;;bQks;;1
+boxer;;box-er;;bQk-s@R;;2
+boxful;;box-ful;;bQks-fUl;;2
+boxing;;box-ing;;bQk-sIN;;2
+box off;;box off;;"bQks-Qf;;2
+boy;;boy;;b4;;1
+boycott;;boy-cott;;b4-kQt;;2
+boyish;;boy-ish;;b4-IS;;2
+boyishly;;boy-ish-ly;;b4-IS-lI;;3
+boyishness;;boy-ish-ness;;b4-IS-nIs;;3
+boys;;boys;;b4z;;1
+boy scout;;boy scout;;"b4-sk6t;;2
+BR;;BR;;"brI-tIS-r1l;;3
+bra;;bra;;br#;;1
+bracelets;;brace-lets;;br1-slIts;;2
+braces;;brac-es;;br1-sIz;;2
+bracken;;brack-en;;br{-k@n;;2
+bracket;;brack-et;;br{-kIt;;2
+bracket;;brack-et;;br{-kIt;;2
+brackish;;brack-ish;;br{-kIS;;2
+bract;;bract;;br{kt;;1
+bradawl;;brad-awl;;br{d-$l;;2
+brae;;brae;;br1;;1
+brag;;brag;;br{g;;1
+brag;;brag;;br{g;;1
+Brahmin;;Brah-min;;br#-mIn;;2
+braid;;braid;;br1d;;1
+braille;;braille;;br1l;;1
+brainchild;;brain-child;;br1n-J2ld;;2
+brainless;;brain-less;;br1n-lIs;;2
+brains;;brains;;br1nz;;1
+brainstorm;;brain-storm;;br1n-st$m;;2
+brains trust;;brains trust;;br1nz-trVst;;2
+brainwash;;brain-wash;;br1n-wQS;;2
+brainwave;;brain-wave;;br1n-w1v;;2
+brainy;;brain-y;;br1-nI;;2
+braise;;braise;;br1z;;1
+brake;;brake;;br1k;;1
+brake horsepower;;brake horse-pow-er;;"br1k-h$s-"p6-@R;;4
+bran;;bran;;br{n;;1
+branch;;branch;;br#nJ;;1
+brand;;brand;;br{nd;;1
+brand as;;brand as;;br{nd-{z;;2
+branding-iron;;brand-ing--i-ron;;br{n-dIN-"2-@n;;4
+brandish;;bran-dish;;br{n-dIS;;2
+brandy-ball;;bran-dy--ball;;br{n-dI-b$l;;3
+bran-new;;bran--new;;"br{n-nju;;2
+brash;;brash;;br{S;;1
+brashly;;brash-ly;;br{S-lI;;2
+brashness;;brash-ness;;br{S-nIs;;2
+brass;;brass;;br#s;;1
+brassed off;;brassed off;;"br#st-Qf;;2
+brasserie;;bras-se-rie;;br{-s@-rI;;3
+brass hat;;brass hat;;"br#s-h{t;;2
+brass knuckles;;brass knuck-les;;br#s-"nV-kPz;;3
+brass-monkey;;brass--mon-key;;"br#s-mVN-kI;;3
+brass tacks;;brass tacks;;"br#s-t{ks;;2
+brassy;;brass-y;;br#-sI;;2
+brat;;brat;;br{t;;1
+bravado;;bra-va-do;;br@-v#-d5;;3
+brave;;brave;;br1v;;1
+bravely;;brave-ly;;br1v-lI;;2
+bravery;;brav-er-y;;br1-v@-rI;;3
+bravo;;bra-vo;;"br#-v5;;2
+brawl;;brawl;;br$l;;1
+brawl;;brawl;;br$l;;1
+brawler;;brawl-er;;br$-l@R;;2
+brawniness;;brawn-i-ness;;br$-nI-nIs;;3
+bray;;bray;;br1;;1
+braze;;braze;;br1z;;1
+brazen;;bra-zen;;br1-zH;;2
+brazen-faced;;bra-zen--faced;;br1-zH-f1st;;3
+brazenly;;bra-zen-ly;;br1-zH-lI;;3
+brazier;;bra-zier;;br1-zj@R;;2
+Brazil;;Bra-zil;;br@-zIl;;2
+Brazilian;;Bra-zil-ian;;br@-zI-lj@n;;3
+Brazilian;;Bra-zil-ian;;br@-zI-lj@n;;3
+BrE;;BrE;;"brI-tIS-IN-glIS;;4
+breach of confidence;;breach of con-fi-dence;;"briJ-Qv-kQn-fI-d@ns;;5
+breach of promise;;breach of prom-ise;;"briJ-Qv-prQ-mIs;;4
+breach of the peace;;breach of the peace;;"briJ-Qv-D@-pis;;4
+bread-and-butter;;bread--and--but-ter;;"brEd-{nd-bV-t@R;;4
+breadbasket;;bread-bas-ket;;brEd-"b#-skIt;;3
+breaded;;bread-ed;;brE-dId;;2
+breadline;;bread-line;;brEd-l2n;;2
+breadwinner;;bread-win-ner;;brEd-"wI-n@R;;3
+break;;break;;br1k;;1
+breakable;;break-a-ble;;br1-k@-bP;;3
+breakage;;break-age;;br1-kI_;;2
+breakaway;;break-a-way;;br1k-@-w1;;3
+break down;;break down;;"br1k-d6n;;2
+breakfast;;break-fast;;brEk-f@st;;2
+break-in;;break--in;;br1k-In;;2
+break in;;break in;;"br1k-In;;2
+break in upon;;break in up-on;;"br1k-In-@-"pQn;;4
+breakneck;;break-neck;;br1k-nEk;;2
+break off;;break off;;"br1k-Qf;;2
+break out;;break out;;"br1k-6t;;2
+breakout;;break-out;;"br1k-6t;;2
+break through;;break through;;"br1k-Tru;;2
+break through;;break through;;br1k-Tru;;2
+breakwater;;break-wa-ter;;br1k-"w$-t@R;;3
+breast;;breast;;brEst;;1
+breast-deep;;breast--deep;;"brEst-dip;;2
+breast-fed;;breast--fed;;brEst-fEd;;2
+breast-high;;breast--high;;"brEst-h2;;2
+breastplate;;breast-plate;;brEst-pl1t;;2
+breast pocket;;breast pock-et;;"brEst-pQ-kIt;;3
+breastwork;;breast-work;;brEst-w3k;;2
+breath;;breath;;brET;;1
+breathalyser;;breath-a-lys-er;;brE-T@-l2-z@R;;4
+breathe out;;breathe out;;"briD-6t;;2
+breathily;;breath-i-ly;;brE-TI-lI;;3
+breathiness;;breath-i-ness;;brE-TI-nIs;;3
+breathing;;breath-ing;;bri-DIN;;2
+breathing-space;;breath-ing--space;;bri-DIN-sp1s;;3
+breathlessly;;breath-less-ly;;brET-lIs-lI;;3
+breathtaking;;breath-tak-ing;;brET-"t1-kIN;;3
+breech-block;;breech--block;;briJ-blQk;;2
+breeches;;breech-es;;brI-JIz;;2
+breech-loader;;breech--load-er;;briJ-"l5-d@R;;3
+breeder;;breed-er;;bri-d@R;;2
+breeding;;breed-ing;;bri-dIN;;2
+breezeblock;;breeze-block;;briz-blQk;;2
+breeze through;;breeze through;;briz-Tru;;2
+breezily;;breez-i-ly;;bri-zI-lI;;3
+breezy;;breez-y;;bri-zI;;2
+breve;;breve;;briv;;1
+brevet;;bre-vet;;brE-vIt;;2
+breviary;;bre-vi-ar-y;;bri-vj@-rI;;3
+brew up;;brew up;;"bru-Vp;;2
+briar;;bri-ar;;br2-@R;;2
+bribe;;bribe;;br2b;;1
+bribery;;brib-er-y;;br2-b@-rI;;3
+bric-a-brac;;bric--a--brac;;brI-k@-br{k;;3
+brickkiln;;brick-kiln;;brIk-kIln;;2
+bricklaying;;brick-lay-ing;;brIk-"l1-IN;;3
+brick over;;brick o-ver;;"brIk-5-v@R;;3
+brickwork;;brick-work;;brIk-w3k;;2
+brickyard;;brick-yard;;brIk-j#d;;2
+bride;;bride;;br2d;;1
+bridesmaid;;brides-maid;;br2dz-m1d;;2
+bride-to-be;;bride--to--be;;"br2d-tu-bi;;3
+bridge;;bridge;;brI_;;1
+bridgehead;;bridge-head;;brI_-hEd;;2
+bridge over;;bridge o-ver;;"brI_-5-v@R;;3
+bridgework;;bridge-work;;brI_-w3k;;2
+bridle;;bri-dle;;br2-dP;;2
+Brie;;Brie;;bri;;1
+brief;;brief;;brif;;1
+briefcase;;brief-case;;brif-k1s;;2
+briefing;;brief-ing;;bri-fIN;;2
+brigadier-general;;brig-a-dier--gen-e-ral;;"brI-g@-d7-_E-n@-r@l;;6
+brigand;;brig-and;;brI-g@nd;;2
+brigandage;;brig-and-age;;brI-g@n-dI_;;3
+brigantine;;brig-an-tine;;brI-g@n-tin;;3
+bright;;bright;;br2t;;1
+bright;;bright;;br2t;;1
+brighten;;bright-en;;br2-tH;;2
+brightness;;bright-ness;;br2t-nIs;;2
+brilliance;;bril-liance;;brIl-j@ns;;2
+brilliant;;bril-liant;;brI-lj@nt;;2
+brimful;;brim-ful;;"brIm-fUl;;2
+brim over;;brim o-ver;;"brIm-5-v@R;;3
+brimstone;;brim-stone;;brIm-st5n;;2
+brindled;;brin-dled;;brIn-dPd;;2
+bring;;bring;;brIN;;1
+bring about;;bring a-bout;;"brIN-@-b6t;;3
+bring back;;bring back;;"brIN-b{k;;2
+bring forth;;bring forth;;"brIN-f$T;;2
+bring forward;;bring for-ward;;"brIN-f$-w@d;;3
+bring into;;bring in-to;;brIN-"In-tu;;3
+bring off;;bring off;;"brIN-Qf;;2
+bring on;;bring on;;"brIN-Qn;;2
+bring out;;bring out;;"brIN-6t;;2
+bring over;;bring o-ver;;"brIN-5-v@R;;3
+bring through;;bring through;;"brIN-Tru;;2
+bring through;;bring through;;brIN-Tru;;2
+bring to;;bring to;;"brIN-tu;;2
+bring together;;bring to-geth-er;;"brIN-t@-gE-D@R;;4
+bring under;;bring un-der;;brIN-"Vn-d@R;;3
+bring up;;bring up;;"brIN-Vp;;2
+brink;;brink;;brINk;;1
+brinksmanship;;brinks-man-ship;;brINk-m@n-SIp;;3
+briny;;brin-y;;br2-nI;;2
+briquette;;bri-quette;;brI-kEt;;2
+briskly;;brisk-ly;;brIsk-lI;;2
+bristle;;bris-tle;;brI-sP;;2
+bristly;;bris-tly;;brIs-lI;;2
+bristols;;bris-tols;;brI-stPz;;2
+Brit;;Brit;;brIt;;1
+Britain;;Brit-ain;;brI-tH;;2
+British;;Brit-ish;;brI-tIS;;2
+brittle;;brit-tle;;brI-tP;;2
+broach;;broach;;br5J;;1
+broad;;broad;;br$d;;1
+broad;;broad;;br$d;;1
+broad bean;;broad bean;;"br$d-bin;;2
+broadcast;;broad-cast;;br$d-k#st;;2
+broadcast;;broad-cast;;br$d-k#st;;2
+broadcaster;;broad-cast-er;;br$d-k#-st@R;;3
+broadcasting;;broad-cast-ing;;br$d-k#-stIN;;3
+broadcasting;;broad-cast-ing;;br$d-k#-stIN;;3
+Broad Church;;Broad Church;;"br$d-J3J;;2
+broadcloth;;broad-cloth;;br$d-klQT;;2
+broad gauge;;broad gauge;;br$d-g1_;;2
+broadloom;;broad-loom;;br$d-lum;;2
+broadloom;;broad-loom;;br$d-lum;;2
+broadly;;broad-ly;;br$d-lI;;2
+broadmindedly;;broad-mind-ed-ly;;"br$d-m2n-dId-lI;;4
+broadmindedness;;broad-mind-ed-ness;;"br$d-m2n-dId-nIs;;4
+broadside;;broad-side;;br$d-s2d;;2
+broadsword;;broad-sword;;br$d-s$d;;2
+broadwise;;broad-wise;;br$d-w2z;;2
+brocade;;bro-cade;;br5-k1d;;2
+broccoli;;broc-co-li;;brQ-k@-lI;;3
+brochure;;bro-chure;;br5-S@R;;2
+broil;;broil;;br4l;;1
+broil;;broil;;br4l;;1
+broke;;broke;;br5k;;1
+broken;;bro-ken;;br5-k@n;;2
+broken-heartedly;;bro-ken--heart-ed-ly;;"br5-k@n-h#-tId-lI;;5
+broker;;bro-ker;;br5-k@R;;2
+bronchial;;bron-chi-al;;brQN-kj@l;;2
+bronchial tube;;bron-chi-al tube;;"brQN-kj@l-tjub;;3
+bronchitic;;bron-chit-ic;;brQN-kI-tIk;;3
+bronchitis;;bron-chi-tis;;brQN-k2-tIs;;3
+bronchus;;bron-chus;;brQN-k@s;;2
+bronco;;bron-co;;brQN-k5;;2
+Bronx;;Bronx;;brQNks;;1
+brooch;;brooch;;br5J;;1
+brood;;brood;;brud;;1
+brood;;brood;;brud;;1
+brood;;brood;;brud;;1
+brooder;;brood-er;;bru-d@R;;2
+broodily;;brood-i-ly;;bru-dI-lI;;3
+brood-mare;;brood--mare;;brud-m8R;;2
+brook;;brook;;brUk;;1
+brook;;brook;;brUk;;1
+Bros.;;Bros.;;brV-D@z;;2
+broth;;broth;;brQT;;1
+brothel;;broth-el;;brQ-TP;;2
+brother;;broth-er;;brV-D@R;;2
+brother;;broth-er;;brV-D@R;;2
+brotherly;;broth-er-ly;;brV-D@-lI;;3
+brow;;brow;;br6;;1
+browbeat;;brow-beat;;br6-bit;;2
+brown;;brown;;br6n;;1
+brownie;;brown-ie;;br6-nI;;2
+Brownie;;Brown-ie;;br6-nI;;2
+brown rice;;brown rice;;"br6n-r2s;;2
+brownstone;;brown-stone;;br6n-st5n;;2
+brucellosis;;bru-cel-lo-sis;;"bru-sI-l5-sIs;;4
+bruin;;bru-in;;bru-In;;2
+bruise;;bruise;;bruz;;1
+bruising;;bruis-ing;;bru-zIN;;2
+bruit about;;bruit a-bout;;"brut-@-b6t;;3
+brunch;;brunch;;brVnJ;;1
+brush;;brush;;brVS;;1
+brush aside;;brush a-side;;"brVS-@-s2d;;3
+brush away;;brush a-way;;"brVS-@-w1;;3
+brush off;;brush off;;"brVS-Qf;;2
+brush up on;;brush up on;;"brVS-Vp-Qn;;3
+brushwood;;brush-wood;;brVS-wUd;;2
+brusqueness;;brusque-ness;;brusk-nIs;;2
+brussels sprout;;brus-sels sprout;;"brV-sP-spr6ts;;3
+brutal;;bru-tal;;bru-tP;;2
+brutalize;;bru-tal-ize;;bru-t@-l2z;;3
+brutally;;bru-tal-ly;;bru-t@-lI;;3
+brute;;brute;;brut;;1
+brute;;brute;;brut;;1
+brutish;;brut-ish;;bru-tIS;;2
+bubble;;bub-ble;;bV-bP;;2
+bubbly;;bub-bly;;bV-blI;;2
+bubonic plague;;bu-bon-ic plague;;bju-"bQ-nIk-pl1g;;4
+buck;;buck;;bVk;;1
+bucketful;;buck-et-ful;;bV-kIt-fUl;;3
+buckle;;buck-le;;bV-kP;;2
+buckle down;;buck-le down;;"bV-kP-d6n;;3
+buckler;;buck-ler;;bV-kl@R;;2
+buckram;;buck-ram;;bVk-r@m;;2
+buckskin;;buck-skin;;bVk-skIn;;2
+buckwheat;;buck-wheat;;bVk-wit;;2
+bucolic;;bu-col-ic;;bju-kQ-lIk;;3
+bucolically;;bu-col-i-cal-ly;;bju-kQ-lI-k@-lI;;5
+bud;;bud;;bVd;;1
+Buddha;;Bud-dha;;bU-d@;;2
+Buddhism;;Bud-dhism;;bU-dI-z@m;;3
+budget;;bud-get;;bV-_It;;2
+buff;;buff;;bVf;;1
+buffalo;;buf-fa-lo;;bV-f@-l5;;3
+buffer;;buff-er;;bV-f@R;;2
+buffer;;buff-er;;bV-f@R;;2
+buffer state;;buff-er state;;bV-f@-st1t;;3
+buffet;;buf-fet;;bV-fIt;;2
+buffet;;buf-fet;;bU-f1;;2
+buffet;;buf-fet;;bV-fIt;;2
+bug;;bug;;bVg;;1
+bugaboo;;bug-a-boo;;bV-g@-bu;;3
+bugger;;bug-ger;;bV-g@R;;2
+bugger about;;bug-ger a-bout;;"bV-g@-r@-b6t;;4
+bugger-all;;bug-ger--all;;bV-g@-r$l;;3
+bugger off;;bug-ger off;;"bV-g@-rQf;;3
+buggery;;bug-ger-y;;bV-g@-rI;;3
+buggy;;bug-gy;;bV-gI;;2
+bugle;;bu-gle;;bju-gP;;2
+bugle;;bu-gle;;bju-gP;;2
+bugler;;bu-gler;;bju-gl@R;;2
+build;;build;;bIld;;1
+builder;;build-er;;bIl-d@R;;2
+build in;;build in;;"bIld-In;;2
+build into;;build in-to;;bIld-"In-tu;;3
+build on;;build on;;bIld-Qn;;2
+build up;;build up;;"bIld-Vp;;2
+build upon;;build up-on;;bIld-@-"pQn;;3
+built-in;;built--in;;bIlt-In;;2
+bulbul;;bul-bul;;bUl-bUl;;2
+bulginess;;bulg-i-ness;;bVl-_I-nIs;;3
+bulgy;;bulg-y;;bVl-_I;;2
+bulk;;bulk;;bVlk;;1
+bulkhead;;bulk-head;;bVlk-hEd;;2
+bulkily;;bulk-i-ly;;bVl-kI-lI;;3
+bull;;bull;;bUl;;1
+bull;;bull;;bUl;;1
+bull;;bull;;bUl;;1
+bulldoze;;bull-doze;;bUl-d5z;;2
+bulldozer;;bull-doz-er;;bUl-d5-z@R;;3
+bullet;;bul-let;;bU-lIt;;2
+bullet-headed;;bul-let--head-ed;;bU-lIt-"hE-dId;;4
+bulletin;;bul-le-tin;;bU-l@-tIn;;3
+bulletproof;;bul-let-proof;;bU-lIt-pruf;;3
+bullfighter;;bull-fight-er;;bUl-"f2-t@R;;3
+bullfinch;;bull-finch;;bUl-fInJ;;2
+bullfrog;;bull-frog;;bUl-frQg;;2
+bullion;;bul-lion;;bU-lj@n;;2
+bullnecked;;bull-necked;;"bUl-nEkt;;2
+bullring;;bull-ring;;bUl-rIN;;2
+bullshit;;bull-shit;;bUl-"SIt;;2
+bully;;bul-ly;;bU-lI;;2
+bulwark;;bul-wark;;bUl-w@k;;2
+bum around;;bum a-round;;"bVm-@-r6nd;;3
+bumble;;bum-ble;;bVm-bP;;2
+bumblebee;;bum-ble-bee;;bVm-bP-bi;;3
+bummer;;bum-mer;;bV-m@R;;2
+bump;;bump;;bVmp;;1
+bump;;bump;;bVmp;;1
+bumper;;bump-er;;bVm-p@R;;2
+bumper-to-bumper;;bump-er--to--bump-er;;"bVm-p@-tu-bVm-p@R;;5
+bumpiness;;bump-i-ness;;bVm-pI-nIs;;3
+bumptious;;bump-tious;;bVmp-S@s;;2
+bumptiousness;;bump-tious-ness;;bVmp-S@s-nIs;;3
+bun;;bun;;bVn;;1
+Buna;;Bu-na;;bu-n@;;2
+bunch;;bunch;;bVnJ;;1
+bundle;;bun-dle;;bVn-dP;;2
+bundle off;;bun-dle off;;"bVn-dP-Qf;;3
+bung;;bung;;bVN;;1
+bungaloid;;bun-ga-loid;;bVN-g@-l4d;;3
+bunghole;;bung-hole;;bVN-h5l;;2
+bungle;;bun-gle;;bVN-gP;;2
+bungler;;bun-gler;;bVN-gl@R;;2
+bunion;;bun-ion;;bVn-j@n;;2
+bunk;;bunk;;bVNk;;1
+bunk;;bunk;;bVNk;;1
+bunk bed;;bunk bed;;bVNk-bEd;;2
+bunker;;bunk-er;;bVN-k@R;;2
+bunkered;;bun-kered;;bVN-k@d;;2
+bunkhouse;;bunk-house;;bVNk-h6s;;2
+bunk off;;bunk off;;"bVNk-Qf;;2
+bunkum;;bun-kum;;bVN-k@m;;2
+bunk-up;;bunk--up;;bVNk-Vp;;2
+bunk up;;bunk up;;"bVNk-Vp;;2
+Bunsen;;Bun-sen;;bVn-sH;;2
+buoy;;buoy;;b4;;1
+buoyantly;;buoy-ant-ly;;b4-@nt-lI;;3
+buoy up;;buoy up;;"b4-Vp;;2
+Burberry;;Bur-ber-ry;;b3-b@-rI;;3
+Burberry;;Bur-ber-ry;;b3-b@-rI;;3
+burble;;bur-ble;;b3-bP;;2
+burden of proof;;bur-den of proof;;"b3-dH-Qv-pruf;;4
+burdensome;;bur-den-some;;b3-dH-s@m;;3
+burdensomeness;;bur-den-some-ness;;b3-dH-s@m-nIs;;4
+burdock;;bur-dock;;b3-dQk;;2
+bureaucracy;;bu-reauc-ra-cy;;bj9-rQ-kr@-sI;;4
+bureaucratic;;bu-reau-crat-ic;;"bj9-r5-kr{-tIk;;4
+burette;;bu-rette;;bj9-rEt;;2
+burg;;burg;;b3g;;1
+burgess;;bur-gess;;b3-_Is;;2
+burgh;;burgh;;bV-r@;;2
+burglar;;bur-glar;;b3-gl@R;;2
+burglar-alarm;;bur-glar--a-larm;;b3-gl@-r@-"l#m;;4
+burgomaster;;bur-go-mas-ter;;b3-g5-"m#-st@R;;4
+burial;;bur-i-al;;bE-r7l;;2
+Burma;;Bur-ma;;b3-m@;;2
+Burmese;;Bur-mese;;"b3-miz;;2
+Burmese;;Bur-mese;;"b3-miz;;2
+burn;;burn;;b3n;;1
+burn;;burn;;b3n;;1
+burn away;;burn a-way;;"b3n-@-w1;;3
+burner;;burn-er;;b3-n@R;;2
+burnish;;bur-nish;;b3-nIS;;2
+burn off;;burn off;;"b3n-Qf;;2
+burnouse;;bur-nouse;;b3-nus;;2
+burn out;;burn out;;"b3n-6t;;2
+burnt offering;;burnt of-fer-ing;;"b3nt-Q-f@-rIN;;4
+burnt-out;;burnt--out;;"b3nt-6t;;2
+burn up;;burn up;;"b3n-Vp;;2
+burp;;burp;;b3p;;1
+burp;;burp;;b3p;;1
+burr;;burr;;b3R;;1
+burr;;burr;;b3R;;1
+burrow;;bur-row;;bV-r5;;2
+burst;;burst;;b3st;;1
+burst in on;;burst in on;;"b3st-In-Qn;;3
+burst into;;burst in-to;;b3st-"In-tu;;3
+burst in upon;;burst in up-on;;"b3st-In-@-"pQn;;4
+burthen;;bur-then;;b3-DH;;2
+burthen;;bur-then;;b3-DH;;2
+burton;;bur-ton;;b3-tH;;2
+Burundi;;Bu-run-di;;bU-rUn-dI;;3
+Burundian;;Bu-run-di-an;;bU-rUn-d7n;;3
+Burundian;;Bu-run-di-an;;bU-rUn-d7n;;3
+bury;;bur-y;;bE-rI;;2
+bus;;bus;;bVs;;1
+busby;;bus-by;;bVz-bI;;2
+Bushman;;Bush-man;;bUS-m@n;;2
+bushwhack;;bush-whack;;bUS-w{k;;2
+bushwhacker;;bush-whack-er;;bUS-w{-k@R;;3
+bushy;;bush-y;;bU-SI;;2
+busily;;bus-i-ly;;bI-zI-lI;;3
+business;;busi-ness;;bIz-nIs;;2
+businesswoman;;busi-ness-wom-an;;bIz-nIs-"wU-m@n;;4
+busman;;bus-man;;bVs-m@n;;2
+busman's holiday;;bus-man's hol-i-day;;"bVs-m@nz-hQ-l@-d1;;5
+bus stop;;bus stop;;bVs-stQp;;2
+bustard;;bus-tard;;bV-st@d;;2
+bustle;;bus-tle;;bV-sP;;2
+bustle with;;bus-tle with;;bV-sP-wID;;3
+bust-up;;bust--up;;bVst-Vp;;2
+bust up;;bust up;;"bVst-Vp;;2
+busy;;bus-y;;bI-zI;;2
+but;;but;;bVt;;1
+but;;but;;bVt;;1
+butch;;butch;;bUJ;;1
+butch;;butch;;bUJ;;1
+butcher;;butch-er;;bU-J@R;;2
+butcher;;butch-er;;bU-J@R;;2
+butler;;but-ler;;bVt-l@R;;2
+butt;;butt;;bVt;;1
+butter;;but-ter;;bV-t@R;;2
+butterfly nut;;but-ter-fly nut;;bV-t@-fl2-nVt;;4
+butterscotch;;but-ter-scotch;;bV-t@-skQJ;;3
+butter up;;but-ter up;;"bV-t@-rVp;;3
+buttery;;but-ter-y;;bV-t@-rI;;3
+but then;;but then;;"bVt-DEn;;2
+butt in;;butt in;;"bVt-In;;2
+buttock;;but-tock;;bV-t@k;;2
+button;;but-ton;;bV-tH;;2
+button;;but-ton;;bV-tH;;2
+button-down;;but-ton--down;;bV-tH-d6n;;3
+buttoned-up;;but-toned--up;;"bV-tHd-Vp;;3
+buttress;;but-tress;;bV-trIs;;2
+buxom;;bux-om;;bVk-s@m;;2
+buy;;buy;;b2;;1
+buyer;;buy-er;;b2-@R;;2
+buyer's market;;buy-er's mar-ket;;b2-@z-"m#-kIt;;4
+buy in;;buy in;;"b2-In;;2
+buy off;;buy off;;"b2-Qf;;2
+buy out;;buy out;;"b2-6t;;2
+buy over;;buy o-ver;;"b2-5-v@R;;3
+buzzer;;buzz-er;;bV-z@R;;2
+buzz off;;buzz off;;"bVz-Qf;;2
+by;;by;;b2;;1
+by;;by;;b2;;1
+by and by;;by and by;;"b2-{nd-b2;;3
+by and large;;by and large;;"b2-{nd-l#_;;3
+bye;;bye;;b2;;1
+bye-byes;;bye--byes;;b2-b2z;;2
+by-election;;by--e-lec-tion;;b2-I-"lEk-SH;;4
+bye now;;bye now;;b2-n6;;2
+bygone;;by-gone;;b2-gQn;;2
+bygones;;by-gones;;b2-gQnz;;2
+bypass;;by-pass;;b2-p#s;;2
+byplay;;by-play;;b2-pl1;;2
+byroad;;by-road;;b2-r5d;;2
+by the bye;;by the bye;;"b2-D@-b2;;3
+byway;;by-way;;b2-w1;;2
+c;;c;;si;;1
+c;;c;;si;;1
+c;;c;;si;;1
+ca;;ca;;@-b6t;;2
+cab;;cab;;k{b;;1
+cabal;;ca-bal;;k@-b{l;;2
+cabaret;;cab-a-ret;;k{-b@-r1;;3
+cabby;;cab-by;;k{-bI;;2
+cabin boy;;cab-in boy;;k{-bIn-b4;;3
+cabin cruiser;;cab-in cruis-er;;k{-bIn-"kru-z@R;;4
+cabinet;;cab-i-net;;k{-bI-nIt;;3
+cablegram;;ca-ble-gram;;k1-bP-gr{m;;3
+cable-length;;ca-ble--length;;k1-bP-lENT;;3
+cable-railway;;ca-ble--rail-way;;k1-bP-"r1l-w1;;4
+caboodle;;ca-boo-dle;;k@-bu-dP;;3
+caboose;;ca-boose;;k@-bus;;2
+cabstand;;cab-stand;;k{b-st{nd;;2
+cacao;;ca-ca-o;;k@-k#-5;;3
+cacao-tree;;ca-ca-o--tree;;k@-k#-5-tri;;4
+cache;;cache;;k{S;;1
+cachou;;ca-chou;;k{-Su;;2
+cackle;;cack-le;;k{-kP;;2
+cackler;;cack-ler;;k{-kP-@R;;3
+cacophonous;;ca-coph-o-nous;;k{-kQ-f@-n@s;;4
+cacophony;;ca-coph-o-ny;;k{-kQ-f@-nI;;4
+cactus;;cac-tus;;k{k-t@s;;2
+cadence;;ca-dence;;k1-d@ns;;2
+cadet corps;;ca-det corps;;k@-dEt-k$R;;3
+cadge;;cadge;;k{_;;1
+cadger;;cadg-er;;k{-_@R;;2
+cadmium;;cad-mi-um;;k{d-m7m;;2
+cadre;;ca-dre;;k#-d@R;;2
+Caerphilly;;Caer-phil-ly;;k8-fI-lI;;3
+Caesar;;Cae-sar;;si-z@R;;2
+caesura;;cae-su-ra;;sI-zj9-r@;;3
+cafeteria;;caf-e-te-ri-a;;"k{-fI-t7-r7;;4
+caffeine;;caf-feine;;k{-fin;;2
+cage;;cage;;k1_;;1
+cage in;;cage in;;"k1_-In;;2
+cagily;;cag-i-ly;;k1-_I-lI;;3
+cagoule;;ca-gou-le;;k@-gul;;2
+caiman;;cai-man;;k1-m@n;;2
+cairn;;cairn;;k8n;;1
+cake;;cake;;k1k;;1
+calamine;;cal-a-mine;;k{-l@-m2n;;3
+calamine lotion;;cal-a-mine lo-tion;;"k{-l@-m2n-l5-SH;;5
+calamitous;;ca-lam-i-tous;;k@-l{-mI-t@s;;4
+calcination;;cal-ci-na-tion;;"k{l-sI-n1-SH;;4
+calcine;;cal-cine;;k{l-s2n;;2
+calcine;;cal-cine;;k{l-s2n;;2
+calcium carbide;;cal-ci-um car-bide;;"k{l-s7m-k#-b2d;;4
+calculably;;cal-cu-la-bly;;k{l-kjU-l@-blI;;4
+calculating;;cal-cu-lat-ing;;k{l-kjU-l1-tIN;;4
+calculating machine;;cal-cu-lat-ing ma-chine;;k{l-kjU-l1-tIN-m@-"Sin;;6
+calculation;;cal-cu-la-tion;;"k{l-kjU-l1-SH;;4
+calculus;;cal-cu-lus;;k{l-kjU-l@s;;3
+calender;;cal-en-der;;k{-lIn-d@R;;3
+calends;;cal-ends;;k{-lIndz;;2
+calf-love;;calf--love;;k#f-lVv;;2
+calibrate;;cal-i-brate;;k{-lI-br1t;;3
+calibre;;cal-i-bre;;k{-lI-b@R;;3
+calico;;cal-i-co;;k{-lI-k5;;3
+caliphate;;cal-i-phate;;k{-lI-f1t;;3
+calk;;calk;;k$k;;1
+calk;;calk;;k$k;;1
+call;;call;;k$l;;1
+calla;;cal-la;;k{-l@;;2
+callboy;;call-boy;;k$l-b4;;2
+call by;;call by;;k$l-b2;;2
+call down;;call down;;"k$l-d6n;;2
+caller;;call-er;;k$-l@R;;2
+calligraphist;;cal-lig-ra-phist;;k@-lI-gr@-fIst;;4
+calligraphy;;cal-lig-ra-phy;;k@-lI-gr@-fI;;4
+call-in;;call--in;;k$l-In;;2
+call in;;call in;;"k$l-In;;2
+calliope;;cal-li-o-pe;;k@-l2-@-pI;;4
+calliper;;cal-li-per;;k{-lI-p@R;;3
+callipers;;cal-li-pers;;k{-lI-p@z;;3
+callisthenic;;cal-lis-then-ic;;"k{-lIs-TE-nIk;;4
+call loan;;call loan;;k$l-l5n;;2
+call on;;call on;;k$l-Qn;;2
+callously;;cal-lous-ly;;k{-l@s-lI;;3
+callowness;;cal-low-ness;;k{-l5-nIs;;3
+call sign;;call sign;;k$l-s2n;;2
+call up;;call up;;"k$l-Vp;;2
+call upon;;call up-on;;k$l-@-"pQn;;3
+callus;;cal-lus;;k{-l@s;;2
+calm;;calm;;k#m;;1
+calm;;calm;;k#m;;1
+calm down;;calm down;;"k#m-d6n;;2
+calmness;;calm-ness;;k#m-nIs;;2
+calor gas;;cal-or gas;;k{-l@-g{s;;3
+calorie;;cal-o-rie;;k{-l@-rI;;3
+calumniate;;ca-lum-ni-ate;;k@-lVm-nI-1t;;4
+calve;;calve;;k#v;;1
+calyx;;ca-lyx;;k1-lIks;;2
+Cambodia;;Cam-bo-di-a;;k{m-b5-dj@;;3
+Cambodian;;Cam-bo-di-an;;k{m-b5-dj@n;;3
+cambric;;cam-bric;;k1m-brIk;;2
+camelhair;;cam-el-hair;;k{-mP-h8R;;3
+camellia;;ca-mel-lia;;k@-mi-lj@;;3
+Camembert;;Cam-em-bert;;k{-m@m-b8R;;3
+cameo;;cam-e-o;;k{-mI-5;;3
+camera;;cam-er-a;;k{-m@-r@;;3
+cami-knicks;;cam-i--knicks;;k{-mI-nIks;;3
+camouflage;;cam-ou-flage;;k{-m@-fl#Z;;3
+camouflage;;cam-ou-flage;;k{-m@-fl#Z;;3
+campaign;;cam-paign;;k{m-p1n;;2
+campaign;;cam-paign;;k{m-p1n;;2
+campanologist;;cam-pa-nol-o-gist;;"k{m-p@-nQ-l@-_Ist;;5
+campanula;;cam-pan-u-la;;k@m-p{-njU-l@;;4
+campfire;;camp-fire;;k{mp-"f2-@R;;3
+camp-follower;;camp--fol-low-er;;k{mp-"fQ-l5-@R;;4
+campground;;camp-ground;;k{mp-gr6nd;;2
+camphor;;cam-phor;;k{m-f@R;;2
+camphorate;;cam-pho-rate;;k{m-f@-r1t;;3
+camphorated;;cam-pho-rat-ed;;k{m-f@-r1-tId;;4
+camping;;camp-ing;;k{m-pIN;;2
+campion;;cam-pi-on;;k{m-pj@n;;2
+camp meeting;;camp meet-ing;;k{mp-"mi-tIN;;3
+camp-stool;;camp--stool;;k{mp-stul;;2
+campus;;cam-pus;;k{m-p@s;;2
+can;;can;;k{n;;1
+can;;can;;k{n;;1
+Canadian;;Ca-na-di-an;;k@-n1-dj@n;;3
+canal;;ca-nal;;k@-n{l;;2
+canal boat;;ca-nal boat;;k@-n{l-b5t;;3
+canalize;;ca-nal-ize;;k{-n@-l2z;;3
+canard;;ca-nard;;k{-n#d;;2
+canary;;ca-nar-y;;k@-n8-rI;;3
+canary-wine;;ca-nar-y--wine;;k@-n8-rI-w2n;;4
+cancel;;can-cel;;k{n-sP;;2
+cancel out;;can-cel out;;"k{n-sP-6t;;3
+cancer;;can-cer;;k{n-s@R;;2
+candelabrum;;can-de-la-brum;;"k{n-dI-l#-br@m;;4
+candidate;;can-di-date;;k{n-dI-d@t;;3
+candied;;can-died;;k{n-dId;;2
+candlepower;;can-dle-pow-er;;k{n-dP-"p6-@R;;4
+candour;;can-dour;;k{n-d@R;;2
+candyfloss;;can-dy-floss;;k{n-dI-flQs;;3
+cane;;cane;;k1n;;1
+cane;;cane;;k1n;;1
+canister;;can-is-ter;;k{-nI-st@R;;3
+canker;;can-ker;;k{N-k@R;;2
+cankerous;;can-ker-ous;;k{N-k@-r@s;;3
+canna;;can-na;;k{-n@;;2
+cannabis;;can-na-bis;;k{-n@-bIs;;3
+canned;;canned;;k{nd;;1
+cannibal;;can-ni-bal;;k{-nI-bP;;3
+cannibalistic;;can-ni-bal-is-tic;;"k{-nI-b@-lI-stIk;;5
+cannily;;can-ni-ly;;k{-nI-lI;;3
+cannon;;can-non;;k{-n@n;;2
+cannon;;can-non;;k{-n@n;;2
+cannonade;;can-non-ade;;"k{-n@-n1d;;3
+cannon-fodder;;can-non--fod-der;;k{-n@n-"fQ-d@R;;4
+cannot;;can-not;;k{-nQt;;2
+canny;;can-ny;;k{-nI;;2
+canoe;;ca-noe;;k@-nu;;2
+canon;;can-on;;k{-n@n;;2
+canonical;;ca-non-i-cal;;k@-nQ-nI-kP;;4
+canonicals;;ca-non-i-cals;;k@-nQ-nI-kPz;;4
+canoodle;;ca-noo-dle;;k@-nu-dP;;3
+can opener;;can o-pen-er;;k{n-"5-p@-n@R;;4
+canopy;;can-o-py;;k{-n@-pI;;3
+cant;;cant;;k{nt;;1
+can't;;can't;;k#nt;;1
+cantaloup;;can-ta-loup;;k{n-t@-lup;;3
+cantankerously;;can-tan-ker-ous-ly;;k{n-t{N-k@-r@s-lI;;5
+canteen;;can-teen;;k{n-tin;;2
+canter;;can-ter;;k{n-t@R;;2
+canto;;can-to;;k{n-t5;;2
+canton;;can-ton;;k{n-tQn;;2
+canton;;can-ton;;k{n-tQn;;2
+cantonment;;can-ton-ment;;k{n-tun-m@nt;;3
+cant over;;cant o-ver;;"k{nt-5-v@R;;3
+Canuck;;Ca-nuck;;k@-nVk;;2
+canvass;;can-vass;;k{n-v@s;;2
+canyon;;can-yon;;k{-nj@n;;2
+capabilities;;ca-pa-bil-i-ties;;"k1-p@-bI-l@-tI;;5
+capaciousness;;ca-pa-cious-ness;;k@-p1-S@s-nIs;;4
+capacity;;ca-pac-i-ty;;k@-p{-s@-tI;;4
+cap and bells;;cap and bells;;"k{p-{nd-bElz;;3
+cap-a-pie;;cap--a--pie;;"k{p-@-pi;;3
+caparison;;ca-par-i-son;;k@-p{-rI-sH;;4
+caparison;;ca-par-i-son;;k@-p{-rI-sH;;4
+Cape Coloured;;Cape Col-oured;;"k1p-kV-l@d;;3
+caper;;ca-per;;k1-p@R;;2
+capillary;;cap-il-lar-y;;k@-pI-l@-rI;;4
+capital;;cap-i-tal;;k{-pI-tP;;3
+capital;;cap-i-tal;;k{-pI-tP;;3
+capital assets;;cap-i-tal as-sets;;"k{-pI-tP-{-sEts;;5
+capital expenditure;;cap-i-tal ex-pend-i-ture;;"k{-pI-tP-Ik-spEn-dI-J@R;;7
+capitalization;;cap-i-tal-i-za-tion;;"k{-pI-t@-l2-z1-SH;;6
+capitalize;;cap-i-tal-ize;;k{-pI-t@-l2z;;4
+capitalize on;;cap-i-tal-ize on;;k{-pI-t@-l2z-Qn;;5
+capital punishment;;cap-i-tal pun-ish-ment;;"k{-pI-tP-pV-nIS-m@nt;;6
+capitation;;cap-i-ta-tion;;"k{-pI-t1-SH;;4
+Capitol;;Cap-i-tol;;k{-pI-tP;;3
+capitulate;;ca-pit-u-late;;k@-pI-JU-l1t;;4
+capitulation;;ca-pit-u-la-tion;;k@-"pI-JU-l1-SH;;5
+capitulations;;ca-pit-u-la-tions;;k@-"pI-JU-l1-SHz;;5
+capon;;ca-pon;;k1-p@n;;2
+capriccio;;ca-pric-ci-o;;k@-prI-JI-5;;4
+caprice;;ca-price;;k@-pris;;2
+capricious;;ca-pri-cious;;k@-prI-S@s;;3
+capriciousness;;ca-pri-cious-ness;;k@-prI-S@s-nIs;;4
+Capricorn;;Cap-ri-corn;;k{-prI-k$n;;3
+Capricorn;;Cap-ri-corn;;k{-prI-k$n;;3
+capsicum;;cap-si-cum;;k{p-sI-k@m;;3
+capsule;;cap-sule;;k{p-sjul;;2
+caption;;cap-tion;;k{p-SH;;2
+captiously;;cap-tious-ly;;k{p-S@s-lI;;3
+captiousness;;cap-tious-ness;;k{p-S@s-nIs;;3
+captive;;cap-tive;;k{p-tIv;;2
+captive audience;;cap-tive au-di-ence;;"k{p-tIv-$-dj@ns;;4
+captor;;cap-tor;;k{p-t@R;;2
+capture;;cap-ture;;k{p-J@R;;2
+caravan;;car-a-van;;k{-r@-v{n;;3
+caravansary;;car-a-van-sa-ry;;"k{-r@-v{n-s@-rI;;5
+caravanserai;;car-a-van-se-rai;;"k{-r@-v{n-s@-r2;;5
+caraway;;car-a-way;;k{-r@-w1;;3
+carbide;;car-bide;;k#-b2d;;2
+carbine;;car-bine;;k#-b2n;;2
+carbolic;;car-bol-ic;;k#-bQ-lIk;;3
+carbolic acid;;car-bol-ic ac-id;;k#-"bQ-lIk-{-sId;;5
+carbonated;;car-bon-at-ed;;k#-b@-n1-tId;;4
+carbonation;;car-bon-a-tion;;"k#-b@-n1-SH;;4
+carbon dating;;car-bon dat-ing;;"k#-b@n-d1-tIN;;4
+carbon dioxide;;car-bon di-ox-ide;;"k#-b@n-d2-Qk-s2d;;5
+carbonic acid;;car-bon-ic ac-id;;k#-"bQ-nIk-{-sId;;5
+Carboniferous;;Car-bon-if-er-ous;;"k#-b@-nI-f@-r@s;;5
+Carboniferous;;Car-bon-if-er-ous;;"k#-b@-nI-f@-r@s;;5
+carbonize;;car-bon-ize;;k#-b@-n2z;;3
+carboy;;car-boy;;k#-b4;;2
+carbuncle;;car-bun-cle;;k#-bVN-kP;;3
+carburet;;car-bu-ret;;k#-bjU-rEt;;3
+carburettor;;car-bu-ret-tor;;"k#-b@-rE-t@R;;4
+carcass;;car-cass;;k#-k@s;;2
+carcinogen;;car-cin-o-gen;;k#-sI-n@-_@n;;4
+cardamom;;car-da-mom;;k#-d@-m@m;;3
+cardboard;;card-board;;k#d-b$d;;2
+card-carrying;;card--car-ry-ing;;k#d-"k{-rI-IN;;4
+cardinal;;car-di-nal;;k#-dI-nP;;3
+cardinal;;car-di-nal;;k#-dI-nP;;3
+cardinal number;;car-di-nal num-ber;;"k#-dI-nP-nVm-b@R;;5
+cardinal point;;car-di-nal point;;"k#-dI-nP-p4nt;;4
+card index;;card in-dex;;k#d-"In-dEks;;3
+cardsharp;;card-sharp;;k#d-S#p;;2
+cardsharper;;card-sharp-er;;k#d-"S#-p@R;;3
+card vote;;card vote;;k#d-v5t;;2
+care;;care;;k8R;;1
+careen;;ca-reen;;k@-rin;;2
+career;;ca-reer;;k@-r7R;;2
+careerism;;ca-reer-ism;;k@-r7-"rI-z@m;;4
+careerist;;ca-reer-ist;;k@-r7-rIst;;3
+care for;;care for;;k8-f$R;;2
+carefree;;care-free;;k8-fri;;2
+carefulness;;care-ful-ness;;k8-fUl-nIs;;3
+caress;;ca-ress;;k@-rEs;;2
+caress;;ca-ress;;k@-rEs;;2
+caressing;;ca-ress-ing;;k@-rE-sIN;;3
+caret;;car-et;;k{-r@t;;2
+careworn;;care-worn;;k8-w$n;;2
+car-ferry;;car--fer-ry;;k#-"fE-rI;;3
+cargo;;car-go;;k#-g5;;2
+caribou;;car-i-bou;;k{-rI-bu;;3
+caricature;;car-i-ca-ture;;k{-rI-k@-"tj9R;;4
+caricaturist;;car-i-ca-tur-ist;;k{-rI-k@-"tj9-rIst;;5
+caries;;car-ies;;k8-riz;;2
+carillon;;car-il-lon;;k{-rIl-j@n;;3
+carious;;car-i-ous;;k8-r7s;;2
+Carl;;Carl;;k#l;;1
+Carmelite;;Car-mel-ite;;k#-m@-l2t;;3
+Carmelite;;Car-mel-ite;;k#-m@-l2t;;3
+carmine;;car-mine;;k#-m2n;;2
+carmine;;car-mine;;k#-m2n;;2
+carnally;;car-nal-ly;;k#-n@-lI;;3
+carnivore;;car-ni-vore;;k#-nI-v$R;;3
+carnivorous;;car-niv-o-rous;;k#-nI-v@-r@s;;4
+carol;;car-ol;;k{-r@l;;2
+carol;;car-ol;;k{-r@l;;2
+caroller;;car-ol-ler;;k{-r@-l@R;;3
+carotid;;ca-rot-id;;k@-rQ-tId;;3
+carousal;;ca-rous-al;;k@-r6-zP;;3
+carouse;;ca-rouse;;k@-r6z;;2
+carpal;;car-pal;;k#-p@l;;2
+carpal;;car-pal;;k#-p@l;;2
+car park;;car park;;k#-p#k;;2
+carpenter;;car-pen-ter;;k#-p@n-t@R;;3
+carpet;;car-pet;;k#-pIt;;2
+carpetbag;;car-pet-bag;;k#-pIt-b{g;;3
+carpet-beater;;car-pet--beat-er;;k#-pIt-"bi-t@R;;4
+carpet-sweeper;;car-pet--sweep-er;;k#-pIt-"swi-p@R;;4
+car pool;;car pool;;k#-pul;;2
+carpus;;car-pus;;k#-p@s;;2
+carriage;;car-riage;;k{-rI_;;2
+carriageway;;car-riage-way;;k{-rI_-w1;;3
+carrier-bag;;car-ri-er--bag;;k{-r7-b{g;;3
+carrier-pigeon;;car-ri-er--pi-geon;;k{-r7-"pI-_In;;4
+carroty;;car-rot-y;;k{-r@-tI;;3
+carryall;;car-ry-all;;k{-rI-$l;;3
+carry back;;car-ry back;;"k{-rI-b{k;;3
+carrycot;;car-ry-cot;;k{-rI-kQt;;3
+carryings-on;;car-ry-ings--on;;"k{-rI-INz-Qn;;4
+carry-on;;car-ry--on;;"k{-rI-Qn;;3
+carry on;;car-ry on;;"k{-rI-Qn;;3
+carry on with;;car-ry on with;;"k{-rI-Qn-wID;;4
+carryout;;car-ry-out;;k{-rI-6t;;3
+carry out;;car-ry out;;"k{-rI-6t;;3
+carry through;;car-ry through;;"k{-rI-Tru;;3
+cart;;cart;;k#t;;1
+cart;;cart;;k#t;;1
+cartage;;cart-age;;k#-tI_;;2
+carte blanche;;carte blanche;;"k#t-blqnS;;2
+cartilage;;car-ti-lage;;k#-tI-lI_;;3
+cartilaginous;;car-ti-lag-i-nous;;"k#-tI-l{-_I-n@s;;5
+cart-load;;cart--load;;k#t-l5d;;2
+cartographer;;car-tog-ra-pher;;k#-tQ-gr@-f@R;;4
+cartography;;car-tog-ra-phy;;k#-tQ-gr@-fI;;4
+carton;;car-ton;;k#-t@n;;2
+cart-track;;cart--track;;k#t-tr{k;;2
+cartwheel;;cart-wheel;;k#t-wil;;2
+carving;;carv-ing;;k#-vIN;;2
+carving-knife;;carv-ing--knife;;k#-vIN-n2f;;3
+caryatid;;car-y-at-id;;"k{-rI-{-tId;;4
+cascade;;cas-cade;;k{-sk1d;;2
+cascara;;cas-car-a;;k{-sk#-r@;;3
+case;;case;;k1s;;1
+case;;case;;k1s;;1
+case-hardened;;case--hard-ened;;k1s-"h#-dHd;;3
+case-law;;case--law;;k1s-l$;;2
+casement window;;case-ment win-dow;;"k1s-m@nt-wIn-d5;;4
+caseous;;ca-se-ous;;k1-s7s;;2
+case study;;case stud-y;;k1s-"stV-dI;;3
+cash;;cash;;k{S;;1
+cash;;cash;;k{S;;1
+cashable;;cash-a-ble;;k{-S@-bP;;3
+cash and carry;;cash and car-ry;;"k{S-{nd-k{-rI;;4
+cash desk;;cash desk;;k{S-dEsk;;2
+cash flow;;cash flow;;k{S-fl5;;2
+cashmere;;cash-mere;;k{S-m7R;;2
+cask;;cask;;k#sk;;1
+casket;;cas-ket;;k#-skIt;;2
+cassava;;cas-sa-va;;k@-s#-v@;;3
+casserole;;cas-se-role;;k{-s@-r5l;;3
+cassowary;;cas-so-war-y;;k{-s@-w8-rI;;4
+cast;;cast;;k#st;;1
+castanets;;cas-ta-nets;;"k{-st@-nEts;;3
+castaway;;cast-a-way;;k#st-@-w1;;3
+cast away;;cast a-way;;"k#st-@-w1;;3
+cast down;;cast down;;"k#st-d6n;;2
+castellated;;cas-tel-lat-ed;;k{-st@-l1-tId;;4
+caster sugar;;cast-er sug-ar;;k#-st@-"SU-g@R;;4
+castigate;;cas-ti-gate;;k{-stI-g1t;;3
+castigation;;cas-ti-ga-tion;;"k{-stI-g1-SH;;4
+casting vote;;cast-ing vote;;"k#-stIN-v5t;;3
+cast-iron;;cast--i-ron;;"k#st-2-@n;;3
+cast iron;;cast i-ron;;"k#st-2-@n;;3
+castle;;cas-tle;;k#-sP;;2
+castoff;;cast-off;;k#st-Qf;;2
+cast off;;cast off;;"k#st-Qf;;2
+cast on;;cast on;;"k#st-Qn;;2
+castration;;cas-tra-tion;;k{s-tr1-SH;;3
+casual;;cas-u-al;;k{-Z9l;;2
+casualness;;cas-u-al-ness;;k{-Z9l-nIs;;3
+casuistic;;cas-u-is-tic;;"k{-zjU-I-stIk;;4
+casus belli;;ca-sus bel-li;;"k#-sUs-bE-li;;4
+cat;;cat;;k{t;;1
+cataclysm;;cat-a-clysm;;k{-t@-klI-z@m;;4
+cataclysmic;;cat-a-clys-mic;;"k{-t@-klIz-mIk;;4
+Catalan;;Cat-a-lan;;k{-t@-l{n;;3
+Catalan;;Cat-a-lan;;k{-t@-l{n;;3
+catalepsy;;cat-a-lep-sy;;k{-t@-lEp-sI;;4
+cataleptic;;cat-a-lep-tic;;"k{-t@-lEp-tIk;;4
+cataleptic;;cat-a-lep-tic;;"k{-t@-lEp-tIk;;4
+catalpa;;ca-tal-pa;;k@-t{l-p@;;3
+catamaran;;cat-a-ma-ran;;"k{-t@-m@-r{n;;4
+cat-and-mouse;;cat--and--mouse;;"k{t-{nd-m6s;;3
+catapult;;cat-a-pult;;k{-t@-pVlt;;3
+cataract;;cat-a-ract;;k{-t@-r{kt;;3
+catarrh;;ca-tarrh;;k@-t#R;;2
+catastrophically;;cat-a-stroph-i-cal-ly;;"k{-t@-strQ-fI-k@-lI;;6
+catatonic;;cat-a-ton-ic;;"k{-t@-tQ-nIk;;4
+catcall;;cat-call;;k{t-k$l;;2
+catcher;;catch-er;;k{-J@R;;2
+catchily;;catch-i-ly;;k{-JI-lI;;3
+catching;;catch-ing;;k{-JIN;;2
+catchment-area;;catch-ment--ar-e-a;;k{J-m@nt-"8-r7;;4
+catch on;;catch on;;"k{J-Qn;;2
+catchup;;catch-up;;k{-J@p;;2
+catch up;;catch up;;"k{J-Vp;;2
+catchword;;catch-word;;k{J-w3d;;2
+catchy;;catch-y;;k{-JI;;2
+catechism;;cat-e-chism;;k{-t@-kI-z@m;;4
+catechize;;cat-e-chize;;k{-tI-k2z;;3
+categorical;;cat-e-gor-i-cal;;"k{-t@-gQ-rI-kP;;5
+categorically;;cat-e-gor-i-cal-ly;;"k{-t@-gQ-rI-k@-lI;;6
+categorize;;cat-e-go-rize;;k{-t@-g@-r2z;;4
+category;;cat-e-go-ry;;k{-t@-g@-rI;;4
+cater for;;ca-ter for;;k1-t@-f$R;;3
+cater to;;ca-ter to;;k1-t@-tu;;3
+caterwaul;;cat-er-waul;;k{-t@-w$l;;3
+caterwaul;;cat-er-waul;;k{-t@-w$l;;3
+catharsis;;ca-thar-sis;;k@-T#-sIs;;3
+cathartic;;ca-thar-tic;;k@-T#-tIk;;3
+cathedral;;ca-the-dral;;k@-Ti-dr@l;;3
+cathode;;cath-ode;;k{-T5d;;2
+Catholic;;Cath-o-lic;;k{-T@-lIk;;3
+Catholic;;Cath-o-lic;;k{-T@-lIk;;3
+Catholicity;;Cath-o-lic-i-ty;;"k{-T5-lI-s@-tI;;5
+catnip;;cat-nip;;k{t-nIp;;2
+cat-o'-nine-tails;;cat--o'--nine--tails;;"k{t-@-n2n-t1lz;;4
+cat's eye;;cat's eye;;k{ts-2;;2
+cat-sleep;;cat--sleep;;k{t-slip;;2
+cat's paw;;cat's paw;;k{ts-p$;;2
+cattily;;cat-ti-ly;;k{-tI-lI;;3
+cattish;;cat-tish;;k{-tIS;;2
+cattle grid;;cat-tle grid;;k{-tP-grId;;3
+catty;;cat-ty;;k{-tI;;2
+catwalk;;cat-walk;;k{t-w$k;;2
+Caucasia;;Cau-ca-sia;;k$-k1-zj@;;3
+Caucasian;;Cau-ca-sian;;k$-k1-zj@n;;3
+caucus;;cau-cus;;k$-k@s;;2
+caucus;;cau-cus;;k$-k@s;;2
+caudal;;cau-dal;;k$-dP;;2
+caudally;;cau-dal-ly;;k$-dP-I;;3
+cauliflower;;cau-li-flow-er;;kQ-lI-"fl6-@R;;4
+causally;;caus-al-ly;;k$-z@-lI;;3
+causative;;caus-a-tive;;k$-z@-tIv;;3
+causative;;caus-a-tive;;k$-z@-tIv;;3
+causative verb;;caus-a-tive verb;;k$-z@-tIv-"v3b;;4
+cause;;cause;;k$z;;1
+causerie;;cau-se-rie;;k5-z@-rI;;3
+causeway;;cause-way;;k$z-w1;;2
+caustic;;caus-tic;;k$-stIk;;2
+caustic;;caus-tic;;k$-stIk;;2
+caustical;;caus-ti-cal;;k$-stI-kP;;3
+cauterize;;cau-ter-ize;;k$-t@-r2z;;3
+caution;;cau-tion;;k$-SH;;2
+caution;;cau-tion;;k$-SH;;2
+cautious;;cau-tious;;k$-S@s;;2
+cautiously;;cau-tious-ly;;k$-S@s-lI;;3
+cavalier;;cav-a-lier;;"k{-v@-l7R;;3
+cavalier;;cav-a-lier;;"k{-v@-l7R;;3
+cavalierly;;cav-a-lier-ly;;"k{-v@-l7-lI;;4
+cave;;cave;;k1v;;1
+caveat emptor;;ca-ve-at emp-tor;;"k{-vI-{t-Emp-t$R;;5
+cave-in;;cave--in;;k1v-In;;2
+caveman;;cave-man;;k1v-m{n;;2
+cavern;;cav-ern;;k{-v@n;;2
+cavernous;;cav-ern-ous;;k{-v@-n@s;;3
+cavernously;;cav-ern-ous-ly;;k{-v@-n@s-lI;;4
+cavity;;cav-i-ty;;k{-v@-tI;;3
+cavity wall;;cav-i-ty wall;;k{-v@-tI-w$l;;4
+caw;;caw;;k$;;1
+cayenne;;cay-enne;;k1-En;;2
+cease-fire;;cease--fire;;"sis-f2-@R;;3
+ceaseless;;cease-less;;sis-lIs;;2
+cedar;;ce-dar;;si-d@R;;2
+cedilla;;ce-dil-la;;sI-dI-l@;;3
+celebrant;;cel-e-brant;;sE-lI-br@nt;;3
+celebrated;;cel-e-brat-ed;;sE-lI-br1-tId;;4
+celerity;;ce-ler-i-ty;;sI-lE-r@-tI;;4
+celery;;cel-er-y;;sE-l@-rI;;3
+celestial;;ce-les-tial;;sI-lE-stj@l;;3
+celibacy;;cel-i-ba-cy;;sE-lI-b@-sI;;4
+cellular;;cel-lu-lar;;sEl-jU-l@R;;3
+celluloid;;cel-lu-loid;;sEl-jU-l4d;;3
+cellulose;;cel-lu-lose;;sEl-jU-l5s;;3
+Celsius;;Cel-si-us;;sEl-s7s;;2
+Celsius;;Cel-si-us;;sEl-s7s;;2
+Celt;;Celt;;kElt;;1
+Celtic;;Celt-ic;;kEl-tIk;;2
+Celtic;;Celt-ic;;kEl-tIk;;2
+censer;;cen-ser;;sEn-s@R;;2
+censorious;;cen-so-ri-ous;;sEn-s$-r7s;;3
+censoriously;;cen-so-ri-ous-ly;;sEn-s$-r7s-lI;;4
+censoriousness;;cen-so-ri-ous-ness;;sEn-s$-r7s-nIs;;4
+censorship;;cen-sor-ship;;sEn-s@-SIp;;3
+censure;;cen-sure;;sEn-S@R;;2
+census;;cen-sus;;sEn-s@s;;2
+cent;;cent;;sEnt;;1
+centavo;;cen-ta-vo;;sEn-t#-v5;;3
+centenary;;cen-te-nar-y;;sEn-ti-n@-rI;;4
+centennial;;cen-ten-ni-al;;sEn-tE-nj@l;;3
+centennially;;cen-ten-ni-al-ly;;sEn-tE-nj@-lI;;4
+centigrade;;cen-ti-grade;;sEn-tI-gr1d;;3
+centime;;cen-time;;sQn-tim;;2
+centipede;;cen-ti-pede;;sEn-tI-pid;;3
+central;;cen-tral;;sEn-tr@l;;2
+central government;;cen-tral gov-ern-ment;;"sEn-tr@l-gV-vH-m@nt;;5
+central heating;;cen-tral heat-ing;;"sEn-tr@l-hi-tIN;;4
+centralism;;cen-tral-ism;;sEn-tr@-lI-z@m;;4
+centralize;;cen-tral-ize;;sEn-tr@-l2z;;3
+centrally;;cen-tral-ly;;sEn-tr@-lI;;3
+central nervous system;;cen-tral nerv-ous sys-tem;;"sEn-tr@l-n3-v@s-"sI-st@m;;6
+centre;;cen-tre;;sEn-t@R;;2
+centre-bit;;cen-tre--bit;;sEn-t@-bIt;;3
+centreboard;;cen-tre-board;;sEn-t@-b$d;;3
+centre forward;;cen-tre for-ward;;"sEn-t@-f$-w@d;;4
+centrepiece;;cen-tre-piece;;sEn-t@-pis;;3
+centric;;cen-tric;;sEn-trIk;;2
+centrifugal;;cen-trif-u-gal;;sEn-trI-fjU-gP;;4
+centrifuge;;cen-tri-fuge;;sEn-trI-fju_;;3
+centripetal;;cen-trip-e-tal;;sEn-trI-pI-tP;;4
+centrist;;cen-trist;;sEn-trIst;;2
+century;;cen-tu-ry;;sEn-JU-rI;;3
+cereal;;ce-re-al;;s7-r7l;;2
+cerebral;;cer-e-bral;;sE-rI-br@l;;3
+cerebrally;;cer-e-bral-ly;;sE-rI-br@-lI;;4
+cerebrate;;cer-e-brate;;sE-rI-br1t;;3
+ceremonial;;cer-e-mo-ni-al;;"sE-rI-m5-nj@l;;4
+ceremonious;;cer-e-mo-ni-ous;;"sE-rI-m5-nj@s;;4
+ceremoniousness;;cer-e-mo-ni-ous-ness;;"sE-rI-m5-nj@s-nIs;;5
+ceremony;;cer-e-mo-ny;;sE-rI-m@-nI;;4
+cerise;;ce-rise;;s@-riz;;2
+cerise;;ce-rise;;s@-riz;;2
+cert;;cert;;s3t;;1
+certain;;cer-tain;;s3-tH;;2
+certificate;;cer-tif-i-cate;;s@-tI-fI-k@t;;4
+certificate;;cer-tif-i-cate;;s@-tI-fI-k1t;;4
+certified;;cer-ti-fied;;s3-tI-f2d;;3
+certified mail;;cer-ti-fied mail;;"s3-tI-f2d-m1l;;4
+certified public accountant;;cer-ti-fied pub-lic ac-count-ant;;"s3-tI-f2d-"pV-blIk-@-k6n-t@nt;;8
+certify;;cer-ti-fy;;s3-tI-f2;;3
+certitude;;cer-ti-tude;;s3-tI-tjud;;3
+cerulean;;ce-ru-le-an;;sI-ru-lj@n;;3
+cervical;;cer-vi-cal;;s@-v2-kP;;3
+cervix;;cer-vix;;s3-vIks;;2
+cesspit;;cess-pit;;sEs-pIt;;2
+cetacean;;ce-ta-cean;;sI-t1-Sj@n;;3
+cf.;;cf.;;k@m-p8R;;2
+Chablis;;Cha-blis;;S{-bli;;2
+cha-cha-cha;;cha--cha--cha;;"J#-J#-J#;;3
+chaconne;;cha-conne;;S@-kQn;;2
+Chad;;Chad;;J{d;;1
+Chadian;;Chad-ian;;J{-d7n;;2
+Chadian;;Chad-ian;;J{-d7n;;2
+chafer;;chaf-er;;J1-f@R;;2
+chaff;;chaff;;J#f;;1
+chaff;;chaff;;J#f;;1
+chaffinch;;chaf-finch;;J{-fInJ;;2
+chafing dish;;chaf-ing dish;;J1-fIN-dIS;;3
+chain;;chain;;J1n;;1
+chain bridge;;chain bridge;;"J1n-brI_;;2
+chain-letter;;chain--let-ter;;J1n-"lE-t@R;;3
+chain reaction;;chain re-ac-tion;;"J1n-rI-{k-SH;;4
+chain saw;;chain saw;;J1n-s$;;2
+chain-smoke;;chain--smoke;;J1n-sm5k;;2
+chain-smoker;;chain--smok-er;;J1n-"sm5-k@R;;3
+chain-store;;chain--store;;J1n-st$R;;2
+chair;;chair;;J8R;;1
+chair-lift;;chair--lift;;J8-lIft;;2
+chairman;;chair-man;;J8-m@n;;2
+chairperson;;chair-per-son;;J8-"p3-sH;;3
+chaise longue;;chaise longue;;"S1z-lQN;;2
+chalet;;cha-let;;S{-l1;;2
+chalice;;chal-ice;;J{-lIs;;2
+chalkiness;;chalk-i-ness;;J$-kI-nIs;;3
+chalkpit;;chalk-pit;;J$k-pIt;;2
+challenge;;chal-lenge;;J{-lIn_;;2
+chambered nautilus;;cham-bered nau-ti-lus;;"J1m-b@d-n$-tI-l@s;;5
+chamber music;;cham-ber mu-sic;;J1m-b@-"mju-zIk;;4
+chamber of commerce;;cham-ber of com-merce;;"J1m-b@-rQv-kQ-m3s;;5
+chamberpot;;cham-ber-pot;;J1m-b@-pQt;;3
+chambers;;cham-bers;;J1m-b@z;;2
+chammy;;cham-my;;S{-mI;;2
+chamois-leather;;cham-ois--leath-er;;S{-mI-"lE-D@R;;4
+champ;;champ;;J{mp;;1
+champaign;;cham-paign;;J{m-p1n;;2
+champion;;cham-pi-on;;J{m-pj@n;;2
+champion;;cham-pi-on;;J{m-pj@n;;2
+chance;;chance;;J#ns;;1
+chance;;chance;;J#ns;;1
+chancellery;;chan-cel-ler-y;;J#n-s@-l@-rI;;4
+chancellor;;chan-cel-lor;;J#n-s@-l@R;;3
+chanciness;;chanc-i-ness;;J#n-sI-nIs;;3
+chancy;;chanc-y;;J#n-sI;;2
+chandelier;;chan-de-lier;;"S{n-d@-l7R;;3
+change;;change;;J1n_;;1
+change;;change;;J1n_;;1
+changeability;;change-a-bil-i-ty;;"J1n-_@-bI-l@-tI;;5
+changeableness;;change-a-ble-ness;;J1n-_@-bP-nIs;;4
+change into;;change in-to;;J1n_-"In-tu;;3
+change of life;;change of life;;"J1n_-Qv-l2f;;3
+channel;;chan-nel;;J{-nP;;2
+channel;;chan-nel;;J{-nP;;2
+chant;;chant;;J#nt;;1
+chanterelle;;chan-te-relle;;"J{n-t@-rEl;;3
+Chanticleer;;Chan-ti-cleer;;"J{n-tI-kl7R;;3
+chaotic;;cha-ot-ic;;k1-Q-tIk;;3
+chapel;;chap-el;;J{-pP;;2
+chaperon;;chap-er-on;;S{-p@-r5n;;3
+chaplaincy;;chap-lain-cy;;J{p-lIn-sI;;3
+chaps;;chaps;;J{ps;;1
+char;;char;;J#R;;1
+charabanc;;char-a-banc;;S{-r@-b{N;;3
+characteristic;;char-ac-ter-is-tic;;"k{-r@k-t@-rI-stIk;;5
+characteristically;;char-ac-ter-is-ti-cal-ly;;"k{-r@k-t@-rI-stI-k@-lI;;7
+characterization;;char-ac-ter-i-za-tion;;"k{-r@k-t@-r2-z1-SH;;6
+characterize;;char-ac-ter-ize;;k{-r@k-t@-r2z;;4
+characterless;;char-ac-ter-less;;k{-r@k-t@-lIs;;4
+charades;;cha-rades;;S@-r#dz;;2
+charged;;charged;;J#_d;;1
+charg#e d'affaires;;char-ge d'af-faires;;"S#-Z1-d{-f8R;;4
+charger;;charg-er;;J#-_@R;;2
+charge-sheet;;charge--sheet;;J#_-Sit;;2
+charge with;;charge with;;J#_-wID;;2
+chariot;;char-i-ot;;J{-r7t;;2
+charismatic;;char-is-mat-ic;;"k{-rIz-m{-tIk;;4
+charitably;;char-i-ta-bly;;J{-r@-t@-blI;;4
+charity;;char-i-ty;;J{-r@-tI;;3
+charity school;;char-i-ty school;;J{-r@-tI-skul;;4
+charlady;;char-la-dy;;J#-"l1-dI;;3
+Charleston;;Charles-ton;;J#l-st@n;;2
+charm;;charm;;J#m;;1
+charm;;charm;;J#m;;1
+charmer;;charm-er;;J#-m@R;;2
+charmingly;;charm-ing-ly;;J#-mIN-lI;;3
+charnel house;;char-nel house;;J#-nP-h6s;;3
+charter-party;;char-ter--par-ty;;J#-t@-"p#-tI;;4
+chartreuse;;char-treuse;;S#-tr3z;;2
+chartreuse;;char-treuse;;S#-tr3z;;2
+chary;;char-y;;J8-rI;;2
+chase;;chase;;J1s;;1
+chase;;chase;;J1s;;1
+chase about;;chase a-bout;;"J1s-@-b6t;;3
+chase after;;chase af-ter;;J1s-"#f-t@R;;3
+chaser;;chas-er;;J1-s@R;;2
+chasm;;chasm;;k{-z@m;;2
+chaste;;chaste;;J1st;;1
+chasten;;chas-ten;;J1-sH;;2
+chastise;;chas-tise;;J{-st2z;;2
+chastity;;chas-ti-ty;;J{-st@-tI;;3
+chastity belt;;chas-ti-ty belt;;J{-st@-tI-bElt;;4
+chat;;chat;;J{t;;1
+chat;;chat;;J{t;;1
+chatterer;;chat-ter-er;;J{-t@-r@R;;3
+chatty;;chat-ty;;J{-tI;;2
+chauffeur;;chauf-feur;;S5-f@R;;2
+chauvinism;;chau-vin-ism;;S5-vI-nI-z@m;;4
+chauvinistically;;chau-vin-is-ti-cal-ly;;"S5-vI-nI-stI-k@-lI;;6
+chaw;;chaw;;J$;;1
+chaw;;chaw;;J$;;1
+cheap;;cheap;;Jip;;1
+cheap;;cheap;;Jip;;1
+cheapjack;;cheap-jack;;Jip-_{k;;2
+cheaply;;cheap-ly;;Jip-lI;;2
+cheapness;;cheap-ness;;Jip-nIs;;2
+cheapskate;;cheap-skate;;Jip-sk1t;;2
+check;;check;;JEk;;1
+checked;;checked;;JEkt;;1
+checker;;check-er;;JE-k@R;;2
+checkerboard;;check-er-board;;JE-k@-b$d;;3
+checklist;;check-list;;JEk-"lIst;;2
+checkmate;;check-mate;;JEk-m1t;;2
+check off;;check off;;"JEk-Qf;;2
+checkout;;check-out;;JEk-6t;;2
+check out;;check out;;"JEk-6t;;2
+checkpoint;;check-point;;JEk-p4nt;;2
+checkrail;;check-rail;;JEk-r1l;;2
+checkrein;;check-rein;;JEk-r1n;;2
+checkup;;check-up;;JEk-Vp;;2
+cheek;;cheek;;Jik;;1
+cheek;;cheek;;Jik;;1
+cheekbone;;cheek-bone;;Jik-b5n;;2
+cheekily;;cheek-i-ly;;Ji-kI-lI;;3
+cheep;;cheep;;Jip;;1
+cheer;;cheer;;J7R;;1
+cheerfulness;;cheer-ful-ness;;J7-fUl-nIs;;3
+cheerily;;cheer-i-ly;;J7-r@-lI;;3
+cheering;;cheer-ing;;J7-rIN;;2
+cheerio;;cheer-i-o;;"J7-rI-5;;3
+cheerless;;cheer-less;;J7-lIs;;2
+cheerlessness;;cheer-less-ness;;J7-lIs-nIs;;3
+cheery;;cheer-y;;J7-rI;;2
+cheesecake;;cheese-cake;;Jiz-k1k;;2
+cheetah;;chee-tah;;Ji-t@;;2
+chef-d'oeuvre;;chef--d'oeu-vre;;"S1-d3-vr@;;3
+chem;;chem;;kE-mI-kP;;3
+chemical;;chem-i-cal;;kE-mI-kP;;3
+chemise;;che-mise;;S@-miz;;2
+chemistry;;chem-is-try;;kE-mI-strI;;3
+chequebook;;cheque-book;;JEk-bUk;;2
+cheque card;;cheque card;;JEk-k#d;;2
+chequer;;cheq-uer;;JE-k@R;;2
+cherish;;cher-ish;;JE-rIS;;2
+cherubic;;che-ru-bic;;JE-ru-bIk;;3
+cherubically;;che-ru-bi-cal-ly;;JE-ru-bI-k@-lI;;5
+chervil;;cher-vil;;J3-vIl;;2
+Cheshire;;Chesh-ire;;JE-S@R;;2
+Cheshire cat;;Chesh-ire cat;;"JE-S@-k{t;;3
+chess;;chess;;JEs;;1
+chessboard;;chess-board;;JEs-b$d;;2
+chessman;;chess-man;;JEs-m{n;;2
+chest;;chest;;JEst;;1
+chesterfield;;ches-ter-field;;JE-st@-fild;;3
+chestnut;;chest-nut;;JEs-nVt;;2
+chest of drawers;;chest of draw-ers;;"JEst-Qv-dr$z;;3
+chevalier;;chev-a-lier;;"SE-v@-l7R;;3
+chevron;;chev-ron;;SE-vr@n;;2
+chew;;chew;;Ju;;1
+chewing-gum;;chew-ing--gum;;Ju-IN-gVm;;3
+Chianti;;Chi-an-ti;;kI-{n-tI;;3
+Chianti;;Chi-an-ti;;kI-{n-tI;;3
+chiaroscuro;;chi-a-ro-scu-ro;;kI-"#-r@-sk9-r5;;5
+chic;;chic;;Sik;;1
+Chicano;;Chi-ca-no;;JI-k#-n5;;3
+chichi;;chi-chi;;Si-Si;;2
+chick;;chick;;JIk;;1
+chicken;;chick-en;;JI-kIn;;2
+chicken;;chick-en;;JI-kIn;;2
+chickenfeed;;chick-en-feed;;JI-kIn-fid;;3
+chickenhearted;;chick-en-heart-ed;;JI-kIn-"h#-tId;;4
+chicle;;chic-le;;JI-k@l;;2
+chicly;;chic-ly;;JI-klI;;2
+chicory;;chic-o-ry;;JI-k@-rI;;3
+chief inspector;;chief in-spec-tor;;"Jif-In-spEk-t@R;;4
+chief justice;;chief jus-tice;;"Jif-_V-stIs;;3
+chieftain;;chief-tain;;Jif-t@n;;2
+chieftainship;;chief-tain-ship;;Jif-t@n-SIp;;3
+chiffonier;;chif-fo-nier;;"SI-f@-n7R;;3
+chigger;;chig-ger;;JI-g@R;;2
+chignon;;chi-gnon;;Sin-jQn;;2
+chigoe;;chig-oe;;JI-g5;;2
+chihuahua;;chi-hua-hua;;JI-w#-w@;;3
+child;;child;;J2ld;;1
+child's-play;;child's--play;;J2ldz-pl1;;2
+Chilean;;Chi-le-an;;JI-l7n;;2
+chill;;chill;;JIl;;1
+chill;;chill;;JIl;;1
+chilliness;;chil-li-ness;;JI-lI-nIs;;3
+chilly;;chil-ly;;JI-lI;;2
+chime;;chime;;J2m;;1
+chime in;;chime in;;"J2m-In;;2
+chimeric;;chi-mer-ic;;k2-mE-rIk;;3
+chimneybreast;;chim-ney-breast;;JIm-nI-brEst;;3
+chimneypiece;;chim-ney-piece;;JIm-nI-pis;;3
+chimneystack;;chim-ney-stack;;JIm-nI-st{k;;3
+chimneysweeper;;chim-ney-sweep-er;;JIm-nI-"swi-p@R;;4
+chimp;;chimp;;JImp;;1
+chimpanzee;;chim-pan-zee;;"JIm-p@n-zi;;3
+china;;chi-na;;J2-n@;;2
+china-closet;;chi-na--clos-et;;J2-n@-"klQ-zIt;;4
+chinaware;;chi-na-ware;;J2-n@-w8R;;3
+chinchilla;;chin-chil-la;;JIn-JI-l@;;3
+chine;;chine;;J2n;;1
+Chinese;;Chin-ese;;"J2-niz;;2
+Chinese;;Chin-ese;;"J2-niz;;2
+Chinese chequers;;Chin-ese cheq-uers;;"J2-niz-JE-k@z;;4
+chip;;chip;;JIp;;1
+chip;;chip;;JIp;;1
+chipmunk;;chip-munk;;JIp-mVNk;;2
+Chippendale;;Chip-pen-dale;;JI-p@n-d1l;;3
+Chippendale;;Chip-pen-dale;;JI-p@n-d1l;;3
+Chippendale;;Chip-pen-dale;;JI-p@n-d1l;;3
+Chipper;;Chip-per;;JI-p@R;;2
+chiropodist;;chi-rop-o-dist;;kI-rQ-p@-dIst;;4
+chiropody;;chi-rop-o-dy;;kI-rQ-p@-dI;;4
+chirp;;chirp;;J3p;;1
+chirp;;chirp;;J3p;;1
+chirpily;;chirp-i-ly;;J3-pI-lI;;3
+chirrup;;chir-rup;;JI-r@p;;2
+chisel;;chis-el;;JI-zP;;2
+chisel;;chis-el;;JI-zP;;2
+chivalrous;;chiv-al-rous;;SI-vP-r@s;;3
+chivalrously;;chiv-al-rous-ly;;SI-vP-r@s;;3
+chivalry;;chiv-al-ry;;SI-vP-rI;;3
+chloric;;chlo-ric;;kl$-rIk;;2
+chloride;;chlo-ride;;kl$-r2d;;2
+chlorinate;;chlo-rin-ate;;kl$-rI-n1t;;3
+chloroform;;chlo-ro-form;;klQ-r@-f$m;;3
+choc;;choc;;JQk;;1
+choc-bar;;choc--bar;;JQk-b#R;;2
+chock-a-block;;chock--a--block;;"JQ-k@-blQk;;3
+chock-a-block;;chock--a--block;;"JQ-k@-blQk;;3
+chocolate;;choc-o-late;;JQ-k@-l@t;;3
+chocolate;;choc-o-late;;JQ-k@-l@t;;3
+chocolate #eclair;;choc-o-late e-clair;;"JQ-k@-l@t-1-kl8R;;5
+choice;;choice;;J4s;;1
+choice;;choice;;J4s;;1
+choicely;;choice-ly;;J4s-lI;;2
+choiceness;;choice-ness;;J4s-nIs;;2
+choir;;choir;;kw2-@R;;2
+choirmaster;;choir-mas-ter;;kw2-@-"m#-st@R;;4
+choir screen;;choir screen;;kw2-@-skrin;;3
+choke;;choke;;J5k;;1
+choke;;choke;;J5k;;1
+choke down;;choke down;;"J5k-d6n;;2
+choker;;chok-er;;J5-k@R;;2
+choleric;;chol-er-ic;;kQ-l@-rIk;;3
+cholerically;;chol-er-i-cal-ly;;kQ-l@-rI-k@-lI;;5
+cholesterol;;cho-les-ter-ol;;k@-lEs-t@-rQl;;4
+choosy;;choos-y;;Ju-zI;;2
+chop;;chop;;JQp;;1
+chop;;chop;;JQp;;1
+chop;;chop;;JQp;;1
+chop-chop;;chop--chop;;JQp-JQp;;2
+chop down;;chop down;;"JQp-d6n;;2
+chopfallen;;chop-fall-en;;JQp-"f$-l@n;;3
+chophouse;;chop-house;;JQp-h6s;;2
+chop off;;chop off;;"JQp-Qf;;2
+chopper;;chop-per;;JQ-p@R;;2
+choppers;;chop-pers;;JQ-p@z;;2
+choppiness;;chop-pi-ness;;JQ-pI-nIs;;3
+chop suey;;chop su-ey;;"JQp-su-I;;3
+chorale;;cho-rale;;kQ-r#l;;2
+chore;;chore;;J$R;;1
+choreographer;;cho-re-og-ra-pher;;"kQ-rI-Q-gr@-f@R;;5
+choreography;;cho-re-og-ra-phy;;"kQ-rI-Q-gr@-fI;;5
+chorister;;chor-is-ter;;kQ-rI-st@R;;3
+chorus;;cho-rus;;k$-r@s;;2
+chorus;;cho-rus;;k$-r@s;;2
+chorus-girl;;cho-rus--girl;;k$-r@s-g3l;;3
+Christ;;Christ;;kr2st;;1
+Christ;;Christ;;kr2st;;1
+christen;;chris-ten;;krI-sH;;2
+Christendom;;Chris-ten-dom;;kr2st-d@m;;2
+Christian;;Chris-tian;;krIs-J@n;;2
+Christian era;;Chris-tian e-ra;;"krIs-J@n-7-r@;;4
+Christian Scientist;;Chris-tian Sci-en-tist;;"krIs-J@n-s2-@n-tIst;;5
+Christmas;;Christ-mas;;krIs-m@s;;2
+Christmas-box;;Christ-mas--box;;krIs-m@s-bQks;;3
+Christmas cracker;;Christ-mas crack-er;;"krIs-m@s-kr{-k@R;;4
+Christmas pudding;;Christ-mas pud-ding;;"krIs-m@s-pU-dIN;;4
+Christmastime;;Christ-mas-time;;krIs-m@s-t2m;;3
+chromatic;;chro-mat-ic;;kr5-m{-tIk;;3
+chromosome;;chro-mo-some;;kr5-m@-s5m;;3
+chronic;;chron-ic;;krQ-nIk;;2
+chronological;;chron-o-log-i-cal;;"krQ-n@-lQ-_I-kP;;5
+chronologically;;chron-o-log-i-cal-ly;;"krQ-n@-lQ-_I-k@-lI;;6
+chrysalis;;chrys-a-lis;;krI-s@-lIs;;3
+chubby;;chub-by;;JV-bI;;2
+chuck;;chuck;;JVk;;1
+chuck;;chuck;;JVk;;1
+chuckle;;chuck-le;;JV-kP;;2
+chug;;chug;;JVg;;1
+chukker;;chuk-ker;;JV-k@R;;2
+chunk;;chunk;;JVNk;;1
+chunky;;chunk-y;;JVN-kI;;2
+church;;church;;J3J;;1
+church;;church;;J3J;;1
+Church of England;;Church of Eng-land;;"J3J-Qv-IN-gl@nd;;4
+Church of Scotland;;Church of Scot-land;;"J3J-Qv-skQt-l@nd;;4
+churchwarden;;church-ward-en;;"J3J-w$-dH;;3
+churchyard;;church-yard;;J3J-j#d;;2
+churlish;;churl-ish;;J3-lIS;;2
+churlishness;;churl-ish-ness;;J3-lIS-nIs;;3
+churn;;churn;;J3n;;1
+churn out;;churn out;;"J3n-6t;;2
+chutney;;chut-ney;;JVt-nI;;2
+CI;;CI;;"si-2;;2
+CIA;;CIA;;"si-2-1;;3
+cicada;;ci-ca-da;;sI-k#-d@;;3
+cicatrix;;cic-a-trix;;sI-k@-trIks;;3
+CID;;CID;;"si-2-di;;3
+cider;;ci-der;;s2-d@R;;2
+ciderpress;;ci-der-press;;s2-d@-prEs;;3
+cigar;;ci-gar;;sI-g#R;;2
+cigarette;;cig-a-rette;;"sI-g@-rEt;;3
+cigarette-case;;cig-a-rette--case;;"sI-g@-rEt-k1s;;4
+cigarette lighter;;cig-a-rette light-er;;"sI-g@-rEt-"l2-t@R;;5
+cigar-shaped;;ci-gar--shaped;;sI-g#-S1pt;;3
+C-in-C;;C--in--C;;"si-In-si;;3
+cinch;;cinch;;sInJ;;1
+cinchona;;cin-cho-na;;sIN-k5-n@;;3
+Cinderella;;Cin-der-el-la;;"sIn-d@-rE-l@;;4
+Cinderella;;Cin-der-el-la;;"sIn-d@-rE-l@;;4
+cinders;;cin-ders;;sIn-d@z;;2
+cinema;;cin-e-ma;;sI-n@-m@;;3
+cinematograph;;cin-e-mat-o-graph;;"sI-n@-m{-t@-gr#f;;5
+cinnamon;;cin-na-mon;;sI-n@-m@n;;3
+cinquefoil;;cinque-foil;;sINk-f4l;;2
+circa;;cir-ca;;s3-k@;;2
+circle;;cir-cle;;s3-kP;;2
+circular;;cir-cu-lar;;s3-kjU-l@R;;3
+circular;;cir-cu-lar;;s3-kjU-l@R;;3
+circularize;;cir-cu-lar-ize;;s3-kjU-l@-r2z;;4
+circular saw;;cir-cu-lar saw;;"s3-kjU-l@-s$;;4
+circulate;;cir-cu-late;;s3-kjU-l1t;;3
+circulation;;cir-cu-la-tion;;"s3-kjU-l1-SH;;4
+circulatory system;;cir-cu-la-to-ry sys-tem;;s3-kjU-l@-t@-rI-"sI-st@m;;7
+circumference;;cir-cum-fer-ence;;s@-kVm-f@-r@ns;;4
+circumflex;;cir-cum-flex;;s3-k@m-flEks;;3
+circumlocution;;cir-cum-lo-cu-tion;;"s3-k@m-l@-kju-SH;;5
+circumlocutory;;cir-cum-loc-u-to-ry;;"s3-k@m-lQ-kjU-t@-rI;;6
+circumnavigate;;cir-cum-nav-i-gate;;"s3-k@m-n{-vI-g1t;;5
+circumnavigation;;cir-cum-nav-i-ga-tion;;"s3-k@m-"n{-vI-g1-SH;;6
+circumscribe;;cir-cum-scribe;;s3-k@m-skr2b;;3
+circumspection;;cir-cum-spec-tion;;"s3-k@m-spEk-SH;;4
+circumstantial;;cir-cum-stan-tial;;"s3-k@m-st{n-SP;;4
+circumstantially;;cir-cum-stan-tial-ly;;"s3-k@m-st{n-S@-lI;;5
+circus;;cir-cus;;s3-k@s;;2
+cirrus;;cir-rus;;sI-r@s;;2
+cistern;;cis-tern;;sI-st@n;;2
+citizenship;;cit-i-zen-ship;;sI-tI-zH-SIp;;4
+citrous;;cit-rous;;sI-tr@s;;2
+city-state;;cit-y--state;;"sI-tI-st1t;;3
+civet;;civ-et;;sI-vIt;;2
+civil defence;;civ-il de-fence;;"sI-vP-dI-fEns;;4
+civil disobedience;;civ-il dis-o-be-di-ence;;"sI-vP-dI-s@-bi-dj@ns;;6
+civilian;;ci-vil-ian;;sI-vIl-j@n;;3
+civil law;;civ-il law;;"sI-vP-l$;;3
+civil liberty;;civ-il lib-er-ty;;"sI-vP-lI-b@-tI;;5
+civil list;;civ-il list;;sI-vP-lIst;;3
+civil marriage;;civ-il mar-riage;;"sI-vP-m{-rI_;;4
+civil rights;;civ-il rights;;"sI-vP-r2ts;;3
+civil service;;civ-il serv-ice;;"sI-vP-s3-vIs;;4
+civvy street;;civ-vy street;;sI-vI-strit;;3
+clack;;clack;;kl{k;;1
+clad;;clad;;kl{d;;1
+claim;;claim;;kl1m;;1
+claim;;claim;;kl1m;;1
+claimant;;claim-ant;;kl1-m@nt;;2
+clairvoyant;;clair-voy-ant;;kl8-v4-@nt;;3
+clam;;clam;;kl{m;;1
+clam;;clam;;kl{m;;1
+clambake;;clam-bake;;kl{m-b1k;;2
+clamber;;clam-ber;;kl{m-b@R;;2
+clamber;;clam-ber;;kl{m-b@R;;2
+clamminess;;clam-mi-ness;;kl{-mI-nIs;;3
+clammy;;clam-my;;kl{-mI;;2
+clamour;;clam-our;;kl{-m@R;;2
+clamour;;clam-our;;kl{-m@R;;2
+clamp;;clamp;;kl{mp;;1
+clan;;clan;;kl{n;;1
+clandestine;;clan-des-tine;;kl{n-dE-stIn;;3
+clang;;clang;;kl{N;;1
+clanger;;clang-er;;kl{-N@R;;2
+clangorous;;clang-or-ous;;kl{N-g@-r@s;;3
+clangour;;clang-our;;kl{-N@R;;2
+clank;;clank;;kl{Nk;;1
+clank;;clank;;kl{Nk;;1
+clannishly;;clan-nish-ly;;kl{-nIS-lI;;3
+clansman;;clans-man;;kl{nz-m@n;;2
+clap;;clap;;kl{p;;1
+clapboard;;clap-board;;kl{p-b$d;;2
+clap on;;clap on;;"kl{p-Qn;;2
+clapped-out;;clapped--out;;"kl{pt-6t;;2
+clapper;;clap-per;;kl{-p@R;;2
+claptrap;;clap-trap;;kl{p-tr{p;;2
+claque;;claque;;kl{k;;1
+claret;;clar-et;;kl{-r@t;;2
+clarification;;clar-i-fi-ca-tion;;"kl{-rI-fI-k1-SH;;5
+clarify;;clar-i-fy;;kl{-rI-f2;;3
+clarinettist;;clar-i-net-tist;;"kl{-r@-nE-tIst;;4
+clarion;;clar-i-on;;kl{-r7n;;2
+clarity;;clar-i-ty;;kl{-r@-tI;;3
+clash;;clash;;kl{S;;1
+clasp;;clasp;;kl#sp;;1
+clasp;;clasp;;kl#sp;;1
+class;;class;;kl#s;;1
+class;;class;;kl#s;;1
+class-consciousness;;class--con-scious-ness;;"kl#s-kQn-S@s-nIs;;4
+class-fellow;;class--fel-low;;kl#s-"fE-l5;;3
+classic;;clas-sic;;kl{-sIk;;2
+classical;;clas-si-cal;;kl{-sI-kP;;3
+classicalism;;clas-si-cal-ism;;kl{-sI-k@-lI-z@m;;5
+classically;;clas-si-cal-ly;;kl{-sI-k@-lI;;4
+classicism;;clas-si-cism;;kl{-sI-sI-z@m;;4
+classics;;clas-sics;;kl{-sIks;;2
+classify;;clas-si-fy;;kl{-sI-f2;;3
+classlessness;;class-less-ness;;kl#s-lIs-nIs;;3
+classroom;;class-room;;kl#s-rUm;;2
+class war;;class war;;"kl#s-w$R;;2
+claustrophobia;;claus-tro-pho-bi-a;;"kl$s-tr@-f5-bj@;;4
+claw;;claw;;kl$;;1
+claw-hammer;;claw--ham-mer;;kl$-"h{-m@R;;3
+clayey;;clay-ey;;kl1-I;;2
+clean;;clean;;klin;;1
+clean;;clean;;klin;;1
+clean;;clean;;klin;;1
+clean-bowled;;clean--bowled;;"klin-b5ld;;2
+clean-cut;;clean--cut;;"klin-kVt;;2
+cleaner;;clean-er;;kli-n@R;;2
+cleaner's;;clean-er's;;kli-n@z;;2
+cleanliness;;clean-li-ness;;klEn-lI-nIs;;3
+clean-living;;clean--liv-ing;;"klin-lI-vIN;;3
+cleanly;;clean-ly;;klEn-lI;;2
+clean out;;clean out;;"klin-6t;;2
+cleanse;;cleanse;;klEnz;;1
+clean up;;clean up;;"klin-Vp;;2
+clear;;clear;;kl7R;;1
+clear;;clear;;kl7R;;1
+clearance sale;;clear-ance sale;;kl7-r@ns-s1l;;3
+clear-headedly;;clear--head-ed-ly;;"kl7-hE-dId-lI;;4
+clear-headedness;;clear--head-ed-ness;;"kl7-hE-dId-nIs;;4
+clearing;;clear-ing;;kl7-rIN;;2
+clearly;;clear-ly;;kl7-lI;;2
+clear off;;clear off;;"kl7-rQf;;2
+clear-sighted;;clear--sight-ed;;"kl7-s2-tId;;3
+clear up;;clear up;;"kl7-rVp;;2
+clearway;;clear-way;;kl7-w1;;2
+cleat;;cleat;;klit;;1
+cleavage;;cleav-age;;kli-vI_;;2
+cleave;;cleave;;kliv;;1
+clef;;clef;;klEf;;1
+clematis;;clem-a-tis;;klE-m@-tIs;;3
+clemency;;clem-en-cy;;klE-m@n-sI;;3
+clement;;clem-ent;;klE-m@nt;;2
+Clements;;Clem-ents;;klE-m@nts;;2
+clench;;clench;;klEnJ;;1
+clerestory;;clere-sto-ry;;kl7-"st$-rI;;3
+clergyman;;cler-gy-man;;kl3-_I-m@n;;3
+clerical;;cler-i-cal;;klE-rI-kP;;3
+clerically;;cler-i-cal-ly;;klE-rI-k@-lI;;4
+clerihew;;cler-i-hew;;klE-rI-hju;;3
+clerk;;clerk;;kl#k;;1
+clerk of works;;clerk of works;;"kl#k-Qv-w3ks;;3
+clever;;clev-er;;klE-v@R;;2
+clever dick;;clev-er dick;;klE-v@-dIk;;3
+cleverly;;clev-er-ly;;klE-v@-lI;;3
+clew;;clew;;klu;;1
+clew;;clew;;klu;;1
+click;;click;;klIk;;1
+click;;click;;klIk;;1
+client;;cli-ent;;kl2-@nt;;2
+clientele;;cli-en-tele;;"kli-@n-tEl;;3
+cliff;;cliff;;klIf;;1
+Cliff;;Cliff;;klIf;;1
+climacteric;;cli-mac-ter-ic;;kl2-m{k-t@-rIk;;4
+climatic;;cli-mat-ic;;kl2-m{-tIk;;3
+climatical;;cli-mat-i-cal;;kl2-m{-tI-kP;;4
+climatically;;cli-mat-i-cal-ly;;kl2-m{-tI-k@-lI;;5
+climatology;;cli-ma-tol-o-gy;;"kl2-m@-tQ-l@-_I;;5
+climax;;cli-max;;kl2-m{ks;;2
+climb;;climb;;kl2m;;1
+climb;;climb;;kl2m;;1
+climber;;climb-er;;kl2-m@R;;2
+clinch;;clinch;;klInJ;;1
+clincher;;clinch-er;;klIn-J@R;;2
+cline;;cline;;kl2n;;1
+clinical;;clin-i-cal;;klI-nI-kP;;3
+clinical thermometer;;clin-i-cal ther-mom-e-ter;;"klI-nI-kP-T@-mQ-mI-t@R;;7
+clink;;clink;;klINk;;1
+clink;;clink;;klINk;;1
+clink;;clink;;klINk;;1
+clinker;;clink-er;;klIN-k@R;;2
+clip;;clip;;klIp;;1
+clip;;clip;;klIp;;1
+clipboard;;clip-board;;klIp-b$d;;2
+cliquey;;cli-quey;;kli-kI;;2
+cliquishness;;cli-quish-ness;;kli-kIS-nIs;;3
+cloakroom;;cloak-room;;kl5k-rUm;;2
+clobber;;clob-ber;;klQ-b@R;;2
+clock;;clock;;klQk;;1
+clock-dial;;clock--di-al;;klQk-"d2-@l;;3
+clock-face;;clock--face;;klQk-f1s;;2
+clock-golf;;clock--golf;;"klQk-gQlf;;2
+clock off;;clock off;;"klQk-Qf;;2
+clock out;;clock out;;"klQk-6t;;2
+clock-tower;;clock--tow-er;;klQk-"t6-@R;;3
+clock-watcher;;clock--watch-er;;klQk-"wQ-J@R;;3
+clock-watching;;clock--watch-ing;;klQk-"wQ-JIN;;3
+cloddish;;clod-dish;;klQ-dIS;;2
+clodhopper;;clod-hop-per;;klQd-"hQ-p@R;;3
+clog;;clog;;klQg;;1
+clog dancer;;clog danc-er;;klQg-"d#n-s@R;;3
+clog dancing;;clog danc-ing;;klQg-"d#n-sIN;;3
+cloggy;;clog-gy;;klQ-gI;;2
+clone;;clone;;kl5n;;1
+clop;;clop;;klQp;;1
+clop;;clop;;klQp;;1
+close;;close;;kl5s;;1
+close;;close;;kl5z;;1
+close;;close;;kl5s;;1
+close call;;close call;;"kl5s-k$l;;2
+close-cropped;;close--cropped;;"kl5s-krQpt;;2
+close-cut;;close--cut;;"kl5s-kVt;;2
+closed;;closed;;kl5zd;;1
+closed book;;closed book;;"kl5zd-bUk;;2
+closed circuit;;closed cir-cuit;;"kl5zd-s3-kIt;;3
+closed-door;;closed--door;;"kl5zd-d$R;;2
+closedown;;close-down;;kl5z-d6n;;2
+closed shop;;closed shop;;"kl5zd-SQp;;2
+closefisted;;close-fist-ed;;"kl5s-fI-stId;;3
+close-fitting;;close--fit-ting;;"kl5s-fI-tIN;;3
+close-grained;;close--grained;;"kl5s-gr1nd;;2
+close-hauled;;close--hauled;;"kl5s-h$ld;;2
+close-knit;;close--knit;;"kl5s-nIt;;2
+closeout;;close-out;;kl5z-6t;;2
+close out;;close out;;"kl5z-6t;;2
+close-set;;close--set;;"kl5s-sEt;;2
+closet;;clos-et;;klQ-zIt;;2
+closet;;clos-et;;klQ-zIt;;2
+close with;;close with;;kl5z-wID;;2
+clot;;clot;;klQt;;1
+cloth;;cloth;;klQT;;1
+clothes;;clothes;;kl5Dz;;1
+clothes-hanger;;clothes--hang-er;;kl5Dz-"h{-N@R;;3
+clotheshorse;;clothes-horse;;kl5Dz-h$s;;2
+clothespin;;clothes-pin;;kl5Dz-pIn;;2
+clothes tree;;clothes tree;;kl5Dz-tri;;2
+clothing;;cloth-ing;;kl5-DIN;;2
+cloture;;clo-ture;;kl5-J@R;;2
+cloud;;cloud;;kl6d;;1
+cloudbank;;cloud-bank;;kl6d-b{Nk;;2
+cloudburst;;cloud-burst;;kl6d-b3st;;2
+cloud-capped;;cloud--capped;;kl6d-k{pt;;2
+cloud chamber;;cloud cham-ber;;kl6d-"J1m-b@R;;3
+cloudiness;;cloud-i-ness;;kl6-dI-nIs;;3
+cloudless;;cloud-less;;kl6d-lIs;;2
+clout;;clout;;kl6t;;1
+clove hitch;;clove hitch;;kl5v-hIJ;;2
+cloven foot;;clo-ven foot;;"kl5-vH-fUt;;3
+cloverleaf;;clo-ver-leaf;;kl5-v@-"lif;;3
+clownish;;clown-ish;;kl6-nIS;;2
+clownishly;;clown-ish-ly;;kl6-nIS-lI;;3
+clownishness;;clown-ish-ness;;kl6-nIS-nIs;;3
+clubbable;;club-ba-ble;;klV-b@-bP;;3
+club together;;club to-geth-er;;"klVb-t@-gE-D@R;;4
+cluck;;cluck;;klVk;;1
+clue;;clue;;klu;;1
+clue in;;clue in;;"klu-In;;2
+clump;;clump;;klVmp;;1
+clump;;clump;;klVmp;;1
+clumsiness;;clum-si-ness;;klVm-zI-nIs;;3
+clumsy;;clum-sy;;klVm-zI;;2
+clunk;;clunk;;klVNk;;1
+clutch;;clutch;;klVJ;;1
+clutch;;clutch;;klVJ;;1
+clutch at;;clutch at;;klVJ-{t;;2
+clutches;;clutch-es;;klV-JIz;;2
+cm;;cm;;sEn-tI-"mi-t@R;;4
+Co.;;Co.;;k6n-tI;;2
+coach;;coach;;k5J;;1
+coachbuilder;;coach-build-er;;k5J-"bIl-d@R;;3
+coachman;;coach-man;;k5J-m@n;;2
+coachwork;;coach-work;;k5J-w3k;;2
+coagulant;;co-ag-u-lant;;k5-{-gjU-l@nt;;4
+coagulation;;co-ag-u-la-tion;;k5-"{-gjU-l1-SH;;5
+coalesce;;co-a-lesce;;"k5-@-lEs;;3
+coalface;;coal-face;;k5l-f1s;;2
+coal-gas;;coal--gas;;k5l-g{s;;2
+coalhole;;coal-hole;;k5l-h5l;;2
+coaling-station;;coal-ing--sta-tion;;k5-lIN-"st1-SH;;4
+coalition;;co-a-li-tion;;"k5-@-lI-SH;;4
+coal measure;;coal meas-ure;;k5l-"mE-Z@R;;3
+coalscuttle;;coal-scut-tle;;k5l-"skV-tP;;3
+coal-tar;;coal--tar;;"k5l-t#R;;2
+coarse;;coarse;;k$s;;1
+coarse fish;;coarse fish;;k$s-fIS;;2
+coast;;coast;;k5st;;1
+coast;;coast;;k5st;;1
+coaster;;coast-er;;k5-st@R;;2
+coastguard;;coast-guard;;k5st-g#d;;2
+coastguardsman;;coast-guards-man;;k5st-g#dz-m@n;;3
+coastline;;coast-line;;k5st-l2n;;2
+coastwise;;coast-wise;;k5st-w2z;;2
+coatee;;coat-ee;;k5-ti;;2
+coating;;coat-ing;;k5-tIN;;2
+coat of mail;;coat of mail;;"k5t-Qv-m1l;;3
+coat-tails;;coat--tails;;k5t-t1lz;;2
+coauthor;;co-au-thor;;"k5-$-T@R;;3
+coax;;coax;;k5ks;;1
+cobalt;;co-balt;;k5-b$lt;;2
+cobber;;cob-ber;;kQ-b@R;;2
+cobble;;cob-ble;;kQ-bP;;2
+cobblestone;;cob-ble-stone;;kQ-bP-st5n;;3
+coca;;co-ca;;k5-k@;;2
+Coca-Cola;;Co-ca--Co-la;;"k5-k@-k5-l@;;4
+cochineal;;coch-i-neal;;kQ-JI-nil;;3
+cock;;cock;;kQk;;1
+cock;;cock;;kQk;;1
+cock-a-hoop;;cock--a--hoop;;"kQ-k@-hup;;3
+cockatoo;;cock-a-too;;"kQ-k@-tu;;3
+cocker;;cock-er;;kQ-k@R;;2
+cockerel;;cock-er-el;;kQ-k@-r@l;;3
+cockfight;;cock-fight;;kQk-f2t;;2
+cockfighting;;cock-fight-ing;;kQk-"f2-tIN;;3
+cockleshell;;cock-le-shell;;kQ-kP-SEl;;3
+cockney;;cock-ney;;kQk-nI;;2
+cockroach;;cock-roach;;kQk-r5J;;2
+cocktail;;cock-tail;;kQk-t1l;;2
+cocktail dress;;cock-tail dress;;kQk-t1l-drEs;;3
+cocktail lounge;;cock-tail lounge;;kQk-t1l-l6n_;;3
+cock-up;;cock--up;;kQk-Vp;;2
+coco;;co-co;;k5-k5;;2
+coconut;;co-co-nut;;k5-k@-nVt;;3
+coconut matting;;co-co-nut mat-ting;;"k5-k@-nVt-m{-tIN;;5
+coconut palm;;co-co-nut palm;;k5-k@-nVt-p#m;;4
+coconut shy;;co-co-nut shy;;k5-k@-nVt-S2;;4
+cocoon;;co-coon;;k@-kun;;2
+cocotte;;co-cotte;;kQ-kQt;;2
+coddle;;cod-dle;;kQ-dP;;2
+code;;code;;k5d;;1
+codeine;;co-deine;;k5-din;;2
+codger;;cod-ger;;kQ-_@R;;2
+codify;;cod-i-fy;;k5-dI-f2;;3
+codlin;;cod-lin;;kQd-lIn;;2
+codling;;cod-ling;;kQd-lIN;;2
+cod-liver oil;;cod--liv-er oil;;"kQd-lI-v@-r4l;;4
+coed;;co-ed;;"k5-Ed;;2
+coeducation;;co-ed-u-ca-tion;;"k5-E-dju-k1-SH;;5
+coeducational;;co-ed-u-ca-tion-al;;"k5-E-dju-k1-S@-nP;;6
+coequal;;co-e-qual;;k5-i-kw@l;;3
+coerce;;co-erce;;k5-3s;;2
+coercion;;co-er-cion;;k5-3-SH;;3
+coercively;;co-er-cive-ly;;k5-3-sIv-lI;;4
+coerciveness;;co-er-cive-ness;;k5-3-sIv-nIs;;4
+coeternal;;co-e-ter-nal;;"k5-I-t3-nP;;4
+coeternally;;co-e-ter-nal-ly;;"k5-I-t3-nP-I;;5
+coeval;;co-e-val;;k5-i-vP;;3
+coffee bar;;cof-fee bar;;kQ-fI-b#R;;3
+coffee break;;cof-fee break;;kQ-fI-br1k;;3
+coffee shop;;cof-fee shop;;kQ-fI-SQp;;3
+coffee table;;cof-fee ta-ble;;kQ-fI-"t1-bP;;4
+coffer;;cof-fer;;kQ-f@R;;2
+cofferdam;;cof-fer-dam;;kQ-f@-d{m;;3
+coffers;;cof-fers;;kQ-f@z;;2
+coffin;;cof-fin;;kQ-fIn;;2
+cog;;cog;;kQg;;1
+cogent;;co-gent;;k5-_@nt;;2
+cogitation;;cog-i-ta-tion;;"kQ-_I-t1-SH;;4
+cognate;;cog-nate;;kQg-n1t;;2
+cognomen;;cog-no-men;;kQg-n5-mEn;;3
+cogwheel;;cog-wheel;;kQg-wil;;2
+cohabit;;co-hab-it;;k5-h{-bIt;;3
+cohere;;co-here;;k5-h7R;;2
+coherently;;co-her-ent-ly;;k5-h7-r@nt-lI;;4
+cohesion;;co-he-sion;;k5-hi-ZH;;3
+cohesive;;co-he-sive;;k5-hi-sIv;;3
+cohort;;co-hort;;k5-h$t;;2
+coif;;coif;;k4f;;1
+coiffeur;;coif-feur;;kw#-f3R;;2
+coiffured;;coif-fured;;kw#-fj9d;;2
+coign;;coign;;k4n;;1
+coil;;coil;;k4l;;1
+coin;;coin;;k4n;;1
+coincidence;;co-in-ci-dence;;k5-In-sI-d@ns;;4
+coincidental;;co-in-ci-den-tal;;k5-"In-sI-dEn-tP;;5
+coincidentally;;co-in-ci-den-tal-ly;;k5-"In-sI-dEn-t@-lI;;6
+coir;;coir;;k4-@R;;2
+coital;;co-i-tal;;k5-I-tP;;3
+coitus;;co-i-tus;;k5-I-t@s;;3
+coke;;coke;;k5k;;1
+cold;;cold;;k5ld;;1
+cold;;cold;;k5ld;;1
+cold chisel;;cold chis-el;;"k5ld-JI-zP;;3
+cold fish;;cold fish;;"k5ld-fIS;;2
+cold-hearted;;cold--heart-ed;;"k5ld-h#-tId;;3
+cold saw;;cold saw;;k5ld-s$;;2
+cold-shoulder;;cold--shoul-der;;"k5ld-S5l-d@R;;3
+cold storage;;cold stor-age;;"k5ld-st$-rI_;;3
+cold war;;cold war;;"k5ld-w$R;;2
+coley;;co-ley;;k5-lI;;2
+colic;;col-ic;;kQ-lIk;;2
+colicky;;col-ick-y;;kQ-lI-kI;;3
+collaborationism;;col-lab-o-ra-tion-ism;;k@-"l{-b@-r1-S@-nI-z@m;;7
+collaborator;;col-lab-o-ra-tor;;k@-l{-b@-r1-t@R;;5
+collage;;col-lage;;kQ-l#Z;;2
+collar;;col-lar;;kQ-l@R;;2
+collation;;col-la-tion;;k@-l1-SH;;3
+collect;;col-lect;;k@-lEkt;;2
+collect;;col-lect;;k@-lEkt;;2
+collective;;col-lec-tive;;k@-lEk-tIv;;3
+collective bargaining;;col-lec-tive bar-gain-ing;;k@-"lEk-tIv-b#-gI-nIN;;6
+collectively;;col-lec-tive-ly;;k@-lEk-tIv-lI;;4
+collective noun;;col-lec-tive noun;;k@-"lEk-tIv-n6n;;4
+collector's piece;;col-lec-tor's piece;;k@-lEk-t@z-pis;;4
+college;;col-lege;;kQ-lI_;;2
+college pudding;;col-lege pud-ding;;"kQ-lI_-pU-dIN;;4
+collide;;col-lide;;k@-l2d;;2
+collie;;col-lie;;kQ-lI;;2
+collier;;col-lier;;kQ-l7R;;2
+Collins;;Col-lins;;kQ-lInz;;2
+colloquial;;col-lo-qui-al;;k@-l5-kw7l;;3
+colloquialism;;col-lo-qui-al-ism;;k@-l5-kw7-lI-z@m;;5
+colloquially;;col-lo-qui-al-ly;;k@-l5-kw7-lI;;4
+colloquy;;col-lo-quy;;kQ-l@-kwI;;3
+collusion;;col-lu-sion;;k@-lu-ZH;;3
+collywobbles;;col-ly-wob-bles;;kQ-lI-"wQ-bPz;;4
+cologne;;co-logne;;k@-l5n;;2
+Colombian;;Co-lom-bi-an;;k@-lQm-b7n;;3
+Colombian;;Co-lom-bi-an;;k@-lQm-b7n;;3
+colon;;co-lon;;k5-l@n;;2
+Colonel Blimp;;Colo-nel Blimp;;"k3-nP-blImp;;3
+colonialism;;co-lo-ni-al-ism;;k@-l5-n7-lI-z@m;;5
+Colonies;;Col-o-nies;;kQ-l@-nIz;;3
+colonist;;col-o-nist;;kQ-l@-nIst;;3
+colonization;;col-o-ni-za-tion;;"kQ-l@-n2-z1-SH;;5
+colonize;;col-o-nize;;kQ-l@-n2z;;3
+colony;;col-o-ny;;kQ-l@-nI;;3
+Colorado beetle;;Col-o-rad-o bee-tle;;"kQ-l@-r#-d5-bi-tP;;6
+coloratura;;col-o-ra-tu-ra;;"kQ-l@-r@-t9-r@;;5
+color line;;col-or line;;kV-l@-l2n;;3
+colossally;;co-los-sal-ly;;k@-lQ-s@-lI;;4
+colour;;col-our;;kV-l@R;;2
+colour;;col-our;;kV-l@R;;2
+colourfast;;col-our-fast;;kV-l@-f#st;;3
+colourful;;col-our-ful;;kV-l@-fUl;;3
+colour in;;col-our in;;"kV-l@-rIn;;3
+colours;;col-ours;;kV-l@z;;2
+colour scheme;;col-our scheme;;kV-l@-skim;;3
+colt;;colt;;k5lt;;1
+Colt;;Colt;;k5lt;;1
+coltish;;colt-ish;;k5l-tIS;;2
+coltishly;;colt-ish-ly;;k5l-tIS-lI;;3
+coltishness;;colt-ish-ness;;k5l-tIS-nIs;;3
+column;;col-umn;;kQ-l@m;;2
+columnist;;col-um-nist;;kQ-l@m-nIst;;3
+coma;;co-ma;;k5-m@;;2
+comb;;comb;;k5m;;1
+comb;;comb;;k5m;;1
+comb.;;comb.;;"kQm-bI-n1-SH;;4
+combat;;com-bat;;kQm-b{t;;2
+combat;;com-bat;;kQm-b{t;;2
+combatant;;com-bat-ant;;kQm-b@-t@nt;;3
+combative;;com-bat-ive;;kQm-b@-tIv;;3
+combatively;;com-bat-ive-ly;;kQm-b@-tIv-lI;;4
+comber;;comb-er;;k5-m@R;;2
+comb.form;;comb.form;;k@m-b2-nIN-f$m;;4
+combination;;com-bi-na-tion;;"kQm-bI-n1-SH;;4
+combinatorial;;com-bi-na-to-ri-al;;"kQm-bI-n@-t$-r7l;;5
+combine;;com-bine;;kQm-b2n;;2
+combine;;com-bine;;k@m-b2n;;2
+combined operations;;com-bined op-e-ra-tions;;k@m-"b2nd-Q-p@-r1-SHz;;6
+combining form;;com-bin-ing form;;k@m-b2-nIN-f$m;;4
+comb-out;;comb--out;;k5m-6t;;2
+combust;;com-bust;;k@m-bVst;;2
+combustible;;com-bus-ti-ble;;k@m-bV-st@-bP;;4
+combustion;;com-bus-tion;;k@m-bVs-J@n;;3
+come;;come;;kVm;;1
+come;;come;;kVm;;1
+come about;;come a-bout;;"kVm-@-b6t;;3
+come across;;come a-cross;;"kVm-@-krQs;;3
+come again;;come a-gain;;"kVm-@-gEn;;3
+come along;;come a-long;;"kVm-@-lQN;;3
+come around;;come a-round;;"kVm-@-r6nd;;3
+come at;;come at;;kVm-{t;;2
+comeback;;come-back;;kVm-b{k;;2
+come back;;come back;;"kVm-b{k;;2
+come between;;come be-tween;;kVm-bI-"twin;;3
+Comecon;;Comecon;;kQ-mI-kQn;;3
+comedienne;;co-me-di-enne;;k@-"mi-dI-En;;4
+comedown;;come-down;;kVm-d6n;;2
+comedy;;com-e-dy;;kQ-m@-dI;;3
+come for;;come for;;kVm-f$R;;2
+come in;;come in;;"kVm-In;;2
+come in on;;come in on;;"kVm-In-Qn;;3
+come into;;come in-to;;kVm-"In-tu;;3
+comely;;come-ly;;kVm-lI;;2
+come off;;come off;;"kVm-Qf;;2
+come on;;come on;;"kVm-Qn;;2
+come-on;;come--on;;kVm-Qn;;2
+come out;;come out;;"kVm-6t;;2
+come out for;;come out for;;"kVm-6t-f$R;;3
+come out in;;come out in;;"kVm-6t-In;;3
+come out with;;come out with;;"kVm-6t-wID;;3
+come over;;come o-ver;;kVm-"5-v@R;;3
+comer;;com-er;;kV-m@R;;2
+come round;;come round;;"kVm-r6nd;;2
+come through;;come through;;kVm-Tru;;2
+come under;;come un-der;;kVm-"Vn-d@R;;3
+come up against;;come up a-gainst;;"kVm-Vp-@-"gEnst;;4
+come-uppance;;come--up-pance;;kVm-V-p@ns;;3
+comfort;;com-fort;;kVm-f@t;;2
+comfortable;;com-fort-a-ble;;kVm-f@-t@-bP;;4
+comfortably;;com-fort-a-bly;;kVm-f@-t@-blI;;4
+comforter;;com-fort-er;;kVm-f@-t@R;;3
+comfortless;;com-fort-less;;kVm-f@t-lIs;;3
+comfy;;com-fy;;kVm-fI;;2
+comical;;com-i-cal;;kQ-mI-k@l;;3
+comic book;;com-ic book;;kQ-mIk-bUk;;3
+comics;;com-ics;;kQ-mIks;;2
+comic strip;;com-ic strip;;kQ-mIk-strIp;;3
+Cominform;;Com-in-form;;k$-mIn-f$m;;3
+coming;;com-ing;;kV-mIN;;2
+coming-out;;com-ing--out;;"k$-mIN-6t;;3
+Comintern;;Com-in-tern;;kQ-mIn-t3n;;3
+comity of nations;;com-i-ty of na-tions;;"kQ-mI-tI-Qv-n1-SHz;;6
+command;;com-mand;;k@-m#nd;;2
+command;;com-mand;;k@-m#nd;;2
+commandant;;com-man-dant;;"kQ-m@n-d{nt;;3
+commandeer;;com-man-deer;;"kQ-m@n-d7R;;3
+commander;;com-mand-er;;k@-m#n-d@R;;3
+commander in chief;;com-mand-er in chief;;k@-"m#n-d@-rIn-Jif;;5
+commandment;;com-mand-ment;;k@-m#nd-m@nt;;3
+command module;;com-mand mod-ule;;k@-m#nd-"mQ-djul;;4
+commando;;com-man-do;;k@-m#n-d5;;3
+command paper;;com-mand pa-per;;k@-m#nd-"p1-p@R;;4
+command post;;com-mand post;;k@-m#nd-p5st;;3
+commemorate;;com-mem-o-rate;;k@-mE-m@-r1t;;4
+commemoration;;com-mem-o-ra-tion;;k@-"mE-m@-r1-SH;;5
+commence;;com-mence;;k@-mEns;;2
+commencement;;com-mence-ment;;k@-mEn-sm@nt;;3
+commendation;;com-men-da-tion;;"kQ-mEn-d1-SH;;4
+commensurably;;com-men-su-ra-bly;;k@-mEn-S@-r@-blI;;5
+commensurate;;com-men-su-rate;;k@-mEn-S@-r@t;;4
+comment;;com-ment;;kQ-mEnt;;2
+commentate;;com-men-tate;;kQ-m@n-t1t;;3
+commerce;;com-merce;;kQ-m3s;;2
+commercial;;com-mer-cial;;k@-m3-SP;;3
+commercialism;;com-mer-cial-ism;;k@-m3-S@-lI-z@m;;5
+commercialize;;com-mer-cial-ize;;k@-m3-S@-l2z;;4
+commercial traveller;;com-mer-cial trav-el-ler;;k@-"m3-SP-tr{v-l@R;;5
+commingle;;com-min-gle;;kQ-mIN-gP;;3
+commiseration;;com-mis-er-a-tion;;k@-"mI-z@-r1-SH;;5
+commissar;;com-mis-sar;;kQ-mI-s#R;;3
+commission;;com-mis-sion;;k@-mI-SH;;3
+commissioner;;com-mis-sion-er;;k@-mI-SH-@R;;4
+commitment;;com-mit-ment;;k@-mIt-m@nt;;3
+committal;;com-mit-tal;;k@-mI-tP;;3
+committed;;com-mit-ted;;k@-mI-tId;;3
+committee;;com-mit-tee;;k@-mI-tI;;3
+committeeman;;com-mit-tee-man;;k@-mI-tI-m@n;;4
+committee stage;;com-mit-tee stage;;k@-mI-tI-st1_;;4
+committeewoman;;com-mit-tee-wom-an;;k@-mI-tI-"wU-m@n;;5
+commodore;;com-mo-dore;;kQ-m@-d$R;;3
+commonage;;com-mon-age;;kQ-m@-nI_;;3
+commonalty;;com-mon-al-ty;;kQ-m@-nP-tI;;4
+common carrier;;com-mon car-ri-er;;"kQ-m@n-k{-r7R;;4
+commoner;;com-mon-er;;kQ-m@-n@R;;3
+common ground;;com-mon ground;;"kQ-m@n-gr6nd;;3
+common land;;com-mon land;;kQ-m@n-l{nd;;3
+common law;;com-mon law;;"kQ-m@n-l$;;3
+common-law;;com-mon--law;;"kQ-m@n-l$;;3
+Common Market;;Com-mon Mar-ket;;"kQ-m@n-m#-kIt;;4
+commonness;;com-mon-ness;;kQ-m@-nIs;;3
+common-or-garden;;com-mon--or--gar-den;;"kQ-m@-n@-g#-dH;;5
+common-or-garden-variety;;com-mon--or--gar-den--va-ri-e-ty;;"kQ-m@-n@-g#-dH-v@-r2-@-tI;;9
+commons;;com-mons;;kQ-m@nz;;2
+Commons;;Com-mons;;kQ-m@nz;;2
+commonwealth;;com-mon-wealth;;kQ-m@n-wElT;;3
+commotion;;com-mo-tion;;k@-m5-SH;;3
+communal;;com-mu-nal;;kQ-mjU-nP;;3
+communicably;;com-mu-ni-ca-bly;;k@-mju-nI-k@-blI;;5
